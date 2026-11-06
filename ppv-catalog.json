@@ -799,7 +799,7 @@
     "uri": "laliga/2026-11-06/sev-ala",
     "starts_at": 1793995200,
     "ends_at": 1794004200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-06/sev-ala"
   },
   {
@@ -810,7 +810,7 @@
     "uri": "pl/2026-11-06/eve-cov",
     "starts_at": 1793995200,
     "ends_at": 1794004200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-06/eve-cov"
   },
   {
@@ -821,7 +821,7 @@
     "uri": "efl-championship/2026-11-06/der-bol",
     "starts_at": 1793995200,
     "ends_at": 1794004200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-06/der-bol"
   },
   {
