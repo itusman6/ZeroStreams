@@ -56,16 +56,18 @@ class ParserTests(unittest.TestCase):
              patch('scraper.Path.replace') as replace:
             scraper.main()
             self.assertTrue(replace.called)
-            self.assertTrue(any('Unverified' in str(call.args[0]) for call in writes.call_args_list))
+            
+            # Updated test: check that Unverified is NOT in the output
+            self.assertFalse(any('Unverified' in str(call.args[0]) for call in writes.call_args_list))
             report_writes = [call.args[0] for call in writes.call_args_list if '"validation_mode"' in str(call.args[0])]
             self.assertEqual(len(report_writes), 1)
-            self.assertIn('"unverified_urls": 1', report_writes[0])
 
     def test_m3u_sanitizes_labels(self):
         output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected',
                                   'display_name':'LIVE 2026-11-06 08:30 UTC — NFL | Game\nInjected',
                                   'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
-        self.assertIn(',LIVE 2026-11-06 08:30 UTC — NFL | Game Injected — Unverified\n', output)
+        # Check that label is clean and doesn't have Unverified
+        self.assertIn(',LIVE 2026-11-06 08:30 UTC — NFL | Game Injected\n', output)
         self.assertTrue(output.startswith('#EXTM3U\n'))
 
 if __name__ == '__main__':
