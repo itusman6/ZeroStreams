@@ -1,10 +1,9 @@
 {
-  "updated_utc": "2026-11-06T16:57:38.946255+00:00",
+  "updated_utc": "2026-11-06T17:02:51.920352+00:00",
   "pages": 42,
   "candidate_urls": 29,
   "live_urls": 0,
   "published_urls": 29,
-  "unverified_urls": 29,
   "verified_urls": 0,
   "not_checked_urls": 29,
   "validation_mode": "discovery_only",
