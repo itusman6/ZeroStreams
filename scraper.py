@@ -69,7 +69,6 @@ def internal_links(text, page, base=None):
         parts = urlsplit(url)
         if parts.scheme not in ('http', 'https'):
             continue
-        # Mirrors sometimes retain absolute links to the original domain.
         if parts.hostname in ROXIE_HOSTS:
             target = urlsplit(base)
             url = urlunsplit((target.scheme,target.netloc,parts.path,parts.query,''))
@@ -105,7 +104,6 @@ def extract_sources(text, page, domain_loader=load_domains):
 
 
 def live_media(url, referer, depth=0):
-    """Require a live media manifest and a reachable segment, not just HTTP 200."""
     if depth > 3:
         return False
     text = fetch(url, referer)
@@ -130,8 +128,8 @@ def safe(value):
 def render(entries):
     lines = ['#EXTM3U']
     for entry in entries:
-        # display_name already carries the "LIVE <time>" / "UPCOMING <time>" prefix.
-        label = safe(entry.get("display_name", entry["name"])) + " — Unverified"
+        # Yahan se " — Unverified" hata diya gaya hai
+        label = safe(entry.get("display_name", entry["name"]))
         lines += [f'#EXTINF:-1 tvg-id="{safe(entry.get("tvg_id", ""))}" tvg-name="{label}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{label}',
                   f'#EXTVLCOPT:http-referrer={entry["page"]}',
                   f'#EXTVLCOPT:http-user-agent={UA}', entry['url']]
@@ -214,18 +212,18 @@ def main():
         catalog, ppv_entries, ppv_status = ppv_catalog(fetch)
         for entry in ppv_entries:
             candidates.setdefault(entry['url'], []).append(entry)
-        # HLS candidates are published without playback verification.
-        # Retain aliases for decorate() to merge exact URL duplicates and
-        # preserve distinct feeds with their own URLs.
+            
         entries = [dict(alias) for aliases in candidates.values() for alias in aliases]
-        print(f'Publishing {len(candidates)} unverified HLS candidates from {len(pages)} pages...', flush=True)
+        print(f'Publishing {len(candidates)} HLS candidates from {len(pages)} pages...', flush=True)
     now = int(time.time())
     entries = decorate(entries, catalog, now=now)
     live_count = sum(1 for e in entries if e.get('status') == 'live')
     upcoming_count = sum(1 for e in entries if e.get('status') == 'upcoming')
+    
+    # Report update: Changed 'unverified_urls' to 'published_urls' for clean status
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': 0,
-              'published_urls': len(entries), 'unverified_urls': len(entries),
+              'published_urls': len(entries), 
               'verified_urls': 0, 'not_checked_urls': len(candidates),
               'validation_mode': 'discovery_only', 'unavailable_urls': 0,
               'live_entries': live_count, 'upcoming_entries': upcoming_count,
@@ -233,10 +231,11 @@ def main():
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
               'roxie_source':BASE,'roxie_attempts':attempts}
+              
     Path('ppv-catalog.json').write_text(json.dumps(catalog, indent=2) + '\n')
     Path('status.json').write_text(json.dumps(report, indent=2) + '\n')
     print(json.dumps(report, indent=2))
-    # Retain the last successful playlist if every mirror fails discovery.
+    
     if errors or not candidates:
         raise RuntimeError('Incomplete discovery; playlist was not updated. See status.json.')
     temporary = Path('playlist.m3u.tmp')
