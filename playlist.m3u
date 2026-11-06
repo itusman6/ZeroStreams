@@ -59,18 +59,18 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ecc9e293394f8ed3" tvg-name="LIVE 24/7 — Soccer | Toulouse vs Strasbourg" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Toulouse vs Strasbourg
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="LIVE 24/7 — Soccer | Venezia vs Udinese" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Venezia vs Udinese
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.92be2db2de16c1fa" tvg-name="LIVE 24/7 — WWE Smackdown" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",LIVE 24/7 — WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin22.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ecc9e293394f8ed3" tvg-name="LIVE 2026-11-06 19:45 UTC — Soccer | Toulouse vs Strasbourg" tvg-logo="https://static.ppvservices.st/assets/thumb/c1becccf86568b27c6cc615d9668f107-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-06 19:45 UTC — Soccer | Toulouse vs Strasbourg
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="LIVE 2026-11-06 19:45 UTC — Soccer | Venezia vs Udinese" tvg-logo="https://static.ppvservices.st/assets/thumb/3bdbbf60ee6fabbfd4983952704813c8-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-06 19:45 UTC — Soccer | Venezia vs Udinese
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="LIVE 2026-11-06 20:00 UTC — Soccer | Derby County vs Bolton Wanderers" tvg-logo="https://static.ppvservices.st/assets/thumb/731fec14971660797efeada711a625ae-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-06 20:00 UTC — Soccer | Derby County vs Bolton Wanderers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

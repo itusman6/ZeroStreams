@@ -737,28 +737,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Venezia vs Udinese",
-    "poster": "https://static.ppvservices.st/assets/thumb/3bdbbf60ee6fabbfd4983952704813c8-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-06/ven-udi",
-    "starts_at": 1793994300,
-    "ends_at": 1794003300,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-06/ven-udi"
-  },
-  {
-    "name": "Toulouse vs Strasbourg",
-    "poster": "https://static.ppvservices.st/assets/thumb/c1becccf86568b27c6cc615d9668f107-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-06/tou-str",
-    "starts_at": 1793994300,
-    "ends_at": 1794003300,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-06/tou-str"
-  },
-  {
     "name": "Sevilla vs Alav\u00e9s",
     "poster": "https://static.ppvservices.st/assets/thumb/a1d91a517de2615c19204a9f2bf312c7-thumbnail.jpg",
     "tag": "LaLiga",
