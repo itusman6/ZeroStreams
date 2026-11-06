@@ -737,39 +737,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Sevilla vs Alav\u00e9s",
-    "poster": "https://static.ppvservices.st/assets/thumb/a1d91a517de2615c19204a9f2bf312c7-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-06/sev-ala",
-    "starts_at": 1793995200,
-    "ends_at": 1794004200,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-06/sev-ala"
-  },
-  {
-    "name": "Everton vs Coventry City",
-    "poster": "https://static.ppvservices.st/assets/thumb/2e43512085e38e6df8fcf11e3b05b175-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-06/eve-cov",
-    "starts_at": 1793995200,
-    "ends_at": 1794004200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-06/eve-cov"
-  },
-  {
-    "name": "Derby County vs Bolton Wanderers",
-    "poster": "https://static.ppvservices.st/assets/thumb/731fec14971660797efeada711a625ae-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-06/der-bol",
-    "starts_at": 1793995200,
-    "ends_at": 1794004200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-06/der-bol"
-  },
-  {
     "name": "Atl\u00e9tico de San Luis vs FC Ju\u00e1rez",
     "poster": "https://static.ppvservices.st/assets/thumb/f30dce7148ef4e1ee748987ab3991ec6-thumbnail.jpg",
     "tag": "Liga MX",
