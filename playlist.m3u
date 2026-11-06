@@ -71,6 +71,10 @@ https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6a25493183c8de1e" tvg-name="LIVE 24/7 — Soccer | Vitória vs Fluminense" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Vitória vs Fluminense
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="zerostreams.92be2db2de16c1fa" tvg-name="LIVE 24/7 — WWE Smackdown" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",LIVE 24/7 — WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
