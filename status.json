@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-11-06T20:16:51.645885+00:00",
-  "pages": 42,
-  "candidate_urls": 35,
+  "updated_utc": "2026-11-06T20:31:23.638289+00:00",
+  "pages": 41,
+  "candidate_urls": 34,
   "live_urls": 0,
-  "published_urls": 35,
+  "published_urls": 34,
   "verified_urls": 0,
-  "not_checked_urls": 35,
+  "not_checked_urls": 34,
   "validation_mode": "discovery_only",
   "unavailable_urls": 0,
-  "live_entries": 20,
+  "live_entries": 19,
   "upcoming_entries": 15,
   "unsupported_pages": [
     "https://roxiestreams.info/soccer-streams-10",
@@ -17,18 +17,18 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 179,
+    "active_events": 178,
     "direct_candidates": 0,
-    "embed_only_events": 179,
+    "embed_only_events": 178,
     "errors": []
   },
-  "event_groups": 32,
+  "event_groups": 31,
   "event_posters": 18,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
       "base": "https://roxiestreams.info/",
-      "pages": 42,
+      "pages": 41,
       "errors": []
     }
   ]

@@ -737,17 +737,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Hammarby IF vs IF Elfsborg",
-    "poster": "https://static.ppvservices.st/assets/thumb/14f297ca0d1d271c39090472039674a9-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-06/ham-elf",
-    "starts_at": 1793988000,
-    "ends_at": 1793997000,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-06/ham-elf"
-  },
-  {
     "name": "Willem II vs PEC Zwolle",
     "poster": "https://static.ppvservices.st/assets/thumb/88422bbdad34469deb2e742379ac9818-thumbnail.jpg",
     "tag": "Eredivisie",
