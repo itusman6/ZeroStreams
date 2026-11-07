@@ -51,7 +51,7 @@
     "uri": "cfb/2026-11-07/tam-sc",
     "starts_at": 1794081600,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/tam-sc"
   },
   {
@@ -62,7 +62,7 @@
     "uri": "cfl/2026-11-07/wpg-mtl",
     "starts_at": 1794081600,
     "ends_at": 1794094200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfl/2026-11-07/wpg-mtl"
   },
   {
@@ -374,17 +374,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Morehead State Eagles vs Louisville Cardinals",
-    "poster": "https://static.ppvservices.st/assets/thumb/ae4fa650f96b7ee910fe9207619f6cfb-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-07/more-lou",
-    "starts_at": 1794070800,
-    "ends_at": 1794081600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-07/more-lou"
-  },
-  {
     "name": "Denver Nuggets vs Indiana Pacers",
     "poster": "https://static.ppvservices.st/assets/thumb/d1c4b0dcd61802ffea89ad25158aa228-thumbnail.jpg",
     "tag": "NBA",
@@ -682,39 +671,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Osasuna vs Athletic Club",
-    "poster": "https://static.ppvservices.st/assets/thumb/da1a58ad9324d3c96e43fbad9fe26a94-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-07/osa-ath",
-    "starts_at": 1794072600,
-    "ends_at": 1794081600,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-07/osa-ath"
-  },
-  {
-    "name": "VfB Stuttgart vs Werder Bremen",
-    "poster": "https://static.ppvservices.st/assets/thumb/0b014c552a8dc7b10ab37b48e0178ff7-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-07/vfb-svw",
-    "starts_at": 1794072600,
-    "ends_at": 1794081600,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-07/vfb-svw"
-  },
-  {
-    "name": "Nottingham Forest vs Manchester City",
-    "poster": "https://static.ppvservices.st/assets/thumb/8714dd4b7afd1f225299e80a6085180b-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-07/nfo-mci",
-    "starts_at": 1794072600,
-    "ends_at": 1794081600,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-07/nfo-mci"
-  },
-  {
     "name": "ADO Den Haag vs Sparta Rotterdam",
     "poster": "https://static.ppvservices.st/assets/thumb/543626e38b3205efdc5b52aab5764e56-thumbnail.jpg",
     "tag": "Eredivisie",
@@ -755,7 +711,7 @@
     "uri": "laliga/2026-11-07/val-rma",
     "starts_at": 1794081600,
     "ends_at": 1794090600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-07/val-rma"
   },
   {
@@ -766,7 +722,7 @@
     "uri": "eredivisie/2026-11-07/exc-gae",
     "starts_at": 1794081600,
     "ends_at": 1794090600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/eredivisie/2026-11-07/exc-gae"
   },
   {
