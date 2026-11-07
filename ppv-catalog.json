@@ -73,7 +73,7 @@
     "uri": "cfb/2026-11-07/ala-lsu",
     "starts_at": 1794083400,
     "ends_at": 1794097800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/ala-lsu"
   },
   {
@@ -84,7 +84,7 @@
     "uri": "cfb/2026-11-07/ore-osu",
     "starts_at": 1794083400,
     "ends_at": 1794097800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/ore-osu"
   },
   {
@@ -95,7 +95,7 @@
     "uri": "cfb/2026-11-07/mrmk-wake",
     "starts_at": 1794083400,
     "ends_at": 1794097800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/mrmk-wake"
   },
   {
@@ -106,7 +106,7 @@
     "uri": "cfb/2026-11-07/cin-hou",
     "starts_at": 1794083400,
     "ends_at": 1794097800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/cin-hou"
   },
   {
@@ -1340,17 +1340,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Florida Panthers vs Washington Capitals",
-    "poster": "https://static.ppvservices.st/assets/thumb/d2706c929ac0145ac4e90c437490a7ec-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/fla-wsh",
-    "starts_at": 1794072600,
-    "ends_at": 1794083400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/fla-wsh"
   },
   {
     "name": "St. Louis Blues vs Nashville Predators",
