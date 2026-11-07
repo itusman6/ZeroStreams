@@ -836,6 +836,39 @@
     "page": "https://ppv.st/live/efl-championship/2026-11-07/wat-mid"
   },
   {
+    "name": "Birmingham City vs Swansea City",
+    "poster": "https://static.ppvservices.st/assets/thumb/3e76eb199217e651cb33ef3e5581d232-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/bir-swa",
+    "starts_at": 1794063600,
+    "ends_at": 1794072600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/bir-swa"
+  },
+  {
+    "name": "Blackburn Rovers vs West Ham United",
+    "poster": "https://static.ppvservices.st/assets/thumb/9d0c32ae8a544190763efc01a36e8d52-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/blk-whu",
+    "starts_at": 1794063600,
+    "ends_at": 1794072600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/blk-whu"
+  },
+  {
+    "name": "Charlton Athletic vs Sheffield United",
+    "poster": "https://static.ppvservices.st/assets/thumb/e6ed95d553d6a5eb21f835042a08299d-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/cha-shu",
+    "starts_at": 1794063600,
+    "ends_at": 1794072600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/cha-shu"
+  },
+  {
     "name": "Espanyol vs Deportivo",
     "poster": "https://static.ppvservices.st/assets/thumb/2ecde1f9b3299c3cd186a27c816a3850-thumbnail.jpg",
     "tag": "LaLiga",
