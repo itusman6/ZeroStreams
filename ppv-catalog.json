@@ -638,6 +638,17 @@
     "page": "https://ppv.st/live/oktagon-97-severino-vs-holzer-31913"
   },
   {
+    "name": "Buatsi vs Hutchinson 2",
+    "poster": "https://static.ppvservices.st/assets/thumb/cf3662e0477ae8095543130c911e0e11-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "buatsi-vs-hutchinson-2-31919",
+    "starts_at": 1794078000,
+    "ends_at": 1794099600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/buatsi-vs-hutchinson-2-31919"
+  },
+  {
     "name": "UFC Fight Night: Cortes Acosta vs Walker",
     "poster": "https://static.ppvservices.st/assets/thumb/0d37985b1969bdfb82f70fd955af4fbb-thumbnail.jpg",
     "tag": "MMA",
@@ -669,17 +680,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "M\u00e1laga vs Racing Santander",
-    "poster": "https://static.ppvservices.st/assets/thumb/556df82e3c83d0b4ee4957fb0d956557-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-07/mcf-rac",
-    "starts_at": 1794056400,
-    "ends_at": 1794065400,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-07/mcf-rac"
   },
   {
     "name": "Cagliari vs Frosinone",
@@ -843,7 +843,7 @@
     "uri": "eredivisie/2026-11-07/for-tel",
     "starts_at": 1794065400,
     "ends_at": 1794074400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/eredivisie/2026-11-07/for-tel"
   },
   {
