@@ -638,28 +638,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AS Roma vs Sassuolo",
-    "poster": "https://static.ppvservices.st/assets/thumb/93241c21615c4857e81e4bd9eaebc3d2-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-07/roma-sas",
-    "starts_at": 1794080700,
-    "ends_at": 1794089700,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-07/roma-sas"
-  },
-  {
-    "name": "Paris Saint-Germain vs Troyes",
-    "poster": "https://static.ppvservices.st/assets/thumb/802086fa9f6a2180524079c7a9136708-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-07/psg-try",
-    "starts_at": 1794080700,
-    "ends_at": 1794089700,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-07/psg-try"
-  },
-  {
     "name": "Valencia vs Real Madrid",
     "poster": "https://static.ppvservices.st/assets/thumb/5624193c441cbc8c6c3fb04b82e26b13-thumbnail.jpg",
     "tag": "LaLiga",
