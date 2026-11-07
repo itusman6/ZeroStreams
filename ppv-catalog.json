@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "New Mexico Lobos vs Nevada Wolf Pack",
-    "poster": "https://static.ppvservices.st/assets/thumb/f51dc4febeac4bd5366299ff08403bf0-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-06/unm-nev",
-    "starts_at": 1794016800,
-    "ends_at": 1794031200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-06/unm-nev"
-  },
-  {
     "name": "TCU Horned Frogs vs Arizona Wildcats",
     "poster": "https://static.ppvservices.st/assets/thumb/7727ff43b7800faa38ab92015ca71076-thumbnail.jpg",
     "tag": "College Football",
@@ -383,28 +372,6 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Portland Trail Blazers vs Los Angeles Lakers",
-    "poster": "https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/por-lal",
-    "starts_at": 1794020400,
-    "ends_at": 1794031200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/por-lal"
-  },
-  {
-    "name": "San Antonio Spurs vs Sacramento Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/sa-sac",
-    "starts_at": 1794020400,
-    "ends_at": 1794031200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/sa-sac"
   },
   {
     "name": "North Florida Ospreys vs UCLA Bruins",
