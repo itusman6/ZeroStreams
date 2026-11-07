@@ -39,6 +39,10 @@ https://tedesco.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 24/7 — NBA | Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Philadelphia 76ers vs Cleveland Cavaliers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — NBA | Washington Wizards vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Washington Wizards vs Atlanta Hawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -67,6 +71,10 @@ https://tedesco.formaturamaxi.com.br/one.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="zerostreams.87c2bc75b611b28e" tvg-name="LIVE 24/7 — Soccer | Necaxa vs Tijuana" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Necaxa vs Tijuana
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/vix.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 24/7 — Soccer | Oxford City vs Leicester City" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Oxford City vs Leicester City
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -99,10 +107,6 @@ https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/usa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/8e159decd969aced65aa6af2ab7e1df1-thumbnail.jpg" group-title="NBA",LIVE 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="LIVE 2026-11-07 01:00 UTC — NBA | Minnesota Timberwolves vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/80eb09d4cbd4fe38b48943b1a934a73a-thumbnail.jpg" group-title="NBA",LIVE 2026-11-07 01:00 UTC — NBA | Minnesota Timberwolves vs New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -127,10 +131,6 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.87c2bc75b611b28e" tvg-name="LIVE 2026-11-07 01:00 UTC — Soccer | Necaxa vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/92cef88e72021103df5c775e3b3f336d-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-07 01:00 UTC — Soccer | Necaxa vs Tijuana
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/vix.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1a6a9aeb6646aa63" tvg-name="LIVE 2026-11-07 03:00 UTC — NBA | Portland Trail Blazers vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="NBA",LIVE 2026-11-07 03:00 UTC — NBA | Portland Trail Blazers vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
