@@ -11,39 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "BYU Cougars vs Utah Utes",
-    "poster": "https://static.ppvservices.st/assets/thumb/185b8c4c0b62f3de60459f5f27dfa757-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/byu-utah",
-    "starts_at": 1794070800,
-    "ends_at": 1794085200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/byu-utah"
-  },
-  {
-    "name": "UCLA Bruins vs Minnesota Golden Gophers",
-    "poster": "https://static.ppvservices.st/assets/thumb/77d254708b022c978a598d24445c94af-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/ucla-minn",
-    "starts_at": 1794070800,
-    "ends_at": 1794085200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/ucla-minn"
-  },
-  {
-    "name": "Texas Longhorns vs Missouri Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/c45089d48177b64c440565c5bdc64ca0-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/tex-miz",
-    "starts_at": 1794070800,
-    "ends_at": 1794085200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/tex-miz"
-  },
-  {
     "name": "Texas A&M Aggies vs South Carolina Gamecocks",
     "poster": "https://static.ppvservices.st/assets/thumb/0a62ae2edc8caca60aebe7f39721f544-thumbnail.jpg",
     "tag": "College Football",
@@ -722,7 +689,7 @@
     "uri": "mls/2026-11-07/mtl-van",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/mtl-van"
   },
   {
@@ -733,7 +700,7 @@
     "uri": "mls/2026-11-07/chi-clb",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/chi-clb"
   },
   {
@@ -744,7 +711,7 @@
     "uri": "mls/2026-11-07/dc-nyc",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/dc-nyc"
   },
   {
@@ -755,7 +722,7 @@
     "uri": "mls/2026-11-07/cin-nsh",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/cin-nsh"
   },
   {
@@ -766,7 +733,7 @@
     "uri": "mls/2026-11-07/mia-clt",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/mia-clt"
   },
   {
@@ -777,7 +744,7 @@
     "uri": "mls/2026-11-07/orl-ne",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/orl-ne"
   },
   {
@@ -788,7 +755,7 @@
     "uri": "mls/2026-11-07/phi-tor",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/phi-tor"
   },
   {
@@ -799,7 +766,7 @@
     "uri": "mls/2026-11-07/rbny-atl",
     "starts_at": 1794085200,
     "ends_at": 1794096000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-07/rbny-atl"
   },
   {
@@ -1340,17 +1307,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "St. Louis Blues vs Nashville Predators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a5f471f8ebbda3465bbd3f067ceba6b-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/stl-nsh",
-    "starts_at": 1794074400,
-    "ends_at": 1794085200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/stl-nsh"
   },
   {
     "name": "New York Rangers vs Seattle Kraken",
