@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T00:16:25.347032+00:00",
+  "updated_utc": "2026-11-07T00:31:24.153773+00:00",
   "pages": 41,
   "candidate_urls": 35,
   "live_urls": 0,
@@ -8,8 +8,8 @@
   "not_checked_urls": 35,
   "validation_mode": "discovery_only",
   "unavailable_urls": 0,
-  "live_entries": 24,
-  "upcoming_entries": 11,
+  "live_entries": 25,
+  "upcoming_entries": 10,
   "unsupported_pages": [
     "https://roxiestreams.info/soccer-streams-10"
   ],

@@ -95,7 +95,7 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/rds.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="UPCOMING 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/8e159decd969aced65aa6af2ab7e1df1-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/8e159decd969aced65aa6af2ab7e1df1-thumbnail.jpg" group-title="NBA",LIVE 2026-11-07 00:30 UTC — NBA | Philadelphia 76ers vs Cleveland Cavaliers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba3.m3u8
