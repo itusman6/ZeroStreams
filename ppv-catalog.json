@@ -385,72 +385,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Utah Jazz vs Dallas Mavericks",
-    "poster": "https://static.ppvservices.st/assets/thumb/4b7a2b07d4f3795d7c5bc012bb112757-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/utah-dal",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/utah-dal"
-  },
-  {
-    "name": "Oklahoma City Thunder vs Memphis Grizzlies",
-    "poster": "https://static.ppvservices.st/assets/thumb/7717a8b9cf9896f700e13cfb8da0f049-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/okc-mem",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/okc-mem"
-  },
-  {
-    "name": "Toronto Raptors vs Milwaukee Bucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/019219e0cc2d17b189f3ddbf1301026e-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/tor-mil",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/tor-mil"
-  },
-  {
-    "name": "Minnesota Timberwolves vs New Orleans Pelicans",
-    "poster": "https://static.ppvservices.st/assets/thumb/80eb09d4cbd4fe38b48943b1a934a73a-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/min-no",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-06/min-no"
-  },
-  {
-    "name": "UConn Huskies vs Michigan Wolverines",
-    "poster": "https://static.ppvservices.st/assets/thumb/e51c678d2c769bd5ecdf8d472a722494-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/conn-mich",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-06/conn-mich"
-  },
-  {
-    "name": "Southern Miss Golden Eagles vs Iowa State Cyclones",
-    "poster": "https://static.ppvservices.st/assets/thumb/3ccd424df80c9e533a5c45d878e96937-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/usm-isu",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-06/usm-isu"
-  },
-  {
     "name": "Wagner Seahawks vs Miami Hurricanes",
     "poster": "https://static.ppvservices.st/assets/thumb/b6e937d1f78f5fc5b076b99dcd6fdfce-thumbnail.jpg",
     "tag": "College Basketball",
@@ -1584,28 +1518,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "San Jose Sharks vs Minnesota Wild",
-    "poster": "https://static.ppvservices.st/assets/thumb/85bbb40838d212d309aa290bb3ea17ee-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-06/sj-min",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-06/sj-min"
-  },
-  {
-    "name": "Anaheim Ducks vs Calgary Flames",
-    "poster": "https://static.ppvservices.st/assets/thumb/800a73f87d9a1b6609f1f39640e33978-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-06/ana-cgy",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-06/ana-cgy"
-  },
-  {
     "name": "S\u00e3o Paulo Grand Prix - Practice 3",
     "poster": "https://static.ppvservices.st/assets/thumb/eadebffdc25cd5bb11a51cb7841b2a92-thumbnail.jpg",
     "tag": "Formula 1",
@@ -1648,17 +1560,6 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-league"
-  },
-  {
-    "name": "WWE Friday Night Smackdown",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-06",
-    "starts_at": 1794013200,
-    "ends_at": 1794024000,
-    "status": "live",
-    "page": "https://ppv.st/live/wwe/2026-11-06"
   },
   {
     "name": "AEW Saturday Night Collision",
