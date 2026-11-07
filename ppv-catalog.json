@@ -374,17 +374,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Melbourne United vs Brisbane Bullets",
-    "poster": "https://static.ppvservices.st/assets/thumb/0ef0c269f8c8e2da7252b29e2932d128-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-07/mel-bri",
-    "starts_at": 1794040200,
-    "ends_at": 1794051000,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-07/mel-bri"
-  },
-  {
     "name": "Morehead State Eagles vs Louisville Cardinals",
     "poster": "https://static.ppvservices.st/assets/thumb/ae4fa650f96b7ee910fe9207619f6cfb-thumbnail.jpg",
     "tag": "College Basketball",
@@ -625,6 +614,39 @@
     "ends_at": 1794207600,
     "status": "upcoming",
     "page": "https://ppv.st/live/cbb/2026-11-08/usc-wich"
+  },
+  {
+    "name": "Zuffa Boxing 12: Billam-Smith vs Clarke",
+    "poster": "https://static.ppvservices.st/assets/thumb/62e37d84e29213a5453defaf22b817f9-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "zuffa-boxing-12-billam-smith-vs-clarke-31912",
+    "starts_at": 1794067200,
+    "ends_at": 1794096000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/zuffa-boxing-12-billam-smith-vs-clarke-31912"
+  },
+  {
+    "name": "OKTAGON 97: Severino vs Holzer",
+    "poster": "https://static.ppvservices.st/assets/thumb/0e7d4c2d52b106bf62ddca7f9e179dab-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "oktagon-97-severino-vs-holzer-31913",
+    "starts_at": 1794070800,
+    "ends_at": 1794092400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/oktagon-97-severino-vs-holzer-31913"
+  },
+  {
+    "name": "UFC Fight Night: Cortes Acosta vs Walker",
+    "poster": "https://static.ppvservices.st/assets/thumb/0d37985b1969bdfb82f70fd955af4fbb-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "ufc-fight-night-cortes-acosta-vs-walker-31909",
+    "starts_at": 1794088800,
+    "ends_at": 1794117600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/ufc-fight-night-cortes-acosta-vs-walker-31909"
   },
   {
     "name": "Willow",
