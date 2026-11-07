@@ -18,7 +18,7 @@
     "uri": "cfb/2026-11-07/byu-utah",
     "starts_at": 1794070800,
     "ends_at": 1794085200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/byu-utah"
   },
   {
@@ -29,7 +29,7 @@
     "uri": "cfb/2026-11-07/ucla-minn",
     "starts_at": 1794070800,
     "ends_at": 1794085200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/ucla-minn"
   },
   {
@@ -40,7 +40,7 @@
     "uri": "cfb/2026-11-07/tex-miz",
     "starts_at": 1794070800,
     "ends_at": 1794085200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/tex-miz"
   },
   {
@@ -381,7 +381,7 @@
     "uri": "cbb/2026-11-07/more-lou",
     "starts_at": 1794070800,
     "ends_at": 1794081600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-07/more-lou"
   },
   {
@@ -634,7 +634,7 @@
     "uri": "oktagon-97-severino-vs-holzer-31913",
     "starts_at": 1794070800,
     "ends_at": 1794092400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/oktagon-97-severino-vs-holzer-31913"
   },
   {
@@ -680,50 +680,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Borussia Dortmund vs SV Elversberg",
-    "poster": "https://static.ppvservices.st/assets/thumb/66e15f5a985c5e795924b90e2b84e8f1-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-07/dor-elv",
-    "starts_at": 1794061800,
-    "ends_at": 1794070800,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-07/dor-elv"
-  },
-  {
-    "name": "Mainz vs Bayern Munich",
-    "poster": "https://static.ppvservices.st/assets/thumb/fd90581b9beb6dbc0fdb6dd5a3f175b6-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-07/m05-bay",
-    "starts_at": 1794061800,
-    "ends_at": 1794070800,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-07/m05-bay"
-  },
-  {
-    "name": "RB Leipzig vs FC Augsburg",
-    "poster": "https://static.ppvservices.st/assets/thumb/ea6e6af28e8e9a4991c8f5a35f85d803-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-07/rbl-fca",
-    "starts_at": 1794061800,
-    "ends_at": 1794070800,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-07/rbl-fca"
-  },
-  {
-    "name": "SC Paderborn 07 vs Eintracht Frankfurt",
-    "poster": "https://static.ppvservices.st/assets/thumb/59470bb50a3b51a9ef82245c1714ac3b-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-07/scp-sge",
-    "starts_at": 1794061800,
-    "ends_at": 1794070800,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-07/scp-sge"
   },
   {
     "name": "Arsenal vs Hull City",
@@ -865,7 +821,7 @@
     "uri": "seriea/2026-11-07/par-bol",
     "starts_at": 1794070800,
     "ends_at": 1794079800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-07/par-bol"
   },
   {
