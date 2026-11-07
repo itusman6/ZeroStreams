@@ -671,50 +671,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Leeds United vs Tottenham Hotspur",
-    "poster": "https://static.ppvservices.st/assets/thumb/6ee2e4364557f3d76b338ec127d9f89c-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-07/lee-tot",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-07/lee-tot"
-  },
-  {
-    "name": "Bristol City vs Norwich City",
-    "poster": "https://static.ppvservices.st/assets/thumb/76585d7b4fc394d8aedc8db1bb061b7f-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/brc-nor",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/brc-nor"
-  },
-  {
-    "name": "Portsmouth vs Stoke City",
-    "poster": "https://static.ppvservices.st/assets/thumb/a80f4a0a907da198cb5c293c3c504a26-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/por-stk",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/por-stk"
-  },
-  {
-    "name": "Wrexham vs Wolverhampton Wanderers",
-    "poster": "https://static.ppvservices.st/assets/thumb/a1187c0fc62569cbf172ef71ab5126c9-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/wxm-wol",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/wxm-wol"
-  },
-  {
     "name": "M\u00e1laga vs Racing Santander",
     "poster": "https://static.ppvservices.st/assets/thumb/556df82e3c83d0b4ee4957fb0d956557-thumbnail.jpg",
     "tag": "LaLiga",
@@ -799,7 +755,7 @@
     "uri": "pl/2026-11-07/ars-hul",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-07/ars-hul"
   },
   {
@@ -810,7 +766,7 @@
     "uri": "pl/2026-11-07/ful-new",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-07/ful-new"
   },
   {
@@ -821,7 +777,7 @@
     "uri": "efl-championship/2026-11-07/wba-mil",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/wba-mil"
   },
   {
@@ -832,7 +788,7 @@
     "uri": "efl-championship/2026-11-07/wat-mid",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/wat-mid"
   },
   {
@@ -843,7 +799,7 @@
     "uri": "efl-championship/2026-11-07/bir-swa",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/bir-swa"
   },
   {
@@ -854,7 +810,7 @@
     "uri": "efl-championship/2026-11-07/blk-whu",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/blk-whu"
   },
   {
@@ -865,7 +821,7 @@
     "uri": "efl-championship/2026-11-07/cha-shu",
     "starts_at": 1794063600,
     "ends_at": 1794072600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/cha-shu"
   },
   {
