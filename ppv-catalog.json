@@ -682,28 +682,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Cagliari vs Frosinone",
-    "poster": "https://static.ppvservices.st/assets/thumb/df410c810cc4ef2a80df6eaedef44fa0-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-07/cag-fro",
-    "starts_at": 1794060000,
-    "ends_at": 1794069000,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-07/cag-fro"
-  },
-  {
-    "name": "Torino vs Lecce",
-    "poster": "https://static.ppvservices.st/assets/thumb/30a00ebfefca5fc74197193f2e322ec3-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-07/tor-lec",
-    "starts_at": 1794060000,
-    "ends_at": 1794069000,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-07/tor-lec"
-  },
-  {
     "name": "Borussia Dortmund vs SV Elversberg",
     "poster": "https://static.ppvservices.st/assets/thumb/66e15f5a985c5e795924b90e2b84e8f1-thumbnail.jpg",
     "tag": "Bundesliga",
@@ -865,7 +843,7 @@
     "uri": "allsvenskan/2026-11-07/deg-gais",
     "starts_at": 1794069000,
     "ends_at": 1794078000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-07/deg-gais"
   },
   {
@@ -876,7 +854,7 @@
     "uri": "allsvenskan/2026-11-07/org-vas",
     "starts_at": 1794069000,
     "ends_at": 1794078000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-07/org-vas"
   },
   {
@@ -1736,17 +1714,6 @@
     "ends_at": 1794117600,
     "status": "upcoming",
     "page": "https://ppv.st/live/nhl/2026-11-07/van-edm"
-  },
-  {
-    "name": "S\u00e3o Paulo Grand Prix - Practice 3",
-    "poster": "https://static.ppvservices.st/assets/thumb/eadebffdc25cd5bb11a51cb7841b2a92-thumbnail.jpg",
-    "tag": "Formula 1",
-    "category": "Motorsports",
-    "uri": "f1/2026/brazil/fp3",
-    "starts_at": 1794061800,
-    "ends_at": 1794069000,
-    "status": "live",
-    "page": "https://ppv.st/live/f1/2026/brazil/fp3"
   },
   {
     "name": "S\u00e3o Paulo Grand Prix - Qualifying",
