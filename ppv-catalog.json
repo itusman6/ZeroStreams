@@ -682,17 +682,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Parma vs Bologna",
-    "poster": "https://static.ppvservices.st/assets/thumb/f3c55da26a52eab0ff07a1726f191d48-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-07/par-bol",
-    "starts_at": 1794070800,
-    "ends_at": 1794079800,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-07/par-bol"
-  },
-  {
     "name": "Osasuna vs Athletic Club",
     "poster": "https://static.ppvservices.st/assets/thumb/da1a58ad9324d3c96e43fbad9fe26a94-thumbnail.jpg",
     "tag": "LaLiga",
