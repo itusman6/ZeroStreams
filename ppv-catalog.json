@@ -682,83 +682,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Arsenal vs Hull City",
-    "poster": "https://static.ppvservices.st/assets/thumb/949a606658123d87dd95c5ded5a002ca-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-07/ars-hul",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-07/ars-hul"
-  },
-  {
-    "name": "Fulham vs Newcastle United",
-    "poster": "https://static.ppvservices.st/assets/thumb/1ed1e3c8981d0dbdb7ba8530d5f83b6b-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-07/ful-new",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-07/ful-new"
-  },
-  {
-    "name": "West Bromwich Albion vs Millwall",
-    "poster": "https://static.ppvservices.st/assets/thumb/e3c08946735960beaa12511fb893b7ca-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/wba-mil",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/wba-mil"
-  },
-  {
-    "name": "Watford vs Middlesbrough",
-    "poster": "https://static.ppvservices.st/assets/thumb/7e8e53bba43fe6e0e535d908a1ca2697-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/wat-mid",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/wat-mid"
-  },
-  {
-    "name": "Birmingham City vs Swansea City",
-    "poster": "https://static.ppvservices.st/assets/thumb/3e76eb199217e651cb33ef3e5581d232-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/bir-swa",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/bir-swa"
-  },
-  {
-    "name": "Blackburn Rovers vs West Ham United",
-    "poster": "https://static.ppvservices.st/assets/thumb/9d0c32ae8a544190763efc01a36e8d52-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/blk-whu",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/blk-whu"
-  },
-  {
-    "name": "Charlton Athletic vs Sheffield United",
-    "poster": "https://static.ppvservices.st/assets/thumb/e6ed95d553d6a5eb21f835042a08299d-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/cha-shu",
-    "starts_at": 1794063600,
-    "ends_at": 1794072600,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/cha-shu"
-  },
-  {
     "name": "Espanyol vs Deportivo",
     "poster": "https://static.ppvservices.st/assets/thumb/2ecde1f9b3299c3cd186a27c816a3850-thumbnail.jpg",
     "tag": "LaLiga",
@@ -832,7 +755,7 @@
     "uri": "laliga/2026-11-07/osa-ath",
     "starts_at": 1794072600,
     "ends_at": 1794081600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-07/osa-ath"
   },
   {
@@ -843,7 +766,7 @@
     "uri": "bundesliga/2026-11-07/vfb-svw",
     "starts_at": 1794072600,
     "ends_at": 1794081600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-07/vfb-svw"
   },
   {
@@ -854,7 +777,7 @@
     "uri": "pl/2026-11-07/nfo-mci",
     "starts_at": 1794072600,
     "ends_at": 1794081600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-07/nfo-mci"
   },
   {
@@ -1547,7 +1470,7 @@
     "uri": "nhl/2026-11-07/fla-wsh",
     "starts_at": 1794072600,
     "ends_at": 1794083400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-07/fla-wsh"
   },
   {
