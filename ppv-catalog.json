@@ -385,17 +385,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Northeastern Huskies vs Virginia Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/50e54ec1be69b92daf79f74ccbdda031-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/ne-uva",
-    "starts_at": 1794002400,
-    "ends_at": 1794013200,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-06/ne-uva"
-  },
-  {
     "name": "Washington Wizards vs Atlanta Hawks",
     "poster": "https://static.ppvservices.st/assets/thumb/21724c49f46faf47b36bbd9a16c9ed60-thumbnail.jpg",
     "tag": "NBA",
@@ -458,7 +447,7 @@
     "uri": "nba/2026-11-06/utah-dal",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/utah-dal"
   },
   {
@@ -469,7 +458,7 @@
     "uri": "nba/2026-11-06/okc-mem",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/okc-mem"
   },
   {
@@ -480,7 +469,7 @@
     "uri": "nba/2026-11-06/tor-mil",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/tor-mil"
   },
   {
@@ -491,7 +480,7 @@
     "uri": "nba/2026-11-06/min-no",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/min-no"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "cbb/2026-11-06/conn-mich",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-06/conn-mich"
   },
   {
@@ -513,7 +502,7 @@
     "uri": "cbb/2026-11-06/usm-isu",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-06/usm-isu"
   },
   {
@@ -744,7 +733,7 @@
     "uri": "liga-mx/2026-11-06/asl-jua",
     "starts_at": 1794013200,
     "ends_at": 1794022200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-06/asl-jua"
   },
   {
@@ -755,7 +744,7 @@
     "uri": "liga-mx/2026-11-06/ncx-tij",
     "starts_at": 1794013200,
     "ends_at": 1794022200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-06/ncx-tij"
   },
   {
@@ -1690,7 +1679,7 @@
     "uri": "nhl/2026-11-06/sj-min",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-06/sj-min"
   },
   {
@@ -1701,7 +1690,7 @@
     "uri": "nhl/2026-11-06/ana-cgy",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-06/ana-cgy"
   },
   {
@@ -1756,7 +1745,7 @@
     "uri": "wwe/2026-11-06",
     "starts_at": 1794013200,
     "ends_at": 1794024000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/wwe/2026-11-06"
   },
   {
