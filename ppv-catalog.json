@@ -638,28 +638,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Valencia vs Real Madrid",
-    "poster": "https://static.ppvservices.st/assets/thumb/5624193c441cbc8c6c3fb04b82e26b13-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-07/val-rma",
-    "starts_at": 1794081600,
-    "ends_at": 1794090600,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-07/val-rma"
-  },
-  {
-    "name": "Excelsior vs Go Ahead Eagles",
-    "poster": "https://static.ppvservices.st/assets/thumb/58f50ba32438e37d9cfc09170240903f-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-07/exc-gae",
-    "starts_at": 1794081600,
-    "ends_at": 1794090600,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-07/exc-gae"
-  },
-  {
     "name": "CF Montr\u00e9al vs Vancouver Whitecaps",
     "poster": "https://static.ppvservices.st/assets/thumb/5666d915de23a55f6d3dd0c553b364c6-thumbnail.jpg",
     "tag": "MLS",
