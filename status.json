@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T18:01:38.122883+00:00",
+  "updated_utc": "2026-11-07T18:16:30.256846+00:00",
   "pages": 75,
   "candidate_urls": 66,
   "live_urls": 0,
@@ -10,9 +10,7 @@
   "unavailable_urls": 0,
   "live_entries": 44,
   "upcoming_entries": 22,
-  "unsupported_pages": [
-    "https://roxiestreams.info/soccer-streams-14"
-  ],
+  "unsupported_pages": [],
   "errors": [],
   "ppv": {
     "status": "embed-only",
