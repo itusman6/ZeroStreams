@@ -645,7 +645,7 @@
     "uri": "buatsi-vs-hutchinson-2-31919",
     "starts_at": 1794078000,
     "ends_at": 1794099600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/buatsi-vs-hutchinson-2-31919"
   },
   {
@@ -680,28 +680,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Degerfors IF vs GAIS",
-    "poster": "https://static.ppvservices.st/assets/thumb/a9d78edaf5af3e68f662d64b14bb2da0-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-07/deg-gais",
-    "starts_at": 1794069000,
-    "ends_at": 1794078000,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-07/deg-gais"
-  },
-  {
-    "name": "\u00d6rgryte IS vs V\u00e4ster\u00e5s SK",
-    "poster": "https://static.ppvservices.st/assets/thumb/8dd5815361dbf161e728124072ecd1c2-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-07/org-vas",
-    "starts_at": 1794069000,
-    "ends_at": 1794078000,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-07/org-vas"
   },
   {
     "name": "Parma vs Bologna",
