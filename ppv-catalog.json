@@ -733,7 +733,7 @@
     "uri": "seriea/2026-11-07/roma-sas",
     "starts_at": 1794080700,
     "ends_at": 1794089700,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-07/roma-sas"
   },
   {
@@ -744,7 +744,7 @@
     "uri": "ligue1/2026-11-07/psg-try",
     "starts_at": 1794080700,
     "ends_at": 1794089700,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/ligue1/2026-11-07/psg-try"
   },
   {
@@ -1535,7 +1535,7 @@
     "category": "Motorsports",
     "uri": "f1/2026/brazil/qualifying",
     "starts_at": 1794074400,
-    "ends_at": 1794081600,
+    "ends_at": 1794088800,
     "status": "live",
     "page": "https://ppv.st/live/f1/2026/brazil/qualifying"
   },
