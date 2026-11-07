@@ -403,7 +403,7 @@
     "uri": "nba/2026-11-06/wsh-atl",
     "starts_at": 1794009600,
     "ends_at": 1794020400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/wsh-atl"
   },
   {
@@ -414,7 +414,7 @@
     "uri": "nba/2026-11-06/bos-cha",
     "starts_at": 1794009600,
     "ends_at": 1794020400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-06/bos-cha"
   },
   {
@@ -425,7 +425,7 @@
     "uri": "cbb/2026-11-06/jmu-uk",
     "starts_at": 1794009600,
     "ends_at": 1794020400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-06/jmu-uk"
   },
   {
@@ -1679,7 +1679,7 @@
     "uri": "nhl/2026-11-06/cbj-buf",
     "starts_at": 1794009600,
     "ends_at": 1794020400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-06/cbj-buf"
   },
   {
