@@ -682,17 +682,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Espanyol vs Deportivo",
-    "poster": "https://static.ppvservices.st/assets/thumb/2ecde1f9b3299c3cd186a27c816a3850-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-07/esp-dep",
-    "starts_at": 1794064500,
-    "ends_at": 1794073500,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-07/esp-dep"
-  },
-  {
     "name": "Fortuna Sittard vs Telstar",
     "poster": "https://static.ppvservices.st/assets/thumb/f9271abb88cae1eb2178b121fd6d2483-thumbnail.jpg",
     "tag": "Eredivisie",
@@ -788,7 +777,7 @@
     "uri": "eredivisie/2026-11-07/ado-spa",
     "starts_at": 1794073500,
     "ends_at": 1794082500,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/eredivisie/2026-11-07/ado-spa"
   },
   {
