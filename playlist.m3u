@@ -159,10 +159,6 @@ https://admin2.formaturamaxi.com.br/fana.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/match3ru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="LIVE 24/7 — Soccer | Watford vs Middlesbrough" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Watford vs Middlesbrough
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.978b25f6b6f39355" tvg-name="LIVE 24/7 — UFC FN: Cortes Acosta vs Walker — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC FN: Cortes Acosta vs Walker — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -187,6 +183,10 @@ https://admin2.formaturamaxi.com.br/arsenal.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="UPCOMING 2026-11-07 15:00 UTC — Soccer | Watford vs Middlesbrough" tvg-logo="https://static.ppvservices.st/assets/thumb/7e8e53bba43fe6e0e535d908a1ca2697-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-07 15:00 UTC — Soccer | Watford vs Middlesbrough
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="UPCOMING 2026-11-07 17:30 UTC — NHL | Florida Panthers vs Washington Capitals" tvg-logo="https://static.ppvservices.st/assets/thumb/d2706c929ac0145ac4e90c437490a7ec-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-07 17:30 UTC — NHL | Florida Panthers vs Washington Capitals
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

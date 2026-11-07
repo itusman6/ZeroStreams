@@ -176,6 +176,17 @@
     "page": "https://ppv.st/live/cfb/2026-11-07/iowa-nu"
   },
   {
+    "name": "Michigan State Spartans vs Michigan Wolverines",
+    "poster": "https://static.ppvservices.st/assets/thumb/64a216521194842bfaba74e6e8832849-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-08/msu-mich",
+    "starts_at": 1794097800,
+    "ends_at": 1794112200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cfb/2026-11-08/msu-mich"
+  },
+  {
     "name": "Oklahoma Sooners vs Florida Gators",
     "poster": "https://static.ppvservices.st/assets/thumb/f847790ef3b385e547bd9e858a5c5ebf-thumbnail.jpg",
     "tag": "College Football",
@@ -757,6 +768,17 @@
     "ends_at": 1794072600,
     "status": "upcoming",
     "page": "https://ppv.st/live/efl-championship/2026-11-07/wba-mil"
+  },
+  {
+    "name": "Watford vs Middlesbrough",
+    "poster": "https://static.ppvservices.st/assets/thumb/7e8e53bba43fe6e0e535d908a1ca2697-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/wat-mid",
+    "starts_at": 1794063600,
+    "ends_at": 1794072600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/wat-mid"
   },
   {
     "name": "Espanyol vs Deportivo",
