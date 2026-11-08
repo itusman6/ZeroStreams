@@ -363,28 +363,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Fiorentina vs Juventus",
-    "poster": "https://static.ppvservices.st/assets/thumb/4de2a7afc03bb3a8784a3733c19c4968-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/fio-juv",
-    "starts_at": 1794167100,
-    "ends_at": 1794176100,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-08/fio-juv"
-  },
-  {
-    "name": "Lens vs Marseille",
-    "poster": "https://static.ppvservices.st/assets/thumb/4e89380d9998a0fcc322901744f78b92-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/rcl-olm",
-    "starts_at": 1794167100,
-    "ends_at": 1794176100,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/rcl-olm"
-  },
-  {
     "name": "Atl\u00e9tico Madrid vs Barcelona",
     "poster": "https://static.ppvservices.st/assets/thumb/fa41232a70247e109bf458ad66fedac1-thumbnail.jpg",
     "tag": "LaLiga",
