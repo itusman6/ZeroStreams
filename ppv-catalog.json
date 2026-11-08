@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Cincinnati Bengals vs Atlanta Falcons",
-    "poster": "https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/cin-atl",
-    "starts_at": 1794148200,
-    "ends_at": 1794162600,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-08/cin-atl"
-  },
-  {
     "name": "Dallas Cowboys vs Indianapolis Colts",
     "poster": "https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg",
     "tag": "NFL",
@@ -579,7 +568,7 @@
     "uri": "bundesliga/2026-11-08/tsg-s04",
     "starts_at": 1794162600,
     "ends_at": 1794171600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-08/tsg-s04"
   },
   {
