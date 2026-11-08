@@ -117,7 +117,7 @@
     "uri": "nba/2026-11-08/lal-det",
     "starts_at": 1794178800,
     "ends_at": 1794189600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-08/lal-det"
   },
   {
@@ -425,7 +425,7 @@
     "uri": "nhl/2026-11-08/tb-wpg",
     "starts_at": 1794178800,
     "ends_at": 1794189600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-08/tb-wpg"
   },
   {
