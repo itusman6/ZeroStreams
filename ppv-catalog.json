@@ -473,28 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AZ Alkmaar vs FC Groningen",
-    "poster": "https://static.ppvservices.st/assets/thumb/7ae7567807eceaa0f13e89f1a0f61612-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/az-gro",
-    "starts_at": 1794152700,
-    "ends_at": 1794161700,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/az-gro"
-  },
-  {
-    "name": "SC Cambuur vs PSV Eindhoven",
-    "poster": "https://static.ppvservices.st/assets/thumb/0f966620618a3a0ceccd3d66259dfacd-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/cam-psv",
-    "starts_at": 1794152700,
-    "ends_at": 1794161700,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/cam-psv"
-  },
-  {
     "name": "Angers vs Nice",
     "poster": "https://static.ppvservices.st/assets/thumb/815445a31e81c65ff5bb6178634a192e-thumbnail.jpg",
     "tag": "Ligue 1",
