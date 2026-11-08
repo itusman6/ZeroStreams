@@ -473,17 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Napoli vs Lazio",
-    "poster": "https://static.ppvservices.st/assets/thumb/c64b72d432dcadee30adf755a9a7be10-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/nap-laz",
-    "starts_at": 1794137400,
-    "ends_at": 1794146400,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-08/nap-laz"
-  },
-  {
     "name": "Elche vs Real Betis",
     "poster": "https://static.ppvservices.st/assets/thumb/96f9f1f703609db0937dd1bc7e230830-thumbnail.jpg",
     "tag": "LaLiga",
@@ -535,7 +524,7 @@
     "uri": "pl/2026-11-08/bha-bre",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-08/bha-bre"
   },
   {
@@ -546,7 +535,7 @@
     "uri": "pl/2026-11-08/cry-liv",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-08/cry-liv"
   },
   {
@@ -557,7 +546,7 @@
     "uri": "pl/2026-11-08/ips-bou",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-08/ips-bou"
   },
   {
@@ -568,7 +557,7 @@
     "uri": "pl/2026-11-08/sun-che",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-08/sun-che"
   },
   {
@@ -579,7 +568,7 @@
     "uri": "seriea/2026-11-08/gen-mil",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-08/gen-mil"
   },
   {
@@ -590,7 +579,7 @@
     "uri": "seriea/2026-11-08/mon-ata",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-08/mon-ata"
   },
   {
@@ -601,7 +590,7 @@
     "uri": "ligue1/2026-11-08/ren-lill",
     "starts_at": 1794146400,
     "ends_at": 1794155400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/ligue1/2026-11-08/ren-lill"
   },
   {
