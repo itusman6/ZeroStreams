@@ -99,17 +99,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Philadelphia 76ers vs Chicago Bulls",
-    "poster": "https://static.ppvservices.st/assets/thumb/9bfd3466d996db0f9efdf518f0619242-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-08/phi-chi",
-    "starts_at": 1794169800,
-    "ends_at": 1794180600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-08/phi-chi"
-  },
-  {
     "name": "Los Angeles Lakers vs Detroit Pistons",
     "poster": "https://static.ppvservices.st/assets/thumb/e4a95bc7204d9153e4a0cb7215944a63-thumbnail.jpg",
     "tag": "NBA",
@@ -405,17 +394,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Vegas Golden Knights vs Buffalo Sabres",
-    "poster": "https://static.ppvservices.st/assets/thumb/4360e05c51a1dc7c73ba63b98e18e49f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/vgk-buf",
-    "starts_at": 1794169800,
-    "ends_at": 1794180600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-08/vgk-buf"
   },
   {
     "name": "Tampa Bay Lightning vs Winnipeg Jets",
