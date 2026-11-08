@@ -11,50 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Alabama Crimson Tide vs LSU Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/5192008b4bc2c5f65ce0813ffb4e7ce4-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/ala-lsu",
-    "starts_at": 1794083400,
-    "ends_at": 1794097800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/ala-lsu"
-  },
-  {
-    "name": "Oregon Ducks vs Ohio State Buckeyes",
-    "poster": "https://static.ppvservices.st/assets/thumb/387f91e4decd2582b82471b47fafc559-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/ore-osu",
-    "starts_at": 1794083400,
-    "ends_at": 1794097800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/ore-osu"
-  },
-  {
-    "name": "Merrimack Warriors vs Wake Forest Demon Deacons",
-    "poster": "https://static.ppvservices.st/assets/thumb/7ee20205c74dd9312c1edfc55da6675a-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/mrmk-wake",
-    "starts_at": 1794083400,
-    "ends_at": 1794097800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/mrmk-wake"
-  },
-  {
-    "name": "Cincinnati Bearcats vs Houston Cougars",
-    "poster": "https://static.ppvservices.st/assets/thumb/f38c5b7371d9f4a4410f99c75fc1d7b2-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/cin-hou",
-    "starts_at": 1794083400,
-    "ends_at": 1794097800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/cin-hou"
-  },
-  {
     "name": "Boise State Broncos vs Colorado State Rams",
     "poster": "https://static.ppvservices.st/assets/thumb/85d06488c23a32026c78ae48a40c0f13-thumbnail.jpg",
     "tag": "College Football",
@@ -95,7 +51,7 @@
     "uri": "cfb/2026-11-07/mia-nd",
     "starts_at": 1794097800,
     "ends_at": 1794112200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/mia-nd"
   },
   {
@@ -106,7 +62,7 @@
     "uri": "cfb/2026-11-07/uga-miss",
     "starts_at": 1794097800,
     "ends_at": 1794112200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/uga-miss"
   },
   {
@@ -117,7 +73,7 @@
     "uri": "cfb/2026-11-07/iowa-nu",
     "starts_at": 1794097800,
     "ends_at": 1794112200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/iowa-nu"
   },
   {
@@ -128,7 +84,7 @@
     "uri": "cfb/2026-11-08/msu-mich",
     "starts_at": 1794097800,
     "ends_at": 1794112200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-08/msu-mich"
   },
   {
@@ -348,7 +304,7 @@
     "uri": "nba/2026-11-07/bkn-atl",
     "starts_at": 1794097800,
     "ends_at": 1794108600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-07/bkn-atl"
   },
   {
