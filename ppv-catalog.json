@@ -502,7 +502,7 @@
     "uri": "laliga/2026-11-08/elc-bet",
     "starts_at": 1794142800,
     "ends_at": 1794151800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-08/elc-bet"
   },
   {
@@ -513,7 +513,7 @@
     "uri": "allsvenskan/2026-11-08/hbk-dju",
     "starts_at": 1794142800,
     "ends_at": 1794151800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-08/hbk-dju"
   },
   {
@@ -524,7 +524,7 @@
     "uri": "allsvenskan/2026-11-08/got-mal",
     "starts_at": 1794142800,
     "ends_at": 1794151800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-08/got-mal"
   },
   {
