@@ -462,28 +462,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "SC Freiburg vs 1. FC Union Berlin",
-    "poster": "https://static.ppvservices.st/assets/thumb/a53a594e61d47c0a67a480e18c6d07d8-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-08/scf-fcu",
-    "starts_at": 1794155400,
-    "ends_at": 1794164400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-08/scf-fcu"
-  },
-  {
-    "name": "Manchester United vs Aston Villa",
-    "poster": "https://static.ppvservices.st/assets/thumb/12b00704a89100d988fd37ef80360c79-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/mun-avl",
-    "starts_at": 1794155400,
-    "ends_at": 1794164400,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-08/mun-avl"
-  },
-  {
     "name": "Inter Milan vs Como",
     "poster": "https://static.ppvservices.st/assets/thumb/43b1d4fd55886d02f6f76852a7675a02-thumbnail.jpg",
     "tag": "Serie A",
@@ -535,7 +513,7 @@
     "uri": "eredivisie/2026-11-08/utr-nec",
     "starts_at": 1794164400,
     "ends_at": 1794173400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/eredivisie/2026-11-08/utr-nec"
   },
   {
