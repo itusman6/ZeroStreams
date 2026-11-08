@@ -194,7 +194,7 @@
     "uri": "cbb/2026-11-08/iona-sju",
     "starts_at": 1794157200,
     "ends_at": 1794168000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-08/iona-sju"
   },
   {
@@ -473,17 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "FC Cologne vs Bayer Leverkusen",
-    "poster": "https://static.ppvservices.st/assets/thumb/70fdb023dc77fff1674bd89e03d2e0bf-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-08/koe-b04",
-    "starts_at": 1794148200,
-    "ends_at": 1794157200,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-08/koe-b04"
-  },
-  {
     "name": "Real Sociedad vs Rayo Vallecano",
     "poster": "https://static.ppvservices.st/assets/thumb/0ff6ee388065fcafef63157f68f3507e-thumbnail.jpg",
     "tag": "LaLiga",
@@ -623,7 +612,7 @@
     "uri": "seriea/2026-11-08/int-como",
     "starts_at": 1794157200,
     "ends_at": 1794166200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-08/int-como"
   },
   {
@@ -821,7 +810,7 @@
     "uri": "f1/2026/brazil/race",
     "starts_at": 1794157200,
     "ends_at": 1794168000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/f1/2026/brazil/race"
   },
   {
