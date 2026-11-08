@@ -326,7 +326,7 @@
     "uri": "nba/2026-11-07/hou-phx",
     "starts_at": 1794103200,
     "ends_at": 1794114000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-07/hou-phx"
   },
   {
@@ -1107,7 +1107,7 @@
     "uri": "nhl/2026-11-07/det-col",
     "starts_at": 1794103200,
     "ends_at": 1794114000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-07/det-col"
   },
   {
@@ -1118,7 +1118,7 @@
     "uri": "nhl/2026-11-07/pit-la",
     "starts_at": 1794103200,
     "ends_at": 1794114000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-07/pit-la"
   },
   {
