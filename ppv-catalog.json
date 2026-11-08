@@ -242,28 +242,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "New York Knicks vs Cleveland Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-07/ny-cle",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-07/ny-cle"
-  },
-  {
-    "name": "Washington Wizards vs Oklahoma City Thunder",
-    "poster": "https://static.ppvservices.st/assets/thumb/e968b8c9013faea6b63fc11aa3feec86-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-07/wsh-okc",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-07/wsh-okc"
-  },
-  {
     "name": "Orlando Magic vs Golden State Warriors",
     "poster": "https://static.ppvservices.st/assets/thumb/8993cdab6f8bb15e26e9ca2dd3c1fe73-thumbnail.jpg",
     "tag": "NBA",
@@ -304,7 +282,7 @@
     "uri": "nbl/2026-11-08/syd-pnx",
     "starts_at": 1794110400,
     "ends_at": 1794121200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-08/syd-pnx"
   },
   {
@@ -902,39 +880,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Chicago Blackhawks vs Carolina Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/168cf7237140fb916012138856e5f4fc-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/chi-car",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/chi-car"
-  },
-  {
-    "name": "San Jose Sharks vs Dallas Stars",
-    "poster": "https://static.ppvservices.st/assets/thumb/0659a9bc8946e966eed89a6ec51ad7cf-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/sj-dal",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/sj-dal"
-  },
-  {
-    "name": "Tampa Bay Lightning vs Minnesota Wild",
-    "poster": "https://static.ppvservices.st/assets/thumb/e8d1ce8cf7bbf6acc8ea773e474482d8-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/tb-min",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/tb-min"
-  },
-  {
     "name": "Detroit Red Wings vs Colorado Avalanche",
     "poster": "https://static.ppvservices.st/assets/thumb/4ec5ca56602401b6810684b41d296d3b-thumbnail.jpg",
     "tag": "NHL",
@@ -988,17 +933,6 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-league"
-  },
-  {
-    "name": "AEW Saturday Night Collision",
-    "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "aew/2026-11-07",
-    "starts_at": 1794099600,
-    "ends_at": 1794110400,
-    "status": "live",
-    "page": "https://ppv.st/live/aew/2026-11-07"
   },
   {
     "name": "24/7 South Park",
