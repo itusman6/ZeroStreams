@@ -187,17 +187,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "San Antonio Spurs vs Portland Trail Blazers",
-    "poster": "https://static.ppvservices.st/assets/thumb/63385e60e324f208715898168944a85f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-07/sa-por",
-    "starts_at": 1794106800,
-    "ends_at": 1794117600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-07/sa-por"
-  },
-  {
     "name": "Sydney Kings vs South East Melbourne Phoenix",
     "poster": "https://static.ppvservices.st/assets/thumb/eceea289949b3d8ad33055621ad81cd0-thumbnail.jpg",
     "tag": "NBL",
@@ -216,7 +205,7 @@
     "uri": "nbl/2026-11-08/per-cns",
     "starts_at": 1794117600,
     "ends_at": 1794128400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-08/per-cns"
   },
   {
@@ -482,17 +471,6 @@
     "ends_at": 1794290400,
     "status": "upcoming",
     "page": "https://ppv.st/live/nba/2026-11-09/no-gs"
-  },
-  {
-    "name": "UFC Fight Night: Cortes Acosta vs Walker",
-    "poster": "https://static.ppvservices.st/assets/thumb/0d37985b1969bdfb82f70fd955af4fbb-thumbnail.jpg",
-    "tag": "MMA",
-    "category": "Combat Sports",
-    "uri": "ufc-fight-night-cortes-acosta-vs-walker-31909",
-    "starts_at": 1794088800,
-    "ends_at": 1794117600,
-    "status": "live",
-    "page": "https://ppv.st/live/ufc-fight-night-cortes-acosta-vs-walker-31909"
   },
   {
     "name": "Willow",
@@ -933,17 +911,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Vancouver Canucks vs Edmonton Oilers",
-    "poster": "https://static.ppvservices.st/assets/thumb/0908149b8fef3c3a592de40dc099d7ac-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/van-edm",
-    "starts_at": 1794106800,
-    "ends_at": 1794117600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/van-edm"
   },
   {
     "name": "Florida Panthers vs Boston Bruins",
