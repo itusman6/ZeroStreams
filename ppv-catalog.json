@@ -242,17 +242,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Brooklyn Nets vs Atlanta Hawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/f81dd36717315c63e160f2215254568d-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-07/bkn-atl",
-    "starts_at": 1794097800,
-    "ends_at": 1794108600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-07/bkn-atl"
-  },
-  {
     "name": "New York Knicks vs Cleveland Cavaliers",
     "poster": "https://static.ppvservices.st/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg",
     "tag": "NBA",
@@ -482,17 +471,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Toluca vs Monterrey",
-    "poster": "https://static.ppvservices.st/assets/thumb/0b968e54134cf878baf80697b4b97b77-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-07/tol-mty",
-    "starts_at": 1794099600,
-    "ends_at": 1794108600,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-07/tol-mty"
   },
   {
     "name": "Pumas UNAM vs Am\u00e9rica",
