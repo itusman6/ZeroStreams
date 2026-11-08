@@ -29,7 +29,7 @@
     "uri": "nfl/2026-11-08/dal-ind",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/dal-ind"
   },
   {
@@ -40,7 +40,7 @@
     "uri": "nfl/2026-11-08/nyj-kc",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/nyj-kc"
   },
   {
@@ -51,7 +51,7 @@
     "uri": "nfl/2026-11-08/det-mia",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/det-mia"
   },
   {
@@ -62,7 +62,7 @@
     "uri": "nfl/2026-11-08/cle-no",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/cle-no"
   },
   {
@@ -73,7 +73,7 @@
     "uri": "nfl/2026-11-08/nyg-phi",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/nyg-phi"
   },
   {
@@ -84,7 +84,7 @@
     "uri": "nfl/2026-11-08/lar-wsh",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/lar-wsh"
   },
   {
@@ -95,7 +95,7 @@
     "uri": "nfl/2026-11-08/den-car",
     "starts_at": 1794160800,
     "ends_at": 1794175200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/den-car"
   },
   {
@@ -106,7 +106,7 @@
     "uri": "nfl-redzone-31950",
     "starts_at": 1794160800,
     "ends_at": 1794186000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl-redzone-31950"
   },
   {
@@ -205,7 +205,7 @@
     "uri": "cbb/2026-11-08/ark-uva",
     "starts_at": 1794160800,
     "ends_at": 1794171600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-08/ark-uva"
   },
   {
@@ -473,39 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AIK vs BK H\u00e4cken",
-    "poster": "https://static.ppvservices.st/assets/thumb/5b32a39112d732d927a1ec372350976b-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-08/aik-bkh",
-    "starts_at": 1794151800,
-    "ends_at": 1794160800,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-08/aik-bkh"
-  },
-  {
-    "name": "IF Brommapojkarna vs Mj\u00e4llby AIF",
-    "poster": "https://static.ppvservices.st/assets/thumb/5493ab67edf693b3c4724e40eb2c1b4d-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-08/bro-mja",
-    "starts_at": 1794151800,
-    "ends_at": 1794160800,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-08/bro-mja"
-  },
-  {
-    "name": "Kalmar FF vs IK Sirius",
-    "poster": "https://static.ppvservices.st/assets/thumb/dbea17208ebfbfc7007d1ef532e81e9e-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-08/kff-sir",
-    "starts_at": 1794151800,
-    "ends_at": 1794160800,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-08/kff-sir"
-  },
-  {
     "name": "AZ Alkmaar vs FC Groningen",
     "poster": "https://static.ppvservices.st/assets/thumb/7ae7567807eceaa0f13e89f1a0f61612-thumbnail.jpg",
     "tag": "Eredivisie",
@@ -733,7 +700,7 @@
     "uri": "nhl/2026-11-08/fla-bos",
     "starts_at": 1794160800,
     "ends_at": 1794171600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-08/fla-bos"
   },
   {
