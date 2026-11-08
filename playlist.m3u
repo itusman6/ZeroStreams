@@ -27,14 +27,6 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9813c6343aa97af8" tvg-name="LIVE 24/7 — NFL RedZone — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL RedZone — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="LIVE 24/7 — NFL RedZone — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL RedZone — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Shared Channels | MAIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MAIN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -147,6 +139,14 @@ https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9813c6343aa97af8" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL RedZone — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL RedZone — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foot.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL RedZone — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL RedZone — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs" tvg-logo="https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
