@@ -473,17 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "FC Twente vs Ajax Amsterdam",
-    "poster": "https://static.ppvservices.st/assets/thumb/d6062e52afcd9973b28a9fc07013ba1d-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/twe-aja",
-    "starts_at": 1794144600,
-    "ends_at": 1794153600,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/twe-aja"
-  },
-  {
     "name": "Brighton & Hove Albion vs Brentford",
     "poster": "https://static.ppvservices.st/assets/thumb/32fd8098ffa752c65ed9b01109223e5c-thumbnail.jpg",
     "tag": "Premier League",
