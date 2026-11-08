@@ -117,7 +117,7 @@
     "uri": "nfl/2026-11-08/gb-ne",
     "starts_at": 1794173100,
     "ends_at": 1794187500,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/gb-ne"
   },
   {
@@ -128,7 +128,7 @@
     "uri": "nfl/2026-11-08/lv-sf",
     "starts_at": 1794173100,
     "ends_at": 1794187500,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/lv-sf"
   },
   {
@@ -139,7 +139,7 @@
     "uri": "nfl/2026-11-08/ari-sea",
     "starts_at": 1794173100,
     "ends_at": 1794187500,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/ari-sea"
   },
   {
@@ -438,17 +438,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "FC Utrecht vs NEC Nijmegen",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ebd4ce765357290d61c4f96b0f74414-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/utr-nec",
-    "starts_at": 1794164400,
-    "ends_at": 1794173400,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/utr-nec"
   },
   {
     "name": "Fiorentina vs Juventus",
