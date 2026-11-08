@@ -31,6 +31,10 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 24/7 — NHL | Florida Panthers vs Boston Bruins" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Florida Panthers vs Boston Bruins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Shared Channels | MAIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MAIN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -159,10 +163,6 @@ https://temp.formaturamaxi.com.br/foot.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nfl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 2026-11-08 18:00 UTC — NHL | Florida Panthers vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg" group-title="NHL",LIVE 2026-11-08 18:00 UTC — NHL | Florida Panthers vs Boston Bruins
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona" tvg-logo="https://static.ppvservices.st/assets/thumb/fa41232a70247e109bf458ad66fedac1-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -171,14 +171,10 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.76db5ae15928eb35" tvg-name="UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.25b2443ce52b131d" tvg-name="UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers" tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.68e931d18ad32f07" tvg-name="UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl9.m3u8
+https://temp.formaturamaxi.com.br/nfl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.715be7e3f0b1d7a8" tvg-name="UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/10a3d611ac2ea6fdce0816cea8fb1cd7-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

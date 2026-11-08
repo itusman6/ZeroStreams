@@ -176,17 +176,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Arkansas Razorbacks vs Virginia Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/415cf247d83b02ec4965bec042857e13-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-08/ark-uva",
-    "starts_at": 1794160800,
-    "ends_at": 1794171600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-08/ark-uva"
-  },
-  {
     "name": "Philadelphia 76ers vs Chicago Bulls",
     "poster": "https://static.ppvservices.st/assets/thumb/9bfd3466d996db0f9efdf518f0619242-thumbnail.jpg",
     "tag": "NBA",
@@ -451,17 +440,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "TSG Hoffenheim vs Schalke 04",
-    "poster": "https://static.ppvservices.st/assets/thumb/d9bf8b17068878a14e2ae7a2d4aad1dd-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-08/tsg-s04",
-    "starts_at": 1794162600,
-    "ends_at": 1794171600,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-08/tsg-s04"
-  },
-  {
     "name": "FC Utrecht vs NEC Nijmegen",
     "poster": "https://static.ppvservices.st/assets/thumb/4ebd4ce765357290d61c4f96b0f74414-thumbnail.jpg",
     "tag": "Eredivisie",
@@ -548,17 +526,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Florida Panthers vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/fla-bos",
-    "starts_at": 1794160800,
-    "ends_at": 1794171600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-08/fla-bos"
   },
   {
     "name": "Vegas Golden Knights vs Buffalo Sabres",
