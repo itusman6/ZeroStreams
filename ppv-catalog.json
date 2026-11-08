@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Boise State Broncos vs Colorado State Rams",
-    "poster": "https://static.ppvservices.st/assets/thumb/85d06488c23a32026c78ae48a40c0f13-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-07/bois-csu",
-    "starts_at": 1794092400,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-07/bois-csu"
-  },
-  {
     "name": "Kentucky Wildcats vs Tennessee Volunteers",
     "poster": "https://static.ppvservices.st/assets/thumb/051fa4fee51985d42cd0746ba5d5dcdb-thumbnail.jpg",
     "tag": "College Football",
@@ -31,17 +20,6 @@
     "ends_at": 1794107700,
     "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-07/uk-tenn"
-  },
-  {
-    "name": "BC Lions vs Edmonton Elks",
-    "poster": "https://static.ppvservices.st/assets/thumb/85bbcc20aaf30d7bd11a024ba09e99f4-thumbnail.jpg",
-    "tag": "Canadian Football",
-    "category": "American Football",
-    "uri": "cfl/2026-11-07/bc-edm",
-    "starts_at": 1794094200,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfl/2026-11-07/bc-edm"
   },
   {
     "name": "Miami Hurricanes vs Notre Dame Fighting Irish",
@@ -337,7 +315,7 @@
     "uri": "nba/2026-11-07/sa-por",
     "starts_at": 1794106800,
     "ends_at": 1794117600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-07/sa-por"
   },
   {
@@ -517,83 +495,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Austin FC vs Portland Timbers",
-    "poster": "https://static.ppvservices.st/assets/thumb/dd7a19b68d0782f925689b6f2bfadf0d-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/atx-por",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/atx-por"
-  },
-  {
-    "name": "FC Dallas vs Colorado Rapids",
-    "poster": "https://static.ppvservices.st/assets/thumb/3b4caa920d45637d5770530ea126202f-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/dal-col",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/dal-col"
-  },
-  {
-    "name": "Houston Dynamo FC vs St. Louis CITY SC",
-    "poster": "https://static.ppvservices.st/assets/thumb/21a50b2006c91165265ecdfad0232c72-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/hou-stl",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/hou-stl"
-  },
-  {
-    "name": "Minnesota United FC vs San Jose Earthquakes",
-    "poster": "https://static.ppvservices.st/assets/thumb/4fd229d37e7e1557eec882dce2377be6-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/min-sj",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/min-sj"
-  },
-  {
-    "name": "Real Salt Lake vs LA Galaxy",
-    "poster": "https://static.ppvservices.st/assets/thumb/2632909f50e80a5c6c7b83c0cdbfd8c9-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/rsl-la",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/rsl-la"
-  },
-  {
-    "name": "San Diego FC vs Sporting Kansas City",
-    "poster": "https://static.ppvservices.st/assets/thumb/a96fb759c2b2e54d51505e8948e2ce4b-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/sd-skc",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/sd-skc"
-  },
-  {
-    "name": "Seattle Sounders FC vs LAFC",
-    "poster": "https://static.ppvservices.st/assets/thumb/d1b85c361bd1b0f42e77183dcc3f6d00-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-07/sea-lafc",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-07/sea-lafc"
-  },
-  {
     "name": "Toluca vs Monterrey",
     "poster": "https://static.ppvservices.st/assets/thumb/0b968e54134cf878baf80697b4b97b77-thumbnail.jpg",
     "tag": "Liga MX",
@@ -612,7 +513,7 @@
     "uri": "liga-mx/2026-11-07/unam-ame",
     "starts_at": 1794106800,
     "ends_at": 1794115800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-07/unam-ame"
   },
   {
@@ -1034,39 +935,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Montreal Canadiens vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/c4a03829dc94b00115521ff382c64a5b-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/mtl-tor",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/mtl-tor"
-  },
-  {
-    "name": "Utah Mammoth vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/ad20d5045fc123ae0ff3422e4cdb677a-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/uta-ott",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/uta-ott"
-  },
-  {
-    "name": "New Jersey Devils vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/1cd1debf8feb22437d90ab3e9cf0f23e-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-07/nj-nyi",
-    "starts_at": 1794096000,
-    "ends_at": 1794106800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-07/nj-nyi"
-  },
-  {
     "name": "Chicago Blackhawks vs Carolina Hurricanes",
     "poster": "https://static.ppvservices.st/assets/thumb/168cf7237140fb916012138856e5f4fc-thumbnail.jpg",
     "tag": "NHL",
@@ -1129,7 +997,7 @@
     "uri": "nhl/2026-11-07/van-edm",
     "starts_at": 1794106800,
     "ends_at": 1794117600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-07/van-edm"
   },
   {
