@@ -462,17 +462,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Inter Milan vs Como",
-    "poster": "https://static.ppvservices.st/assets/thumb/43b1d4fd55886d02f6f76852a7675a02-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/int-como",
-    "starts_at": 1794157200,
-    "ends_at": 1794166200,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-08/int-como"
-  },
-  {
     "name": "Celta Vigo vs Levante",
     "poster": "https://static.ppvservices.st/assets/thumb/623e4143acbe8127c59db7f207d5d89e-thumbnail.jpg",
     "tag": "LaLiga",
