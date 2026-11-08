@@ -3,62 +3,10 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="LIVE 24/7 — Live | Arkansas vs Auburn" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Arkansas vs Auburn
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.47335cd8e70e9d7d" tvg-name="LIVE 24/7 — Live | BYU vs Utah" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | BYU vs Utah
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a73f9e6d625c7b64" tvg-name="LIVE 24/7 — Live | Clemson vs Syracuse" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Clemson vs Syracuse
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="LIVE 24/7 — Live | Florida State vs Boston College" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Florida State vs Boston College
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.46f2cab77de877f5" tvg-name="LIVE 24/7 — Live | Iowa State vs Baylor" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Iowa State vs Baylor
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa17.m3u8
 #EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="LIVE 24/7 — Live | MVPW 7: Turhan vs Baumgardner" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | MVPW 7: Turhan vs Baumgardner
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e070e537eb316f7" tvg-name="LIVE 24/7 — Live | Maryland vs Purdue" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Maryland vs Purdue
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ab043270c6ca282b" tvg-name="LIVE 24/7 — Live | Miami vs Notre Dame" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Miami vs Notre Dame
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa15.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0c36754b9d45e559" tvg-name="LIVE 24/7 — Live | Michigan State vs Michigan" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Michigan State vs Michigan
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa16.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f9c8f30f49ab73a2" tvg-name="LIVE 24/7 — Live | NCAA GameDay" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | NCAA GameDay
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d4dbc78baff9cb32" tvg-name="LIVE 24/7 — Live | Oklahoma State vs Kansas State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Oklahoma State vs Kansas State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa11.m3u8
-#EXTINF:-1 tvg-id="zerostreams.41879e5403e956f4" tvg-name="LIVE 24/7 — Live | Oregon vs Ohio State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Oregon vs Ohio State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.98a1eb1f7df7ca89" tvg-name="LIVE 24/7 — Live | Tulsa vs Tulane" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Tulsa vs Tulane
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f62117fb296b9580" tvg-name="LIVE 24/7 — Live | UCLA vs Minnesota" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | UCLA vs Minnesota
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3b1e5717e70e7d77" tvg-name="LIVE 24/7 — Live | WEC - 6 Hours of Monza — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | WEC - 6 Hours of Monza — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -75,34 +23,54 @@ https://admin2.formaturamaxi.com.br/mlb5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a4450f3ba45b0a00" tvg-name="LIVE 24/7 — NASCAR Cup Series: Race" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nascar.png" group-title="NASCAR",LIVE 24/7 — NASCAR Cup Series: Race
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ncaa8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="LIVE 24/7 — Shared Channels | BEINES — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | BEINES — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — Shared Channels | NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e279ef1f2931f26" tvg-name="LIVE 24/7 — Shared Channels | NCAA14 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NCAA14 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
+#EXTINF:-1 tvg-id="zerostreams.4bcdf26bc68b00e9" tvg-name="LIVE 24/7 — Shared Channels | NFL2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL2 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
-#EXTINF:-1 tvg-id="zerostreams.84eb43503e14fd03" tvg-name="LIVE 24/7 — Shared Channels | NCAA6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NCAA6 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-6
+https://admin.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0f6759cce67ab5a1" tvg-name="LIVE 24/7 — Shared Channels | NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL4 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a4450f3ba45b0a00" tvg-name="LIVE 24/7 — Shared Channels | NCAA8 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NCAA8 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
+https://tedesco.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3cdb8ed3b8729ba6" tvg-name="LIVE 24/7 — Shared Channels | NFL6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL6 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa8.m3u8
+https://admin2.formaturamaxi.com.br/nfl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 24/7 — Shared Channels | NFLALT — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFLALT — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.dad5f8bcb695d615" tvg-name="LIVE 24/7 — Shared Channels | PREM — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | PREM — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4582d4c25ec649c8" tvg-name="LIVE 24/7 — Shared Channels | SKYNFL — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | SKYNFL — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/skynfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 24/7 — Shared Channels | TNT — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | TNT — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f18a503691929b45" tvg-name="LIVE 24/7 — Soccer | Brighton vs Brentford" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Brighton vs Brentford
+#EXTINF:-1 tvg-id="zerostreams.4e783dee3ca3f0e2" tvg-name="LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/cardiff.m3u8
+https://admin2.formaturamaxi.com.br/plus.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8153e53c4a3f17e4" tvg-name="LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/plus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d639ebbc1d24af72" tvg-name="LIVE 24/7 — Soccer | Celta De Vigo vs Levante — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Celta De Vigo vs Levante — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -119,26 +87,10 @@ https://admin2.formaturamaxi.com.br/sky7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1c43ba3b9a93898" tvg-name="LIVE 24/7 — Soccer | Genoa vs Milan" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Genoa vs Milan
+#EXTINF:-1 tvg-id="zerostreams.320e0440eae7fc02" tvg-name="LIVE 24/7 — Soccer | Genoa vs Milan" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Genoa vs Milan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="LIVE 24/7 — Soccer | Köln vs Bayer Leverkusen" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Köln vs Bayer Leverkusen
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 24/7 — Soccer | Laliga — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Laliga — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.dbe62d8819c40df3" tvg-name="LIVE 24/7 — Soccer | Laliga — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Laliga — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/rma.m3u8
-#EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Soccer | Stafford Rangers vs Grimsby" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Stafford Rangers vs Grimsby
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/main.m3u8
+https://tedesco.formaturamaxi.com.br/bein2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bb03cbd399e89052" tvg-name="LIVE 24/7 — Soccer | Vasco Gama vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Vasco Gama vs Palmeiras
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -155,6 +107,10 @@ https://temp.formaturamaxi.com.br/ufc.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/usa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.31cd6b9dcb3441a8" tvg-name="UPCOMING 2026-11-08 11:30 UTC — Soccer | Napoli vs Lazio" tvg-logo="https://static.ppvservices.st/assets/thumb/c64b72d432dcadee30adf755a9a7be10-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 11:30 UTC — Soccer | Napoli vs Lazio
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8b138901715f800c" tvg-name="UPCOMING 2026-11-08 14:00 UTC — Soccer | Crystal Palace vs Liverpool" tvg-logo="https://static.ppvservices.st/assets/thumb/3ae52ce24a78332a298538690a722132-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 14:00 UTC — Soccer | Crystal Palace vs Liverpool
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -163,18 +119,46 @@ https://admin2.formaturamaxi.com.br/west.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e88b64d0e91afa31" tvg-name="UPCOMING 2026-11-08 14:00 UTC — Soccer | Monza vs Atalanta" tvg-logo="https://static.ppvservices.st/assets/thumb/14da38cc05e91df8231d6ddd370308dd-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 14:00 UTC — Soccer | Monza vs Atalanta
+#EXTINF:-1 tvg-id="zerostreams.84eb43503e14fd03" tvg-name="UPCOMING 2026-11-08 14:00 UTC — Soccer | Monza vs Atalanta" tvg-logo="https://static.ppvservices.st/assets/thumb/14da38cc05e91df8231d6ddd370308dd-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 14:00 UTC — Soccer | Monza vs Atalanta
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/birm.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.28e448f405f7a6a5" tvg-name="UPCOMING 2026-11-08 14:00 UTC — Soccer | Sunderland vs Chelsea" tvg-logo="https://static.ppvservices.st/assets/thumb/64daee3fbb4f243a948cf455cb1a65bb-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 14:00 UTC — Soccer | Sunderland vs Chelsea
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/arsenal.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="UPCOMING 2026-11-08 14:30 UTC — NFL | Cincinnati Bengals vs Atlanta Falcons — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 14:30 UTC — NFL | Cincinnati Bengals vs Atlanta Falcons — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c0b6abc41c78f21d" tvg-name="UPCOMING 2026-11-08 14:30 UTC — NFL | Cincinnati Bengals vs Atlanta Falcons — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 14:30 UTC — NFL | Cincinnati Bengals vs Atlanta Falcons — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/simply_abigail.m3u8
 #EXTINF:-1 tvg-id="zerostreams.24741b98ef1dbcae" tvg-name="UPCOMING 2026-11-08 16:30 UTC — Soccer | Manchester United vs Aston Villa" tvg-logo="https://static.ppvservices.st/assets/thumb/12b00704a89100d988fd37ef80360c79-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-08 16:30 UTC — Soccer | Manchester United vs Aston Villa
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fana3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f2af93d3254039e1" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | Cleveland Browns vs New Orleans Saints" tvg-logo="https://static.ppvservices.st/assets/thumb/ad09341752bcfdf81c6bd49b4349d6e3-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | Cleveland Browns vs New Orleans Saints
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e67d8ab62e2f541b" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | Denver Broncos vs Carolina Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/7b8af9399a7370376916422691054023-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | Denver Broncos vs Carolina Panthers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.65923d32f5a9e807" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | Detroit Lions vs Miami Dolphins" tvg-logo="https://static.ppvservices.st/assets/thumb/f57af0a151528f6100eb37c293e704be-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | Detroit Lions vs Miami Dolphins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.40b9e8205db14a08" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders" tvg-logo="https://static.ppvservices.st/assets/thumb/105d2e2884b76ffb6ca3043867539cd3-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs" tvg-logo="https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="UPCOMING 2026-11-08 18:00 UTC — NHL | Florida Panthers vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-08 18:00 UTC — NHL | Florida Panthers vs Boston Bruins
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -187,6 +171,26 @@ https://admin2.formaturamaxi.com.br/mls2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.76db5ae15928eb35" tvg-name="UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl9.m3u8
+#EXTINF:-1 tvg-id="zerostreams.68e931d18ad32f07" tvg-name="UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:05 UTC — NFL | Houston Texans vs Los Angeles Chargers — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl9.m3u8
+#EXTINF:-1 tvg-id="zerostreams.715be7e3f0b1d7a8" tvg-name="UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/10a3d611ac2ea6fdce0816cea8fb1cd7-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ee54020e7088c7ea" tvg-name="UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/10a3d611ac2ea6fdce0816cea8fb1cd7-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:25 UTC — NFL | Arizona Cardinals vs Seattle Seahawks — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9ada336994e5b023" tvg-name="UPCOMING 2026-11-08 21:25 UTC — NFL | Green Bay Packers vs New England Patriots" tvg-logo="https://static.ppvservices.st/assets/thumb/ffbd6d569bfa2c36ef75fccd1e33b4ca-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-08 21:25 UTC — NFL | Green Bay Packers vs New England Patriots
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/chiefs.m3u8
 #EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="UPCOMING 2026-11-08 23:00 UTC — NBA | Los Angeles Lakers vs Detroit Pistons" tvg-logo="https://static.ppvservices.st/assets/thumb/e4a95bc7204d9153e4a0cb7215944a63-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-08 23:00 UTC — NBA | Los Angeles Lakers vs Detroit Pistons
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -219,6 +223,14 @@ https://admin2.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6ffd5c7989093c83" tvg-name="UPCOMING 2026-11-09 01:20 UTC — NFL | Tampa Bay Buccaneers vs Chicago Bears — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/dc13f1b7becd80db7eba5b105ef29955-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-09 01:20 UTC — NFL | Tampa Bay Buccaneers vs Chicago Bears — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl13.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="UPCOMING 2026-11-09 01:20 UTC — NFL | Tampa Bay Buccaneers vs Chicago Bears — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/dc13f1b7becd80db7eba5b105ef29955-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-09 01:20 UTC — NFL | Tampa Bay Buccaneers vs Chicago Bears — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="UPCOMING 2026-11-09 02:00 UTC — NBA | Miami Heat vs Sacramento Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/d0cfda0485a9ecca9b9727124778e9e4-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-09 02:00 UTC — NBA | Miami Heat vs Sacramento Kings
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
