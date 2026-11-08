@@ -473,83 +473,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Brighton & Hove Albion vs Brentford",
-    "poster": "https://static.ppvservices.st/assets/thumb/32fd8098ffa752c65ed9b01109223e5c-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/bha-bre",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-08/bha-bre"
-  },
-  {
-    "name": "Crystal Palace vs Liverpool",
-    "poster": "https://static.ppvservices.st/assets/thumb/3ae52ce24a78332a298538690a722132-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/cry-liv",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-08/cry-liv"
-  },
-  {
-    "name": "Ipswich Town vs AFC Bournemouth",
-    "poster": "https://static.ppvservices.st/assets/thumb/30b825b0473a19430fe688e5a886f54b-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/ips-bou",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-08/ips-bou"
-  },
-  {
-    "name": "Sunderland vs Chelsea",
-    "poster": "https://static.ppvservices.st/assets/thumb/64daee3fbb4f243a948cf455cb1a65bb-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/sun-che",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-08/sun-che"
-  },
-  {
-    "name": "Genoa vs AC Milan",
-    "poster": "https://static.ppvservices.st/assets/thumb/abb401d07be22b6ffcdc9ec91696b35d-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/gen-mil",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-08/gen-mil"
-  },
-  {
-    "name": "Monza vs Atalanta",
-    "poster": "https://static.ppvservices.st/assets/thumb/14da38cc05e91df8231d6ddd370308dd-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/mon-ata",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-08/mon-ata"
-  },
-  {
-    "name": "Stade Rennais vs Lille",
-    "poster": "https://static.ppvservices.st/assets/thumb/79d4e5c31aa7403958a13837da551ebe-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/ren-lill",
-    "starts_at": 1794146400,
-    "ends_at": 1794155400,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/ren-lill"
-  },
-  {
     "name": "FC Cologne vs Bayer Leverkusen",
     "poster": "https://static.ppvservices.st/assets/thumb/70fdb023dc77fff1674bd89e03d2e0bf-thumbnail.jpg",
     "tag": "Bundesliga",
@@ -678,7 +601,7 @@
     "uri": "bundesliga/2026-11-08/scf-fcu",
     "starts_at": 1794155400,
     "ends_at": 1794164400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-08/scf-fcu"
   },
   {
@@ -689,7 +612,7 @@
     "uri": "pl/2026-11-08/mun-avl",
     "starts_at": 1794155400,
     "ends_at": 1794164400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-08/mun-avl"
   },
   {
