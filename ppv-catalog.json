@@ -462,50 +462,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Angers vs Nice",
-    "poster": "https://static.ppvservices.st/assets/thumb/815445a31e81c65ff5bb6178634a192e-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/ang-nice",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/ang-nice"
-  },
-  {
-    "name": "Brest vs Lyon",
-    "poster": "https://static.ppvservices.st/assets/thumb/5b2451169ff76afb9d79248065f8b74a-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/bre-lyon",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/bre-lyon"
-  },
-  {
-    "name": "Le Havre AC vs Lorient",
-    "poster": "https://static.ppvservices.st/assets/thumb/cd472f3cc24b3d90f2b2445696870b33-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/hac-lor",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/hac-lor"
-  },
-  {
-    "name": "Le Mans vs AS Monaco",
-    "poster": "https://static.ppvservices.st/assets/thumb/9f389577a2d503e487986e0f97909d79-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/mns-mon",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-08/mns-mon"
-  },
-  {
     "name": "SC Freiburg vs 1. FC Union Berlin",
     "poster": "https://static.ppvservices.st/assets/thumb/a53a594e61d47c0a67a480e18c6d07d8-thumbnail.jpg",
     "tag": "Bundesliga",

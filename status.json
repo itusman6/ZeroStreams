@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-08T18:31:32.498920+00:00",
+  "updated_utc": "2026-11-08T18:45:59.096338+00:00",
   "pages": 60,
   "candidate_urls": 62,
   "live_urls": 0,
@@ -14,31 +14,17 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 77,
+    "active_events": 73,
     "direct_candidates": 0,
-    "embed_only_events": 77,
+    "embed_only_events": 73,
     "errors": []
   },
   "event_groups": 54,
   "event_posters": 31,
-  "roxie_source": "https://roxiestreams.biz/",
+  "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
       "base": "https://roxiestreams.info/",
-      "pages": 59,
-      "errors": [
-        {
-          "page": "https://roxiestreams.info/fighting",
-          "error": "<urlopen error [Errno 104] Connection reset by peer>"
-        },
-        {
-          "page": "https://roxiestreams.info/mlb",
-          "error": "<urlopen error [Errno 104] Connection reset by peer>"
-        }
-      ]
-    },
-    {
-      "base": "https://roxiestreams.biz/",
       "pages": 60,
       "errors": []
     }
