@@ -99,6 +99,10 @@ https://admin2.formaturamaxi.com.br/usa.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 24/7 — Soccer | Atlético Madrid vs Barcelona" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Madrid vs Barcelona
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e783dee3ca3f0e2" tvg-name="LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Brighton vs Brentford — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -163,10 +167,6 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona" tvg-logo="https://static.ppvservices.st/assets/thumb/fa41232a70247e109bf458ad66fedac1-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 2026-11-08 20:30 UTC — NHL | Vegas Golden Knights vs Buffalo Sabres" tvg-logo="https://static.ppvservices.st/assets/thumb/4360e05c51a1dc7c73ba63b98e18e49f-thumbnail.jpg" group-title="NHL",LIVE 2026-11-08 20:30 UTC — NHL | Vegas Golden Knights vs Buffalo Sabres
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
