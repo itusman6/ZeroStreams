@@ -31,6 +31,38 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a1aad474181608aa" tvg-name="LIVE 24/7 — NFL | Cleveland Browns vs New Orleans Saints" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Cleveland Browns vs New Orleans Saints
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e3bed2a19cf9f11a" tvg-name="LIVE 24/7 — NFL | Dallas Cowboys vs Indianapolis Colts" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Dallas Cowboys vs Indianapolis Colts
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.140f9a3428c74786" tvg-name="LIVE 24/7 — NFL | Denver Broncos vs Carolina Panthers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Denver Broncos vs Carolina Panthers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0f6759cce67ab5a1" tvg-name="LIVE 24/7 — NFL | Detroit Lions vs Miami Dolphins" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Detroit Lions vs Miami Dolphins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b817146f074ea32e" tvg-name="LIVE 24/7 — NFL | Los Angeles Rams vs Washington Commanders — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Los Angeles Rams vs Washington Commanders — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.df781fdafdeb8a56" tvg-name="LIVE 24/7 — NFL | Los Angeles Rams vs Washington Commanders — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Los Angeles Rams vs Washington Commanders — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3cdb8ed3b8729ba6" tvg-name="LIVE 24/7 — NFL | New York Giants vs Philadelphia Eagles" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | New York Giants vs Philadelphia Eagles
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b0e3479bacc639f7" tvg-name="LIVE 24/7 — NFL | New York Jets vs Kansas City Chiefs" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | New York Jets vs Kansas City Chiefs
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 24/7 — NHL | Florida Panthers vs Boston Bruins" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Florida Panthers vs Boston Bruins
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -123,30 +155,6 @@ https://admin2.formaturamaxi.com.br/chelsea.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a1aad474181608aa" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Cleveland Browns vs New Orleans Saints" tvg-logo="https://static.ppvservices.st/assets/thumb/ad09341752bcfdf81c6bd49b4349d6e3-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Cleveland Browns vs New Orleans Saints
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e3bed2a19cf9f11a" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Dallas Cowboys vs Indianapolis Colts" tvg-logo="https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Dallas Cowboys vs Indianapolis Colts
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.140f9a3428c74786" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Denver Broncos vs Carolina Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/7b8af9399a7370376916422691054023-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Denver Broncos vs Carolina Panthers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0f6759cce67ab5a1" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Detroit Lions vs Miami Dolphins" tvg-logo="https://static.ppvservices.st/assets/thumb/f57af0a151528f6100eb37c293e704be-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Detroit Lions vs Miami Dolphins
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b817146f074ea32e" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/105d2e2884b76ffb6ca3043867539cd3-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.df781fdafdeb8a56" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/105d2e2884b76ffb6ca3043867539cd3-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | Los Angeles Rams vs Washington Commanders — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL RedZone — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL RedZone — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -155,14 +163,6 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3cdb8ed3b8729ba6" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | New York Giants vs Philadelphia Eagles" tvg-logo="https://static.ppvservices.st/assets/thumb/4e76a975a58c70ddcb68d7af552cf503-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | New York Giants vs Philadelphia Eagles
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b0e3479bacc639f7" tvg-name="LIVE 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs" tvg-logo="https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg" group-title="NFL",LIVE 2026-11-08 18:00 UTC — NFL | New York Jets vs Kansas City Chiefs
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona" tvg-logo="https://static.ppvservices.st/assets/thumb/fa41232a70247e109bf458ad66fedac1-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-08 20:00 UTC — Soccer | Atlético Madrid vs Barcelona
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
