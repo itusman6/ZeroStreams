@@ -195,6 +195,10 @@ https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/olympiakos.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5d483e81c6fe6938" tvg-name="LIVE 24/7 — Soccer | Querétaro vs Puebla" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Querétaro vs Puebla
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foxone1mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="LIVE 24/7 — Soccer | Rennes vs Lille" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Rennes vs Lille
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -215,10 +219,6 @@ https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5d483e81c6fe6938" tvg-name="LIVE 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/2811185ddc9964c5770004a64c8d6bcf-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxone1mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 2026-11-09 00:30 UTC — NBA | Brooklyn Nets vs Dallas Mavericks" tvg-logo="https://static.ppvservices.st/assets/thumb/4507b1e07b43774e6c51adef1da86a2a-thumbnail.jpg" group-title="NBA",LIVE 2026-11-09 00:30 UTC — NBA | Brooklyn Nets vs Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
