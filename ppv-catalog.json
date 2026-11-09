@@ -11,39 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Green Bay Packers vs New England Patriots",
-    "poster": "https://static.ppvservices.st/assets/thumb/ffbd6d569bfa2c36ef75fccd1e33b4ca-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/gb-ne",
-    "starts_at": 1794173100,
-    "ends_at": 1794187500,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-08/gb-ne"
-  },
-  {
-    "name": "Las Vegas Raiders vs San Francisco 49ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/d035a23c0d0bb272a9f94e31601dde0e-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/lv-sf",
-    "starts_at": 1794173100,
-    "ends_at": 1794187500,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-08/lv-sf"
-  },
-  {
-    "name": "Arizona Cardinals vs Seattle Seahawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/10a3d611ac2ea6fdce0816cea8fb1cd7-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/ari-sea",
-    "starts_at": 1794173100,
-    "ends_at": 1794187500,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-08/ari-sea"
-  },
-  {
     "name": "Tampa Bay Buccaneers vs Chicago Bears",
     "poster": "https://static.ppvservices.st/assets/thumb/dc13f1b7becd80db7eba5b105ef29955-thumbnail.jpg",
     "tag": "NFL",
@@ -51,7 +18,7 @@
     "uri": "nfl/2026-11-08/tb-chi",
     "starts_at": 1794187200,
     "ends_at": 1794201600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-08/tb-chi"
   },
   {
