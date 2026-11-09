@@ -418,17 +418,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "USC Trojans vs Wichita State Shockers",
-    "poster": "https://static.ppvservices.st/assets/thumb/830c2d6ab676c549af3664988b7fda1c-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-08/usc-wich",
-    "starts_at": 1794196800,
-    "ends_at": 1794207600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-08/usc-wich"
-  },
-  {
     "name": "Los Angeles Lakers vs Atlanta Hawks",
     "poster": "https://static.ppvservices.st/assets/thumb/daf20a1a7c27de85a6a4e82ff76ac313-thumbnail.jpg",
     "tag": "NBA",
