@@ -44,17 +44,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Houston Cougars vs California Golden Bears",
-    "poster": "https://static.ppvservices.st/assets/thumb/8140193b87afc4bd3c6dce721f5e2762-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-08/hou-cal",
-    "starts_at": 1794187800,
-    "ends_at": 1794198600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-08/hou-cal"
-  },
-  {
     "name": "New Orleans Pelicans vs Los Angeles Clippers",
     "poster": "https://static.ppvservices.st/assets/thumb/f71ca46a948baed113f2f71f25ce62c3-thumbnail.jpg",
     "tag": "NBA",
@@ -251,17 +240,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Le\u00f3n vs Guadalajara",
-    "poster": "https://static.ppvservices.st/assets/thumb/f0a6842e8503ec07883c761fdc837992-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-08/leo-gdl",
-    "starts_at": 1794189600,
-    "ends_at": 1794198600,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-08/leo-gdl"
   },
   {
     "name": "Sky Sports Golf",
