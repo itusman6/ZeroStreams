@@ -44,17 +44,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Boston Celtics vs Milwaukee Bucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/f11d5b12e2cc39290aec64492f8529e1-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-08/bos-mil",
-    "starts_at": 1794186000,
-    "ends_at": 1794196800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-08/bos-mil"
-  },
-  {
     "name": "Houston Cougars vs California Golden Bears",
     "poster": "https://static.ppvservices.st/assets/thumb/8140193b87afc4bd3c6dce721f5e2762-thumbnail.jpg",
     "tag": "College Basketball",
@@ -95,7 +84,7 @@
     "uri": "cbb/2026-11-08/usc-wich",
     "starts_at": 1794196800,
     "ends_at": 1794207600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-08/usc-wich"
   },
   {
@@ -295,17 +284,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Pittsburgh Penguins vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/3d03d5fdab2622265055f702e202b64c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/pit-ana",
-    "starts_at": 1794186000,
-    "ends_at": 1794196800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-08/pit-ana"
   },
   {
     "name": "Fox League",
