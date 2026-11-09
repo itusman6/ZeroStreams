@@ -44,17 +44,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Utah Jazz vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/4d16f9dd22b827e062349bf5622a7dfd-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-08/utah-min",
-    "starts_at": 1794182400,
-    "ends_at": 1794193200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-08/utah-min"
-  },
-  {
     "name": "Brooklyn Nets vs Dallas Mavericks",
     "poster": "https://static.ppvservices.st/assets/thumb/4507b1e07b43774e6c51adef1da86a2a-thumbnail.jpg",
     "tag": "NBA",
@@ -317,28 +306,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "New Jersey Devils vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/7fbd4e4d510d6b0abd3a2c548295892f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/nj-tor",
-    "starts_at": 1794182400,
-    "ends_at": 1794193200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-08/nj-tor"
-  },
-  {
-    "name": "Philadelphia Flyers vs Calgary Flames",
-    "poster": "https://static.ppvservices.st/assets/thumb/e58e52122ff45f9a88b271b61edf64b3-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/phi-cgy",
-    "starts_at": 1794182400,
-    "ends_at": 1794193200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-08/phi-cgy"
   },
   {
     "name": "Pittsburgh Penguins vs Anaheim Ducks",
