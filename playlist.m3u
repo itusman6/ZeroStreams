@@ -23,6 +23,10 @@ https://admin2.formaturamaxi.com.br/mlb5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — NBA | Philadelphia 76ers vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Philadelphia 76ers vs Chicago Bulls
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="LIVE 24/7 — NFL | Cincinnati Bengals vs Atlanta Falcons" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Cincinnati Bengals vs Atlanta Falcons
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -75,10 +79,6 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — Shared Channels | NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.52d3773574b0d3f5" tvg-name="LIVE 24/7 — Shared Channels | NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -203,11 +203,15 @@ https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="UPCOMING 2026-11-09 00:00 UTC — NHL | Philadelphia Flyers vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/e58e52122ff45f9a88b271b61edf64b3-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-09 00:00 UTC — NHL | Philadelphia Flyers vs Calgary Flames
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-09 00:00 UTC — NBA | Utah Jazz vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/4d16f9dd22b827e062349bf5622a7dfd-thumbnail.jpg" group-title="NBA",LIVE 2026-11-09 00:00 UTC — NBA | Utah Jazz vs Minnesota Timberwolves
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 2026-11-09 00:00 UTC — NHL | Philadelphia Flyers vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/e58e52122ff45f9a88b271b61edf64b3-thumbnail.jpg" group-title="NHL",LIVE 2026-11-09 00:00 UTC — NHL | Philadelphia Flyers vs Calgary Flames
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5d483e81c6fe6938" tvg-name="UPCOMING 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/2811185ddc9964c5770004a64c8d6bcf-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla
+#EXTINF:-1 tvg-id="zerostreams.5d483e81c6fe6938" tvg-name="LIVE 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/2811185ddc9964c5770004a64c8d6bcf-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-09 00:00 UTC — Soccer | Querétaro vs Puebla
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foxone1mx.m3u8
