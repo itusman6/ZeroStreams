@@ -836,17 +836,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Philadelphia Flyers vs Vancouver Canucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/2a18465575332c315f3029c7cd47c1e5-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-09/phi-van",
-    "starts_at": 1794277800,
-    "ends_at": 1794288600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-09/phi-van"
-  },
-  {
     "name": "New York Islanders vs San Jose Sharks",
     "poster": "https://static.ppvservices.st/assets/thumb/5693bca36ed4c81042a4e51b67655e90-thumbnail.jpg",
     "tag": "NHL",
