@@ -524,7 +524,7 @@
     "uri": "nba/2026-11-09/ind-dal",
     "starts_at": 1794272400,
     "ends_at": 1794283200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/ind-dal"
   },
   {
@@ -788,7 +788,7 @@
     "uri": "nhl/2026-11-09/nyr-edm",
     "starts_at": 1794272400,
     "ends_at": 1794283200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-09/nyr-edm"
   },
   {
