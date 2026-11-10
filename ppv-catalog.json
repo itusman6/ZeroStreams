@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "New Orleans Pelicans vs Golden State Warriors",
-    "poster": "https://static.ppvservices.st/assets/thumb/fbbc720fd1b00be1d8a7c8c2dc644186-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-09/no-gs",
-    "starts_at": 1794279600,
-    "ends_at": 1794290400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-09/no-gs"
-  },
-  {
     "name": "Florida Gators vs Florida State Seminoles",
     "poster": "https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg",
     "tag": "College Basketball",
@@ -834,17 +823,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "New York Islanders vs San Jose Sharks",
-    "poster": "https://static.ppvservices.st/assets/thumb/5693bca36ed4c81042a4e51b67655e90-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-09/nyi-sj",
-    "starts_at": 1794279600,
-    "ends_at": 1794290400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-09/nyi-sj"
   },
   {
     "name": "Colorado Avalanche vs Toronto Maple Leafs",
