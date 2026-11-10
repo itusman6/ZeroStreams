@@ -418,17 +418,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Denver Nuggets vs Houston Rockets",
-    "poster": "https://static.ppvservices.st/assets/thumb/4d2ef6f816911f5fde1b3e5b51400d21-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-09/den-hou",
-    "starts_at": 1794274200,
-    "ends_at": 1794285000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-09/den-hou"
-  },
-  {
     "name": "San Antonio Spurs vs Phoenix Suns",
     "poster": "https://static.ppvservices.st/assets/thumb/7129d1f77f25fbabbeaffcd8059110ec-thumbnail.jpg",
     "tag": "NBA",
