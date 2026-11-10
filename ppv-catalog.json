@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Buffalo Bills vs Minnesota Vikings",
-    "poster": "https://static.ppvservices.st/assets/thumb/a9c8ce517c4f1596d7a6fb00c4bc665a-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-09/buf-min",
-    "starts_at": 1794273300,
-    "ends_at": 1794287700,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-09/buf-min"
-  },
-  {
     "name": "Washington Commanders vs New York Giants",
     "poster": "https://static.ppvservices.st/assets/thumb/9297447aa56149eabdad476935bc79af-thumbnail.jpg",
     "tag": "NFL",
