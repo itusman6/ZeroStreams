@@ -502,7 +502,7 @@
     "uri": "nba/2026-11-09/mem-tor",
     "starts_at": 1794270600,
     "ends_at": 1794281400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/mem-tor"
   },
   {
@@ -513,7 +513,7 @@
     "uri": "cbb/2026-11-09/oak-ala",
     "starts_at": 1794270600,
     "ends_at": 1794281400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-09/oak-ala"
   },
   {
