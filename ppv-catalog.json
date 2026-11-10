@@ -425,7 +425,7 @@
     "uri": "nba/2026-11-09/lal-atl",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/lal-atl"
   },
   {
@@ -436,7 +436,7 @@
     "uri": "nba/2026-11-09/cle-cha",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/cle-cha"
   },
   {
@@ -447,7 +447,7 @@
     "uri": "nba/2026-11-09/wsh-det",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/wsh-det"
   },
   {
@@ -458,7 +458,7 @@
     "uri": "cbb/2026-11-09/wag-conn",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-09/wag-conn"
   },
   {
@@ -469,7 +469,7 @@
     "uri": "cbb/2026-11-09/gram-tex",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-09/gram-tex"
   },
   {
@@ -480,7 +480,7 @@
     "uri": "cbb/2026-11-09/rad-tenn",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-09/rad-tenn"
   },
   {
@@ -491,7 +491,7 @@
     "uri": "cbb/2026-11-09/unf-mia",
     "starts_at": 1794268800,
     "ends_at": 1794279600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-09/unf-mia"
   },
   {
