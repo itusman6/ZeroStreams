@@ -418,83 +418,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Los Angeles Lakers vs Atlanta Hawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/daf20a1a7c27de85a6a4e82ff76ac313-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-09/lal-atl",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-09/lal-atl"
-  },
-  {
-    "name": "Cleveland Cavaliers vs Charlotte Hornets",
-    "poster": "https://static.ppvservices.st/assets/thumb/a3f7a7908881877a32ce19e4ac7c92aa-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-09/cle-cha",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-09/cle-cha"
-  },
-  {
-    "name": "Washington Wizards vs Detroit Pistons",
-    "poster": "https://static.ppvservices.st/assets/thumb/73b35f5cd310dfb11a6d30eedec4ff1d-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-09/wsh-det",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-09/wsh-det"
-  },
-  {
-    "name": "Wagner Seahawks vs UConn Huskies",
-    "poster": "https://static.ppvservices.st/assets/thumb/63c53afc79b9573b75e7394ac38efd79-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-09/wag-conn",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-09/wag-conn"
-  },
-  {
-    "name": "Grambling Tigers vs Texas Longhorns",
-    "poster": "https://static.ppvservices.st/assets/thumb/7f4a1f9037da809efd230d74e22702b6-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-09/gram-tex",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-09/gram-tex"
-  },
-  {
-    "name": "Radford Highlanders vs Tennessee Volunteers",
-    "poster": "https://static.ppvservices.st/assets/thumb/49104e93f498b782153c320b14ab9f5e-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-09/rad-tenn",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-09/rad-tenn"
-  },
-  {
-    "name": "North Florida Ospreys vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/96f94df80087067972c62e60d62300c7-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-09/unf-mia",
-    "starts_at": 1794268800,
-    "ends_at": 1794279600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-09/unf-mia"
-  },
-  {
     "name": "Memphis Grizzlies vs Toronto Raptors",
     "poster": "https://static.ppvservices.st/assets/thumb/87420339f8a8fa2a1d576be4ac4310d9-thumbnail.jpg",
     "tag": "NBA",
@@ -557,7 +480,7 @@
     "uri": "nba/2026-11-09/no-gs",
     "starts_at": 1794279600,
     "ends_at": 1794290400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-09/no-gs"
   },
   {
@@ -810,7 +733,7 @@
     "uri": "nhl/2026-11-09/nyi-sj",
     "starts_at": 1794279600,
     "ends_at": 1794290400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-09/nyi-sj"
   },
   {
