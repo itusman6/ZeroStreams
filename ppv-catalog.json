@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "South East Melbourne Phoenix vs Illawarra Hawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/91727aafa2a41d8f35b9e908fd0050e7-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-11/pnx-hwk",
-    "starts_at": 1794385800,
-    "ends_at": 1794396600,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-11/pnx-hwk"
-  },
-  {
     "name": "Washington Wizards vs Indiana Pacers",
     "poster": "https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg",
     "tag": "NBA",
