@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Florida Gators vs Florida State Seminoles",
-    "poster": "https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/fla-fsu",
-    "starts_at": 1794351600,
-    "ends_at": 1794362400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-10/fla-fsu"
-  },
-  {
     "name": "Michigan State Spartans vs Duke Blue Devils",
     "poster": "https://static.ppvservices.st/assets/thumb/deb4277d362663843155a3901d20d3c8-thumbnail.jpg",
     "tag": "College Basketball",
@@ -491,7 +480,7 @@
     "uri": "nba/2026-11-10/lac-phx",
     "starts_at": 1794362400,
     "ends_at": 1794373200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-10/lac-phx"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "nba/2026-11-10/mia-utah",
     "starts_at": 1794362400,
     "ends_at": 1794373200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-10/mia-utah"
   },
   {
@@ -513,7 +502,7 @@
     "uri": "cbb/2026-11-10/nau-ariz",
     "starts_at": 1794362400,
     "ends_at": 1794373200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-10/nau-ariz"
   },
   {
@@ -524,7 +513,7 @@
     "uri": "cbb/2026-11-10/buck-uva",
     "starts_at": 1794362400,
     "ends_at": 1794373200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-10/buck-uva"
   },
   {
@@ -535,7 +524,7 @@
     "uri": "cbb/2026-11-10/quc-byu",
     "starts_at": 1794362400,
     "ends_at": 1794373200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-10/quc-byu"
   },
   {
