@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Milwaukee Bucks vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/386ef259eff22ef79b79d43eb12c6867-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/mil-ny",
-    "starts_at": 1794357000,
-    "ends_at": 1794367800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-10/mil-ny"
-  },
-  {
     "name": "Boston Celtics vs Philadelphia 76ers",
     "poster": "https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg",
     "tag": "NBA",
@@ -801,17 +790,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Florida Panthers vs Columbus Blue Jackets",
-    "poster": "https://static.ppvservices.st/assets/thumb/bc800dc8910259471d4b69290de3fbbe-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/fla-cbj",
-    "starts_at": 1794357000,
-    "ends_at": 1794367800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-10/fla-cbj"
   },
   {
     "name": "Detroit Red Wings vs St. Louis Blues",
