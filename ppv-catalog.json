@@ -407,61 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Los Angeles Clippers vs Phoenix Suns",
-    "poster": "https://static.ppvservices.st/assets/thumb/a6f8e8d82351ac43d8465b4658bd9029-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/lac-phx",
-    "starts_at": 1794362400,
-    "ends_at": 1794373200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-10/lac-phx"
-  },
-  {
-    "name": "Miami Heat vs Utah Jazz",
-    "poster": "https://static.ppvservices.st/assets/thumb/b2183b1aa61b448029aba02d361ecb0b-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/mia-utah",
-    "starts_at": 1794362400,
-    "ends_at": 1794373200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-10/mia-utah"
-  },
-  {
-    "name": "Northern Arizona Lumberjacks vs Arizona Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/a567ac35330d7d90772a88abb0693c5f-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/nau-ariz",
-    "starts_at": 1794362400,
-    "ends_at": 1794373200,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-10/nau-ariz"
-  },
-  {
-    "name": "Bucknell Bison vs Virginia Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/f1cd1997406a8f3afa4b6e4a4bb786d2-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/buck-uva",
-    "starts_at": 1794362400,
-    "ends_at": 1794373200,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-10/buck-uva"
-  },
-  {
-    "name": "Queens University Royals vs BYU Cougars",
-    "poster": "https://static.ppvservices.st/assets/thumb/e637eb8e92f7c8f1dd6d88f32dddb97f-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/quc-byu",
-    "starts_at": 1794362400,
-    "ends_at": 1794373200,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-10/quc-byu"
-  },
-  {
     "name": "Kansas Jayhawks vs Kentucky Wildcats",
     "poster": "https://static.ppvservices.st/assets/thumb/e4281d1b2c15c1a76aeb579fae0d53b4-thumbnail.jpg",
     "tag": "College Basketball",
@@ -693,6 +638,83 @@
     "page": "https://ppv.st/live/cbb/2026-11-11/usc-cal"
   },
   {
+    "name": "Adelaide 36ers vs Melbourne United",
+    "poster": "https://static.ppvservices.st/assets/thumb/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg",
+    "tag": "NBL",
+    "category": "Basketball",
+    "uri": "nbl/2026-11-12/adl-mel",
+    "starts_at": 1794472200,
+    "ends_at": 1794483000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nbl/2026-11-12/adl-mel"
+  },
+  {
+    "name": "Perth Wildcats vs Tasmania JackJumpers",
+    "poster": "https://static.ppvservices.st/assets/thumb/5c8ae34e1a86d3fe51d26014a4bdb16c-thumbnail.jpg",
+    "tag": "NBL",
+    "category": "Basketball",
+    "uri": "nbl/2026-11-12/per-tas",
+    "starts_at": 1794479400,
+    "ends_at": 1794490200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nbl/2026-11-12/per-tas"
+  },
+  {
+    "name": "Toronto Raptors vs Philadelphia 76ers",
+    "poster": "https://static.ppvservices.st/assets/thumb/d3cd8bf6f050a18b29084be0f2bee11a-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-12/tor-phi",
+    "starts_at": 1794528000,
+    "ends_at": 1794538800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-12/tor-phi"
+  },
+  {
+    "name": "Detroit Pistons vs Washington Wizards",
+    "poster": "https://static.ppvservices.st/assets/thumb/f3b098cce9e6f6e35604282b79145019-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-12/det-wsh",
+    "starts_at": 1794528000,
+    "ends_at": 1794538800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-12/det-wsh"
+  },
+  {
+    "name": "Dallas Mavericks vs Minnesota Timberwolves",
+    "poster": "https://static.ppvservices.st/assets/thumb/f9189dd3aca77fc80c7335f51d6aabc6-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-12/dal-min",
+    "starts_at": 1794531600,
+    "ends_at": 1794542400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-12/dal-min"
+  },
+  {
+    "name": "Charlotte Hornets vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/8f03b344f393d11f6386ecd23211f013-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-12/cha-phx",
+    "starts_at": 1794535200,
+    "ends_at": 1794546000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-12/cha-phx"
+  },
+  {
+    "name": "Montana State Bobcats vs BYU Cougars",
+    "poster": "https://static.ppvservices.st/assets/thumb/04e5c08a76cda8139d4a99dd589c7632-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-12/mtst-byu",
+    "starts_at": 1794535200,
+    "ends_at": 1794546000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-12/mtst-byu"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -768,6 +790,72 @@
     "ends_at": 1794376800,
     "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-10/nsh-la"
+  },
+  {
+    "name": "Tampa Bay Lightning vs Buffalo Sabres",
+    "poster": "https://static.ppvservices.st/assets/thumb/20675d59d91bb77d00ae535d9bfd5854-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/tb-buf",
+    "starts_at": 1794441600,
+    "ends_at": 1794452400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/tb-buf"
+  },
+  {
+    "name": "New York Rangers vs Calgary Flames",
+    "poster": "https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/nyr-cgy",
+    "starts_at": 1794443400,
+    "ends_at": 1794454200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/nyr-cgy"
+  },
+  {
+    "name": "Philadelphia Flyers vs Edmonton Oilers",
+    "poster": "https://static.ppvservices.st/assets/thumb/657f6072332344c12b9802cdff4461c2-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/phi-edm",
+    "starts_at": 1794448800,
+    "ends_at": 1794459600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/phi-edm"
+  },
+  {
+    "name": "Utah Mammoth vs Vegas Golden Knights",
+    "poster": "https://static.ppvservices.st/assets/thumb/034b62c895fc45295c8bc22189b49fac-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/uta-vgk",
+    "starts_at": 1794450600,
+    "ends_at": 1794461400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/uta-vgk"
+  },
+  {
+    "name": "Nashville Predators vs Anaheim Ducks",
+    "poster": "https://static.ppvservices.st/assets/thumb/7a8628085698aec5b2d146917931d3de-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/nsh-ana",
+    "starts_at": 1794452400,
+    "ends_at": 1794463200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/nsh-ana"
+  },
+  {
+    "name": "Pittsburgh Penguins vs San Jose Sharks",
+    "poster": "https://static.ppvservices.st/assets/thumb/3bbeaf883611816fd73e6b8ae48310f1-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/pit-sj",
+    "starts_at": 1794452400,
+    "ends_at": 1794463200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-11/pit-sj"
   },
   {
     "name": "Fox League",
