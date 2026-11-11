@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.07bdd1d128c0759f" tvg-name="LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix
+#EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.07bdd1d128c0759f" tvg-name="LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Sao Paulo Grand Prix — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
@@ -31,14 +35,6 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="LIVE 24/7 — Shared Channels | F1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | F1 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7cdbf6dc48a4194d" tvg-name="LIVE 24/7 — Shared Channels | WNBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | WNBA — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.63fefaf2f6cbbf5b" tvg-name="LIVE 24/7 — Soccer | Leicester City vs Walsall" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Leicester City vs Walsall
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -47,14 +43,6 @@ https://admin2.formaturamaxi.com.br/wall.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e9789c6fe677a0a4" tvg-name="LIVE 24/7 — WNBA | Buffalo vs Ball State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wnba.png" group-title="WNBA",LIVE 24/7 — WNBA | Buffalo vs Ball State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1ed4e1f2d104602e" tvg-name="LIVE 24/7 — WNBA | Massachusetts vs Toledo" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wnba.png" group-title="WNBA",LIVE 24/7 — WNBA | Massachusetts vs Toledo
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/wnba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="UPCOMING 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
