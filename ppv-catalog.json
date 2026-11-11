@@ -458,7 +458,7 @@
     "uri": "nba/2026-11-10/bos-phi",
     "starts_at": 1794358800,
     "ends_at": 1794369600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-10/bos-phi"
   },
   {
@@ -469,7 +469,7 @@
     "uri": "cbb/2026-11-10/ill-ttu",
     "starts_at": 1794358800,
     "ends_at": 1794369600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-10/ill-ttu"
   },
   {
@@ -480,7 +480,7 @@
     "uri": "cbb/2026-11-10/sou-isu",
     "starts_at": 1794358800,
     "ends_at": 1794369600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-10/sou-isu"
   },
   {
@@ -898,7 +898,7 @@
     "uri": "nhl/2026-11-10/det-stl",
     "starts_at": 1794358800,
     "ends_at": 1794369600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-10/det-stl"
   },
   {
@@ -931,7 +931,7 @@
     "uri": "wwe/2026-11-10",
     "starts_at": 1794358800,
     "ends_at": 1794369600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/wwe/2026-11-10"
   },
   {
