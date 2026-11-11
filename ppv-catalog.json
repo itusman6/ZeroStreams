@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Orlando Magic vs Sacramento Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/dea6b289ce7ff5028ae5de19a098e6a4-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/orl-sac",
-    "starts_at": 1794366000,
-    "ends_at": 1794376800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-10/orl-sac"
-  },
-  {
     "name": "Oklahoma City Thunder vs Portland Trail Blazers",
     "poster": "https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg",
     "tag": "NBA",
@@ -768,17 +757,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Nashville Predators vs Los Angeles Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/c025561b4789c7e21aa530a371818ff7-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/nsh-la",
-    "starts_at": 1794366000,
-    "ends_at": 1794376800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-10/nsh-la"
   },
   {
     "name": "Tampa Bay Lightning vs Buffalo Sabres",
