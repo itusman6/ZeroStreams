@@ -407,61 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Washington Wizards vs Indiana Pacers",
-    "poster": "https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-11/wsh-ind",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-11/wsh-ind"
-  },
-  {
-    "name": "Cleveland Cavaliers vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-11/cle-ny",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-11/cle-ny"
-  },
-  {
-    "name": "Boston Celtics vs Toronto Raptors",
-    "poster": "https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-11/bos-tor",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-11/bos-tor"
-  },
-  {
-    "name": "Colgate Raiders vs St. John's Red Storm",
-    "poster": "https://static.ppvservices.st/assets/thumb/0c2df405fbeb7aa6e29dbfb231b1d551-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-11/colg-sju",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-11/colg-sju"
-  },
-  {
-    "name": "Marquette Golden Eagles vs Michigan Wolverines",
-    "poster": "https://static.ppvservices.st/assets/thumb/10995af2cc596fdfdca0d2b0bb18f815-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-11/marq-mich",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-11/marq-mich"
-  },
-  {
     "name": "San Antonio Spurs vs Chicago Bulls",
     "poster": "https://static.ppvservices.st/assets/thumb/73ab3178b6e1368b38e9e898762df0df-thumbnail.jpg",
     "tag": "NBA",
@@ -579,7 +524,7 @@
     "uri": "nba/2026-11-11/okc-por",
     "starts_at": 1794452400,
     "ends_at": 1794463200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-11/okc-por"
   },
   {
@@ -946,17 +891,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Tampa Bay Lightning vs Buffalo Sabres",
-    "poster": "https://static.ppvservices.st/assets/thumb/20675d59d91bb77d00ae535d9bfd5854-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-11/tb-buf",
-    "starts_at": 1794441600,
-    "ends_at": 1794452400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-11/tb-buf"
-  },
-  {
     "name": "New York Rangers vs Calgary Flames",
     "poster": "https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg",
     "tag": "NHL",
@@ -997,7 +931,7 @@
     "uri": "nhl/2026-11-11/nsh-ana",
     "starts_at": 1794452400,
     "ends_at": 1794463200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-11/nsh-ana"
   },
   {
@@ -1008,7 +942,7 @@
     "uri": "nhl/2026-11-11/pit-sj",
     "starts_at": 1794452400,
     "ends_at": 1794463200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-11/pit-sj"
   },
   {

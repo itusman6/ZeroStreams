@@ -35,6 +35,22 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 24/7 — NBA | Boston Celtics vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Boston Celtics vs Toronto Raptors
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 24/7 — NBA | Cleveland Cavaliers vs New York Knicks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Cleveland Cavaliers vs New York Knicks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — NBA | Washington Wizards vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Washington Wizards vs Indiana Pacers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="LIVE 24/7 — NHL | Tampa Bay Lightning vs Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Tampa Bay Lightning vs Buffalo Sabres
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.63fefaf2f6cbbf5b" tvg-name="LIVE 24/7 — Soccer | Leicester City vs Walsall" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Leicester City vs Walsall
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -43,22 +59,6 @@ https://admin2.formaturamaxi.com.br/wall.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Washington Wizards vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Washington Wizards vs Indiana Pacers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="LIVE 2026-11-12 00:00 UTC — NHL | Tampa Bay Lightning vs Buffalo Sabres" tvg-logo="https://static.ppvservices.st/assets/thumb/20675d59d91bb77d00ae535d9bfd5854-thumbnail.jpg" group-title="NHL",LIVE 2026-11-12 00:00 UTC — NHL | Tampa Bay Lightning vs Buffalo Sabres
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d9220dbcbc583b13" tvg-name="LIVE 2026-11-12 00:30 UTC — NHL | New York Rangers vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg" group-title="NHL",LIVE 2026-11-12 00:30 UTC — NHL | New York Rangers vs Calgary Flames
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -87,15 +87,15 @@ https://tedesco.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="UPCOMING 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers" tvg-logo="https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers
+#EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="LIVE 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers" tvg-logo="https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="UPCOMING 2026-11-12 03:00 UTC — NHL | Nashville Predators vs Anaheim Ducks" tvg-logo="https://static.ppvservices.st/assets/thumb/7a8628085698aec5b2d146917931d3de-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-12 03:00 UTC — NHL | Nashville Predators vs Anaheim Ducks
+#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 2026-11-12 03:00 UTC — NHL | Nashville Predators vs Anaheim Ducks" tvg-logo="https://static.ppvservices.st/assets/thumb/7a8628085698aec5b2d146917931d3de-thumbnail.jpg" group-title="NHL",LIVE 2026-11-12 03:00 UTC — NHL | Nashville Predators vs Anaheim Ducks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1ecdd0acc9adbaa" tvg-name="UPCOMING 2026-11-12 03:00 UTC — NHL | Pittsburgh Penguins vs San Jose Sharks" tvg-logo="https://static.ppvservices.st/assets/thumb/3bbeaf883611816fd73e6b8ae48310f1-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-12 03:00 UTC — NHL | Pittsburgh Penguins vs San Jose Sharks
+#EXTINF:-1 tvg-id="zerostreams.f1ecdd0acc9adbaa" tvg-name="LIVE 2026-11-12 03:00 UTC — NHL | Pittsburgh Penguins vs San Jose Sharks" tvg-logo="https://static.ppvservices.st/assets/thumb/3bbeaf883611816fd73e6b8ae48310f1-thumbnail.jpg" group-title="NHL",LIVE 2026-11-12 03:00 UTC — NHL | Pittsburgh Penguins vs San Jose Sharks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
