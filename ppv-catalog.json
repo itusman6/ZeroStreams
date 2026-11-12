@@ -748,50 +748,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Armenia vs Cyprus",
-    "poster": "https://static.ppvservices.st/assets/thumb/0652868a024912ae66659423fb284315-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-12/arm-cyp",
-    "starts_at": 1794502800,
-    "ends_at": 1794511800,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp"
-  },
-  {
-    "name": "T\u00fcrkiye vs Belgium",
-    "poster": "https://static.ppvservices.st/assets/thumb/fc928917bb9b2e9219feb0f8a58b8316-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-12/tur-bel",
-    "starts_at": 1794502800,
-    "ends_at": 1794511800,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel"
-  },
-  {
-    "name": "Guinea vs Eritrea",
-    "poster": "https://static.ppvservices.st/assets/thumb/32cef62e1ba1c4bd261fe7f3df507e9c-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/gui-eri",
-    "starts_at": 1794502800,
-    "ends_at": 1794511800,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri"
-  },
-  {
-    "name": "Lithuania vs Suriname",
-    "poster": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg",
-    "tag": "Men's International Friendly",
-    "category": "Football",
-    "uri": "mens-international-friendly/2026-11-12/ltu-sur",
-    "starts_at": 1794502800,
-    "ends_at": 1794511800,
-    "status": "live",
-    "page": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur"
-  },
-  {
     "name": "Malta vs Eswatini",
     "poster": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
     "tag": "Men's International Friendly",
