@@ -748,17 +748,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Malta vs Eswatini",
-    "poster": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
-    "tag": "Men's International Friendly",
-    "category": "Football",
-    "uri": "mens-international-friendly/2026-11-12/mlt-swz",
-    "starts_at": 1794504600,
-    "ends_at": 1794513600,
-    "status": "live",
-    "page": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz"
-  },
-  {
     "name": "Benin vs Central African Republic",
     "poster": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
     "tag": "AFCON Qualifying",
@@ -911,17 +900,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Carolina Hurricanes vs Seattle Kraken",
-    "poster": "https://static.ppvservices.st/assets/thumb/50ce9121d3d35225d9dcfd5360146918-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/car-sea",
-    "starts_at": 1794502800,
-    "ends_at": 1794513600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-12/car-sea"
   },
   {
     "name": "Montreal Canadiens vs Boston Bruins",
