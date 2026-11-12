@@ -891,17 +891,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "New York Rangers vs Calgary Flames",
-    "poster": "https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-11/nyr-cgy",
-    "starts_at": 1794443400,
-    "ends_at": 1794454200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-11/nyr-cgy"
-  },
-  {
     "name": "Philadelphia Flyers vs Edmonton Oilers",
     "poster": "https://static.ppvservices.st/assets/thumb/657f6072332344c12b9802cdff4461c2-thumbnail.jpg",
     "tag": "NHL",
