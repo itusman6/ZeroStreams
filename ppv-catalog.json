@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Golden State Warriors vs Houston Rockets",
-    "poster": "https://static.ppvservices.st/assets/thumb/2d86f3f29630b5128c865a4072c0c823-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-11/gs-hou",
-    "starts_at": 1794450600,
-    "ends_at": 1794461400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-11/gs-hou"
-  },
-  {
     "name": "Oklahoma City Thunder vs Portland Trail Blazers",
     "poster": "https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg",
     "tag": "NBA",
@@ -1054,17 +1043,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Utah Mammoth vs Vegas Golden Knights",
-    "poster": "https://static.ppvservices.st/assets/thumb/034b62c895fc45295c8bc22189b49fac-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-11/uta-vgk",
-    "starts_at": 1794450600,
-    "ends_at": 1794461400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-11/uta-vgk"
   },
   {
     "name": "Nashville Predators vs Anaheim Ducks",
