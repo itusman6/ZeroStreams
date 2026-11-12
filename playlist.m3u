@@ -55,6 +55,10 @@ https://admin2.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.872b165b84888df4" tvg-name="LIVE 24/7 — NBA | Orlando Magic vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Orlando Magic vs Utah Jazz
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 24/7 — NBA | San Antonio Spurs vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | San Antonio Spurs vs Chicago Bulls
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -67,6 +71,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="LIVE 24/7 — NHL | Philadelphia Flyers vs Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Philadelphia Flyers vs Edmonton Oilers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="LIVE 24/7 — NHL | Tampa Bay Lightning vs Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Tampa Bay Lightning vs Buffalo Sabres
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -79,14 +87,6 @@ https://admin2.formaturamaxi.com.br/wall.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.872b165b84888df4" tvg-name="LIVE 2026-11-12 02:00 UTC — NBA | Orlando Magic vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/7f386ce71b6f91309709a8e59db45947-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 02:00 UTC — NBA | Orlando Magic vs Utah Jazz
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="LIVE 2026-11-12 02:00 UTC — NHL | Philadelphia Flyers vs Edmonton Oilers" tvg-logo="https://static.ppvservices.st/assets/thumb/657f6072332344c12b9802cdff4461c2-thumbnail.jpg" group-title="NHL",LIVE 2026-11-12 02:00 UTC — NHL | Philadelphia Flyers vs Edmonton Oilers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="LIVE 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers" tvg-logo="https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
