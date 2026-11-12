@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Oklahoma City Thunder vs Portland Trail Blazers",
-    "poster": "https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-11/okc-por",
-    "starts_at": 1794452400,
-    "ends_at": 1794463200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-11/okc-por"
-  },
-  {
     "name": "USC Trojans vs California Golden Bears",
     "poster": "https://static.ppvservices.st/assets/thumb/8c8dd23bfa37f9c69c568e4693cf728b-thumbnail.jpg",
     "tag": "College Basketball",
@@ -1043,28 +1032,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Nashville Predators vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/7a8628085698aec5b2d146917931d3de-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-11/nsh-ana",
-    "starts_at": 1794452400,
-    "ends_at": 1794463200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-11/nsh-ana"
-  },
-  {
-    "name": "Pittsburgh Penguins vs San Jose Sharks",
-    "poster": "https://static.ppvservices.st/assets/thumb/3bbeaf883611816fd73e6b8ae48310f1-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-11/pit-sj",
-    "starts_at": 1794452400,
-    "ends_at": 1794463200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-11/pit-sj"
   },
   {
     "name": "Carolina Hurricanes vs Seattle Kraken",
