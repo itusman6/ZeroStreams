@@ -748,17 +748,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Ghana vs Somalia",
-    "poster": "https://static.ppvservices.st/assets/thumb/81c2f5f43c7d85ec1856a8c834bf5217-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/gha-som",
-    "starts_at": 1794495600,
-    "ends_at": 1794504600,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/gha-som"
-  },
-  {
     "name": "Congo DR vs Sierra Leone",
     "poster": "https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg",
     "tag": "AFCON Qualifying",
@@ -832,7 +821,7 @@
     "uri": "mens-international-friendly/2026-11-12/mlt-swz",
     "starts_at": 1794504600,
     "ends_at": 1794513600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz"
   },
   {
