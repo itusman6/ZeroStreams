@@ -43,18 +43,14 @@ https://admin2.formaturamaxi.com.br/wall.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Boston Celtics vs Toronto Raptors
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks — Feed 1
+https://admin2.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5bc0d110bd9e74d5" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Cleveland Cavaliers vs New York Knicks — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nbc.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-12 00:00 UTC — NBA | Washington Wizards vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg" group-title="NBA",LIVE 2026-11-12 00:00 UTC — NBA | Washington Wizards vs Indiana Pacers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -91,18 +87,6 @@ https://tedesco.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b7bf62472366ca2c" tvg-name="UPCOMING 2026-11-12 02:30 UTC — NBA | Golden State Warriors vs Houston Rockets — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/2d86f3f29630b5128c865a4072c0c823-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-12 02:30 UTC — NBA | Golden State Warriors vs Houston Rockets — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/lakers.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f711b92fe87a4639" tvg-name="UPCOMING 2026-11-12 02:30 UTC — NBA | Golden State Warriors vs Houston Rockets — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/2d86f3f29630b5128c865a4072c0c823-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-12 02:30 UTC — NBA | Golden State Warriors vs Houston Rockets — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44d26379923d5cc8" tvg-name="UPCOMING 2026-11-12 02:30 UTC — NHL | Utah Mammoth vs Vegas Golden Knights" tvg-logo="https://static.ppvservices.st/assets/thumb/034b62c895fc45295c8bc22189b49fac-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-12 02:30 UTC — NHL | Utah Mammoth vs Vegas Golden Knights
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="UPCOMING 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers" tvg-logo="https://static.ppvservices.st/assets/thumb/ebcf43fc73c965170376ffbfaef7e5e5-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-12 03:00 UTC — NBA | Oklahoma City Thunder vs Portland Trail Blazers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
