@@ -748,50 +748,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Benin vs Central African Republic",
-    "poster": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/ben-cta",
-    "starts_at": 1794510000,
-    "ends_at": 1794519000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/ben-cta"
-  },
-  {
-    "name": "Cameroon vs Namibia",
-    "poster": "https://static.ppvservices.st/assets/thumb/160906c26b91be374baa9234142072ac-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/cmr-nam",
-    "starts_at": 1794510000,
-    "ends_at": 1794519000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/cmr-nam"
-  },
-  {
-    "name": "Ivory Coast vs Gambia",
-    "poster": "https://static.ppvservices.st/assets/thumb/acc99cab400751466588ec87671c00e3-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/civ-gam",
-    "starts_at": 1794510000,
-    "ends_at": 1794519000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/civ-gam"
-  },
-  {
-    "name": "Senegal vs Sudan",
-    "poster": "https://static.ppvservices.st/assets/thumb/621f1dd3d745e2dc0a39654f2070e067-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-12/sen-sud",
-    "starts_at": 1794510000,
-    "ends_at": 1794519000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/sen-sud"
-  },
-  {
     "name": "Albania vs Finland",
     "poster": "https://static.ppvservices.st/assets/thumb/cac3a3b505fe4fa2fa62c7be617e46ab-thumbnail.jpg",
     "tag": "UEFA Nations League",
