@@ -568,7 +568,7 @@
     "uri": "nba/2026-11-11/gs-hou",
     "starts_at": 1794450600,
     "ends_at": 1794461400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-11/gs-hou"
   },
   {
@@ -986,7 +986,7 @@
     "uri": "nhl/2026-11-11/uta-vgk",
     "starts_at": 1794450600,
     "ends_at": 1794461400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-11/uta-vgk"
   },
   {
