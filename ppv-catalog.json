@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Perth Wildcats vs Tasmania JackJumpers",
-    "poster": "https://static.ppvservices.st/assets/thumb/5c8ae34e1a86d3fe51d26014a4bdb16c-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-12/per-tas",
-    "starts_at": 1794479400,
-    "ends_at": 1794490200,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-12/per-tas"
-  },
-  {
     "name": "Toronto Raptors vs Philadelphia 76ers",
     "poster": "https://static.ppvservices.st/assets/thumb/d3cd8bf6f050a18b29084be0f2bee11a-thumbnail.jpg",
     "tag": "NBA",
