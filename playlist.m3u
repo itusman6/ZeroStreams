@@ -139,10 +139,10 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c35fe04a174add0f" tvg-name="LIVE 2026-11-13 01:00 UTC — NHL | Buffalo Sabres vs Chicago Blackhawks" tvg-logo="https://static.ppvservices.st/assets/thumb/971e106ef7b438329b906a985444d537-thumbnail.jpg" group-title="NHL",LIVE 2026-11-13 01:00 UTC — NHL | Buffalo Sabres vs Chicago Blackhawks
+#EXTINF:-1 tvg-id="zerostreams.ef83177d78a583d7" tvg-name="LIVE 2026-11-13 01:00 UTC — NHL | Buffalo Sabres vs Chicago Blackhawks" tvg-logo="https://static.ppvservices.st/assets/thumb/971e106ef7b438329b906a985444d537-thumbnail.jpg" group-title="NHL",LIVE 2026-11-13 01:00 UTC — NHL | Buffalo Sabres vs Chicago Blackhawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl8.m3u8
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.013d747a4b788de1" tvg-name="LIVE 2026-11-13 01:00 UTC — NHL | Winnipeg Jets vs Dallas Stars" tvg-logo="https://static.ppvservices.st/assets/thumb/f534e3354d6129baa13a7bd70d90c36c-thumbnail.jpg" group-title="NHL",LIVE 2026-11-13 01:00 UTC — NHL | Winnipeg Jets vs Dallas Stars
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -155,7 +155,3 @@ https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.913b890d0067abba" tvg-name="UPCOMING 2026-11-13 03:00 UTC — NHL | New York Islanders vs Los Angeles Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/b133f5816921d130c673f15e589b5c32-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-13 03:00 UTC — NHL | New York Islanders vs Los Angeles Kings
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl11.m3u8
