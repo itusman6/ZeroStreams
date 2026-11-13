@@ -436,7 +436,7 @@
     "uri": "nba/2026-11-12/dal-min",
     "starts_at": 1794531600,
     "ends_at": 1794542400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-12/dal-min"
   },
   {
@@ -975,7 +975,7 @@
     "uri": "nhl/2026-11-12/buf-chi",
     "starts_at": 1794531600,
     "ends_at": 1794542400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/buf-chi"
   },
   {
@@ -986,7 +986,7 @@
     "uri": "nhl/2026-11-12/wpg-dal",
     "starts_at": 1794531600,
     "ends_at": 1794542400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/wpg-dal"
   },
   {
