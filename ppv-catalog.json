@@ -770,6 +770,28 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Mozambique vs Ethiopia",
+    "poster": "https://static.ppvservices.st/assets/thumb/dfd00f3d16167a81031e0ba9163c2de7-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/moz-eth",
+    "starts_at": 1794574800,
+    "ends_at": 1794583800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/moz-eth"
+  },
+  {
+    "name": "Comoros vs Congo",
+    "poster": "https://static.ppvservices.st/assets/thumb/9aad18e5efd59b58fc551c21f3bba4f8-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/com-cgo",
+    "starts_at": 1794574800,
+    "ends_at": 1794583800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/com-cgo"
+  },
+  {
     "name": "Moldova vs Kazakhstan",
     "poster": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
     "tag": "UEFA Nations League",
