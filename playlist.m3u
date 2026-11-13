@@ -7,10 +7,10 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="LIVE 24/7 — Live | Latin Grammys" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Latin Grammys
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTINF:-1 tvg-id="zerostreams.a6b214907c7a09ef" tvg-name="LIVE 24/7 — Live | Latin Grammys" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Latin Grammys
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv.m3u8
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f25a606eff894650" tvg-name="LIVE 24/7 — Live | Louisiana vs UL Monroe" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Louisiana vs UL Monroe
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -19,6 +19,10 @@ https://admin2.formaturamaxi.com.br/ncaa2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="LIVE 24/7 — Live | TNA" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | TNA
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.211ee88c79943f14" tvg-name="LIVE 24/7 — Live | WEC - 6 Hours of Monza" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | WEC - 6 Hours of Monza
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -31,14 +35,14 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.51596d08fb4f82c8" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/espn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e3bed2a19cf9f11a" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 3
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
