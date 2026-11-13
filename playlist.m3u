@@ -47,10 +47,10 @@ https://admin2.formaturamaxi.com.br/ice.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/colo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.62320674a5f6c494" tvg-name="LIVE 24/7 — Soccer | Colombia vs Chile" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Colombia vs Chile
+#EXTINF:-1 tvg-id="zerostreams.005f864c8ec3c9ea" tvg-name="LIVE 24/7 — Soccer | Colombia vs Chile" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Colombia vs Chile
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/mega.m3u8
+https://admin2.formaturamaxi.com.br/mega.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b3e9a620a584677e" tvg-name="LIVE 24/7 — Soccer | Ecuador vs Costa Rica" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Ecuador vs Costa Rica
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
