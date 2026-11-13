@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Dallas Mavericks vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/f9189dd3aca77fc80c7335f51d6aabc6-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-12/dal-min",
-    "starts_at": 1794531600,
-    "ends_at": 1794542400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-12/dal-min"
-  },
-  {
     "name": "Charlotte Hornets vs Phoenix Suns",
     "poster": "https://static.ppvservices.st/assets/thumb/8f03b344f393d11f6386ecd23211f013-thumbnail.jpg",
     "tag": "NBA",
@@ -878,28 +867,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Buffalo Sabres vs Chicago Blackhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/971e106ef7b438329b906a985444d537-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/buf-chi",
-    "starts_at": 1794531600,
-    "ends_at": 1794542400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-12/buf-chi"
-  },
-  {
-    "name": "Winnipeg Jets vs Dallas Stars",
-    "poster": "https://static.ppvservices.st/assets/thumb/f534e3354d6129baa13a7bd70d90c36c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/wpg-dal",
-    "starts_at": 1794531600,
-    "ends_at": 1794542400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-12/wpg-dal"
   },
   {
     "name": "St. Louis Blues vs Utah Mammoth",
