@@ -880,17 +880,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Detroit Red Wings vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/a15502978ed3624eedd0f342a7ca9cc0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/det-fla",
-    "starts_at": 1794529800,
-    "ends_at": 1794540600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-12/det-fla"
-  },
-  {
     "name": "Buffalo Sabres vs Chicago Blackhawks",
     "poster": "https://static.ppvservices.st/assets/thumb/971e106ef7b438329b906a985444d537-thumbnail.jpg",
     "tag": "NHL",

@@ -67,6 +67,10 @@ https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6732e4e4f78bdc60" tvg-name="LIVE 24/7 — NHL | Detroit Red Wings vs Florida Panthers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Detroit Red Wings vs Florida Panthers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c54faeee4b6db3c6" tvg-name="LIVE 24/7 — NHL | Minnesota Wild vs Toronto Maple Leafs" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Minnesota Wild vs Toronto Maple Leafs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -131,10 +135,6 @@ https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6732e4e4f78bdc60" tvg-name="LIVE 2026-11-13 00:30 UTC — NHL | Detroit Red Wings vs Florida Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/a15502978ed3624eedd0f342a7ca9cc0-thumbnail.jpg" group-title="NHL",LIVE 2026-11-13 00:30 UTC — NHL | Detroit Red Wings vs Florida Panthers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-13 01:00 UTC — NBA | Dallas Mavericks vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/f9189dd3aca77fc80c7335f51d6aabc6-thumbnail.jpg" group-title="NBA",LIVE 2026-11-13 01:00 UTC — NBA | Dallas Mavericks vs Minnesota Timberwolves
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
