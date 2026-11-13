@@ -770,28 +770,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Egypt vs Malawi",
-    "poster": "https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/egy-mwi",
-    "starts_at": 1794596400,
-    "ends_at": 1794605400,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/egy-mwi"
-  },
-  {
-    "name": "Mali vs Rwanda",
-    "poster": "https://static.ppvservices.st/assets/thumb/e62a5c30b3a8396657fa178afa037d42-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/mli-rwa",
-    "starts_at": 1794596400,
-    "ends_at": 1794605400,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/mli-rwa"
-  },
-  {
     "name": "Andorra vs Gibraltar",
     "poster": "https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg",
     "tag": "UEFA Nations League",
