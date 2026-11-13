@@ -414,7 +414,7 @@
     "uri": "nba/2026-11-12/tor-phi",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-12/tor-phi"
   },
   {
@@ -425,7 +425,7 @@
     "uri": "nba/2026-11-12/det-wsh",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-12/det-wsh"
   },
   {
@@ -799,7 +799,7 @@
     "uri": "nhl/2026-11-12/mtl-bos",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/mtl-bos"
   },
   {
@@ -810,7 +810,7 @@
     "uri": "nhl/2026-11-12/min-tor",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/min-tor"
   },
   {
@@ -821,7 +821,7 @@
     "uri": "nhl/2026-11-12/col-ott",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/col-ott"
   },
   {
@@ -832,7 +832,7 @@
     "uri": "nhl/2026-11-12/wsh-nj",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/wsh-nj"
   },
   {
@@ -843,7 +843,7 @@
     "uri": "nhl/2026-11-12/tb-cbj",
     "starts_at": 1794528000,
     "ends_at": 1794538800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-12/tb-cbj"
   },
   {
