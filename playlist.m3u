@@ -31,10 +31,18 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b11753c7e450f9d4" tvg-name="LIVE 24/7 — Shared Channels | FSP — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | FSP — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.b68f7bfa6a1b01f3" tvg-name="LIVE 24/7 — Shared Channels | FS1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | FS1 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b11753c7e450f9d4" tvg-name="LIVE 24/7 — Shared Channels | FSP — Shared Feed — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | FSP — Shared Feed — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f5bd7ce7f7e73076" tvg-name="LIVE 24/7 — Shared Channels | FSP — Shared Feed — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | FSP — Shared Feed — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Shared Channels | MAIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MAIN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -75,30 +83,14 @@ https://admin2.formaturamaxi.com.br/ncaa15.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f5bd7ce7f7e73076" tvg-name="LIVE 2026-11-13 17:00 UTC — Soccer | Moldova vs Kazakhstan" tvg-logo="https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-13 17:00 UTC — Soccer | Moldova vs Kazakhstan
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fd97b484e3a7af25" tvg-name="LIVE 2026-11-13 19:00 UTC — Soccer | Egypt vs Malawi" tvg-logo="https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-13 19:00 UTC — Soccer | Egypt vs Malawi
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b68f7bfa6a1b01f3" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Bulgaria vs Iceland" tvg-logo="https://static.ppvservices.st/assets/thumb/0c6e85f4b67db546244b203fbe2c6164-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Bulgaria vs Iceland
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Liechtenstein vs Azerbaijan" tvg-logo="https://static.ppvservices.st/assets/thumb/78fc9b52ec51374a90d0962cef03d48f-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Liechtenstein vs Azerbaijan
+#EXTINF:-1 tvg-id="zerostreams.9cccffa043a92f35" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Liechtenstein vs Azerbaijan" tvg-logo="https://static.ppvservices.st/assets/thumb/78fc9b52ec51374a90d0962cef03d48f-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Liechtenstein vs Azerbaijan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ba71eb29ee4d7698" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Netherlands vs Greece" tvg-logo="https://static.ppvservices.st/assets/thumb/3f2cbed1a9de71ff0ebf0231f55fa977-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Netherlands vs Greece
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sky.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b5a5db8a3582a53d" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Serbia vs Germany" tvg-logo="https://static.ppvservices.st/assets/thumb/5274c2404968f4438f152a8f06b33909-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Serbia vs Germany
+https://admin2.formaturamaxi.com.br/aze.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b9b604c0ec26430e" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Serbia vs Germany" tvg-logo="https://static.ppvservices.st/assets/thumb/5274c2404968f4438f152a8f06b33909-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Serbia vs Germany
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/finland.m3u8
+https://admin2.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.91ffb46b7f416b1a" tvg-name="UPCOMING 2026-11-13 19:45 UTC — Soccer | Slovenia vs Switzerland — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/8282d442bfa2d6fefa4e0f01b6e26643-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-13 19:45 UTC — Soccer | Slovenia vs Switzerland — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
