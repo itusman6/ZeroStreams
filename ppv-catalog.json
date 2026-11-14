@@ -396,17 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "North Alabama Lions vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/f918c9325d344547f8fd996d172110f4-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-13/una-mia",
-    "starts_at": 1794607200,
-    "ends_at": 1794618000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-13/una-mia"
-  },
-  {
     "name": "New York Knicks vs Indiana Pacers",
     "poster": "https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg",
     "tag": "NBA",
@@ -513,7 +502,7 @@
     "uri": "nba/2026-11-13/cle-mia",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-13/cle-mia"
   },
   {
@@ -524,7 +513,7 @@
     "uri": "nba/2026-11-13/atl-chi",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-13/atl-chi"
   },
   {
@@ -535,7 +524,7 @@
     "uri": "nba/2026-11-13/mem-no",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-13/mem-no"
   },
   {
@@ -546,7 +535,7 @@
     "uri": "cbb/2026-11-13/siue-duke",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-13/siue-duke"
   },
   {
@@ -557,7 +546,7 @@
     "uri": "cbb/2026-11-13/uva-md",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-13/uva-md"
   },
   {
@@ -568,7 +557,7 @@
     "uri": "cbb/2026-11-13/cark-ark",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-13/cark-ark"
   },
   {
@@ -854,7 +843,7 @@
     "uri": "wwe/2026-11-13",
     "starts_at": 1794618000,
     "ends_at": 1794628800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/wwe/2026-11-13"
   },
   {
