@@ -87,14 +87,10 @@ https://admin2.formaturamaxi.com.br/mega.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ecu.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6744796e04ed230e" tvg-name="LIVE 24/7 — Soccer | Guatemala vs Canada — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Guatemala vs Canada — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.5a432e4dcdac2020" tvg-name="LIVE 24/7 — Soccer | Guatemala vs Canada" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Guatemala vs Canada
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/mineiro.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b656980296ac1f52" tvg-name="LIVE 24/7 — Soccer | Guatemala vs Canada — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Guatemala vs Canada — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tudnes.m3u8
+https://admin2.formaturamaxi.com.br/tudnus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9cccffa043a92f35" tvg-name="LIVE 24/7 — Soccer | Liechtenstein vs Azerbaijan" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Liechtenstein vs Azerbaijan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -163,7 +159,7 @@ https://admin.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="UPCOMING 2026-11-14 02:00 UTC — NHL | New York Rangers vs Vancouver Canucks" tvg-logo="https://static.ppvservices.st/assets/thumb/1f9dbc78734dd7faca33dc037cefb192-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-14 02:00 UTC — NHL | New York Rangers vs Vancouver Canucks
+#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 2026-11-14 02:00 UTC — NHL | New York Rangers vs Vancouver Canucks" tvg-logo="https://static.ppvservices.st/assets/thumb/1f9dbc78734dd7faca33dc037cefb192-thumbnail.jpg" group-title="NHL",LIVE 2026-11-14 02:00 UTC — NHL | New York Rangers vs Vancouver Canucks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8

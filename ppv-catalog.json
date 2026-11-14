@@ -18,7 +18,7 @@
     "uri": "cfb/2026-11-13/ill-ucla",
     "starts_at": 1794621600,
     "ends_at": 1794636000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-13/ill-ucla"
   },
   {
@@ -579,7 +579,7 @@
     "uri": "cbb/2026-11-13/ariz-aub",
     "starts_at": 1794621600,
     "ends_at": 1794632400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-13/ariz-aub"
   },
   {
@@ -590,7 +590,7 @@
     "uri": "cbb/2026-11-13/hall-ala",
     "starts_at": 1794621600,
     "ends_at": 1794632400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-13/hall-ala"
   },
   {
@@ -810,7 +810,7 @@
     "uri": "nhl/2026-11-13/nyr-van",
     "starts_at": 1794621600,
     "ends_at": 1794632400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-13/nyr-van"
   },
   {
