@@ -396,28 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Arizona Wildcats vs Auburn Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/2065bcaee3dc69ed266d1aa70da8d4bf-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-13/ariz-aub",
-    "starts_at": 1794621600,
-    "ends_at": 1794632400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-13/ariz-aub"
-  },
-  {
-    "name": "Seton Hall Pirates vs Alabama Crimson Tide",
-    "poster": "https://static.ppvservices.st/assets/thumb/d07bf84887f2ba936bec4f3ecd74dc25-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-13/hall-ala",
-    "starts_at": 1794621600,
-    "ends_at": 1794632400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-13/hall-ala"
-  },
-  {
     "name": "Golden State Warriors vs San Antonio Spurs",
     "poster": "https://static.ppvservices.st/assets/thumb/2a08d8d5a7ab23833090e8203e3b3768-thumbnail.jpg",
     "tag": "NBA",
@@ -561,6 +539,182 @@
     "page": "https://ppv.st/live/nbl/2026-11-15/syd-nzl"
   },
   {
+    "name": "Brisbane Bullets vs Tasmania JackJumpers",
+    "poster": "https://static.ppvservices.st/assets/thumb/13309f50c334fe36d8edeaf6abf30a38-thumbnail.jpg",
+    "tag": "NBL",
+    "category": "Basketball",
+    "uri": "nbl/2026-11-15/bri-tas",
+    "starts_at": 1794722400,
+    "ends_at": 1794733200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nbl/2026-11-15/bri-tas"
+  },
+  {
+    "name": "Indiana Pacers vs Philadelphia 76ers",
+    "poster": "https://static.ppvservices.st/assets/thumb/92d2e1ac54dc610aaf291ba61575159c-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/ind-phi",
+    "starts_at": 1794765600,
+    "ends_at": 1794776400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/ind-phi"
+  },
+  {
+    "name": "Louisville Cardinals vs Memphis Tigers",
+    "poster": "https://static.ppvservices.st/assets/thumb/3ae1b0dea24575ce4ce68f6da8e0def8-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/lou-mem",
+    "starts_at": 1794765600,
+    "ends_at": 1794776400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/lou-mem"
+  },
+  {
+    "name": "Boise State Broncos vs Nebraska Cornhuskers",
+    "poster": "https://static.ppvservices.st/assets/thumb/c827651c6df5ef06caaa83e4420bacaf-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/bois-neb",
+    "starts_at": 1794765600,
+    "ends_at": 1794776400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/bois-neb"
+  },
+  {
+    "name": "William & Mary Tribe vs Michigan Wolverines",
+    "poster": "https://static.ppvservices.st/assets/thumb/0536091a4aff7c2455f7b84fc1198227-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/wm-mich",
+    "starts_at": 1794769200,
+    "ends_at": 1794780000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/wm-mich"
+  },
+  {
+    "name": "Baylor Bears vs Texas Longhorns",
+    "poster": "https://static.ppvservices.st/assets/thumb/b85310bb60b74da1654be74b45cf9974-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/bay-tex",
+    "starts_at": 1794772800,
+    "ends_at": 1794783600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/bay-tex"
+  },
+  {
+    "name": "Los Angeles Lakers vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/3f678db824ca83a8cfa9543c537e7cb1-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/lal-phx",
+    "starts_at": 1794776400,
+    "ends_at": 1794787200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/lal-phx"
+  },
+  {
+    "name": "Charlotte Hornets vs Los Angeles Clippers",
+    "poster": "https://static.ppvservices.st/assets/thumb/21759766c62e5fb6175a6f614bbf59f9-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/cha-lac",
+    "starts_at": 1794778200,
+    "ends_at": 1794789000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/cha-lac"
+  },
+  {
+    "name": "San Antonio Spurs vs Utah Jazz",
+    "poster": "https://static.ppvservices.st/assets/thumb/c722824b0b5a6290ba08e8f6e288acce-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/sa-utah",
+    "starts_at": 1794780000,
+    "ends_at": 1794790800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/sa-utah"
+  },
+  {
+    "name": "Dallas Mavericks vs Boston Celtics",
+    "poster": "https://static.ppvservices.st/assets/thumb/8a2fe6577ec8a3199addd8cb78d2ebb7-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/dal-bos",
+    "starts_at": 1794783600,
+    "ends_at": 1794794400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/dal-bos"
+  },
+  {
+    "name": "New York Knicks vs Toronto Raptors",
+    "poster": "https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/ny-tor",
+    "starts_at": 1794783600,
+    "ends_at": 1794794400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/ny-tor"
+  },
+  {
+    "name": "Houston Rockets vs Washington Wizards",
+    "poster": "https://static.ppvservices.st/assets/thumb/1d15974f2b88953c07574cc2e1c05c5f-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/hou-wsh",
+    "starts_at": 1794787200,
+    "ends_at": 1794798000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/hou-wsh"
+  },
+  {
+    "name": "Syracuse Orange vs St. John's Red Storm",
+    "poster": "https://static.ppvservices.st/assets/thumb/0a6ba36f611ce7a4664d14fc6b7e72d7-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/syr-sju",
+    "starts_at": 1794787200,
+    "ends_at": 1794798000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/syr-sju"
+  },
+  {
+    "name": "Arkansas-Pine Bluff Golden Lions vs USC Trojans",
+    "poster": "https://static.ppvservices.st/assets/thumb/7c25a206fe6fda0f72bd870e35ec6501-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-15/uapb-usc",
+    "starts_at": 1794787200,
+    "ends_at": 1794798000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-15/uapb-usc"
+  },
+  {
+    "name": "Atlanta Hawks vs Milwaukee Bucks",
+    "poster": "https://static.ppvservices.st/assets/thumb/1977dfacfe3638fc7f070d5e4fca7167-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/atl-mil",
+    "starts_at": 1794790800,
+    "ends_at": 1794801600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/atl-mil"
+  },
+  {
+    "name": "Oklahoma City Thunder vs Sacramento Kings",
+    "poster": "https://static.ppvservices.st/assets/thumb/bdd8605b1d35797613e5150ae408f69b-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-15/okc-sac",
+    "starts_at": 1794794400,
+    "ends_at": 1794805200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nba/2026-11-15/okc-sac"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -627,17 +781,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "New York Rangers vs Vancouver Canucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/1f9dbc78734dd7faca33dc037cefb192-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-13/nyr-van",
-    "starts_at": 1794621600,
-    "ends_at": 1794632400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-13/nyr-van"
-  },
-  {
     "name": "Nashville Predators vs Vegas Golden Knights",
     "poster": "https://static.ppvservices.st/assets/thumb/e13a643eca97a990bb6aac1c055ab790-thumbnail.jpg",
     "tag": "NHL",
@@ -647,6 +790,160 @@
     "ends_at": 1794636000,
     "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-13/nsh-vgk"
+  },
+  {
+    "name": "Seattle Kraken vs Carolina Hurricanes",
+    "poster": "https://static.ppvservices.st/assets/thumb/3ef20d409a74a2b8e4eeb1f8e6656472-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/sea-car",
+    "starts_at": 1794679200,
+    "ends_at": 1794690000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/sea-car"
+  },
+  {
+    "name": "Winnipeg Jets vs Chicago Blackhawks",
+    "poster": "https://static.ppvservices.st/assets/thumb/9d88feafab6d5a85ddef199cd1e6e4a3-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/wpg-chi",
+    "starts_at": 1794688200,
+    "ends_at": 1794699000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/wpg-chi"
+  },
+  {
+    "name": "Minnesota Wild vs Boston Bruins",
+    "poster": "https://static.ppvservices.st/assets/thumb/b030dff112833767261469617e18bafb-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/min-bos",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/min-bos"
+  },
+  {
+    "name": "Edmonton Oilers vs Toronto Maple Leafs",
+    "poster": "https://static.ppvservices.st/assets/thumb/101f7f0e650c346f6e2656b5e5d14ed0-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/edm-tor",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/edm-tor"
+  },
+  {
+    "name": "Colorado Avalanche vs Montreal Canadiens",
+    "poster": "https://static.ppvservices.st/assets/thumb/e02e0c13ba31a13d0c565a014157ad59-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/col-mtl",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/col-mtl"
+  },
+  {
+    "name": "Detroit Red Wings vs Tampa Bay Lightning",
+    "poster": "https://static.ppvservices.st/assets/thumb/5a3ca41ee0d4cfd0926881ff79d1f8ae-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/det-tb",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/det-tb"
+  },
+  {
+    "name": "Ottawa Senators vs Pittsburgh Penguins",
+    "poster": "https://static.ppvservices.st/assets/thumb/fb3fad570f17cda94e91e01d696ecf88-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/ott-pit",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/ott-pit"
+  },
+  {
+    "name": "New Jersey Devils vs Washington Capitals",
+    "poster": "https://static.ppvservices.st/assets/thumb/c2668547793a26a653489fff05300e59-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/nj-wsh",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/nj-wsh"
+  },
+  {
+    "name": "Philadelphia Flyers vs Columbus Blue Jackets",
+    "poster": "https://static.ppvservices.st/assets/thumb/ebe880f80d768f95c4cc44306728ad71-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/phi-cbj",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/phi-cbj"
+  },
+  {
+    "name": "Florida Panthers vs St. Louis Blues",
+    "poster": "https://static.ppvservices.st/assets/thumb/47f311abe73ba1f7d57f6cc087b66568-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/fla-stl",
+    "starts_at": 1794700800,
+    "ends_at": 1794711600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/fla-stl"
+  },
+  {
+    "name": "Buffalo Sabres vs Dallas Stars",
+    "poster": "https://static.ppvservices.st/assets/thumb/a72f6d0477e5859ef4d0bd60bab7f8a4-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/buf-dal",
+    "starts_at": 1794704400,
+    "ends_at": 1794715200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/buf-dal"
+  },
+  {
+    "name": "San Jose Sharks vs Utah Mammoth",
+    "poster": "https://static.ppvservices.st/assets/thumb/3436765ccf19eba1de1cca9f6d838ad0-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/sj-uta",
+    "starts_at": 1794708000,
+    "ends_at": 1794718800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/sj-uta"
+  },
+  {
+    "name": "New York Islanders vs Anaheim Ducks",
+    "poster": "https://static.ppvservices.st/assets/thumb/d8f4a5f27a6b251cc07d397cdc22c9b4-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/nyi-ana",
+    "starts_at": 1794711600,
+    "ends_at": 1794722400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/nyi-ana"
+  },
+  {
+    "name": "Calgary Flames vs Los Angeles Kings",
+    "poster": "https://static.ppvservices.st/assets/thumb/4ecfe4fc48b600da3583b52a40250a31-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-14/cgy-la",
+    "starts_at": 1794711600,
+    "ends_at": 1794722400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/nhl/2026-11-14/cgy-la"
   },
   {
     "name": "Fox League",
