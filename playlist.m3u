@@ -7,10 +7,6 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="LIVE 24/7 — Live | AEW: Full Gear" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | AEW: Full Gear
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="LIVE 24/7 — Live | Alabama vs Vanderbilt" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Alabama vs Vanderbilt
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,14 +59,6 @@ https://admin.formaturamaxi.com.br/ncaa3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa15.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8d79e935e4355392" tvg-name="LIVE 24/7 — Live | PACHECO vs FULGHUM — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | PACHECO vs FULGHUM — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b2ff5d38e9b16f5e" tvg-name="LIVE 24/7 — Live | PACHECO vs FULGHUM — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | PACHECO vs FULGHUM — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/12602870383c159bdc826f7bbbe87148/manifest/video.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a6b214907c7a09ef" tvg-name="LIVE 24/7 — Live | PFL: Nemkov vs Bilostenniy" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | PFL: Nemkov vs Bilostenniy
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -79,10 +67,6 @@ https://admin2.formaturamaxi.com.br/ppv2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f5c353760ba0856a" tvg-name="LIVE 24/7 — Live | Riley vs Coupe" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Riley vs Coupe
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="LIVE 24/7 — Live | Syracuse vs NC State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Syracuse vs NC State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,18 +159,22 @@ https://admin2.formaturamaxi.com.br/oldham.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.978b25f6b6f39355" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.c10710acdcfb9e71" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 2
+https://temp.formaturamaxi.com.br/abbiecadabrii.m3u8
+#EXTINF:-1 tvg-id="zerostreams.40d80e737731a4b2" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1532d52ac0afb88d" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 3
+https://temp.formaturamaxi.com.br/simplyabby.m3u8
+#EXTINF:-1 tvg-id="zerostreams.219607cd7333230a" tvg-name="LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",LIVE 24/7 — UFC 334: Gane vs Hokit — Feed 3
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ufc.m3u8
+https://temp.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f5c353760ba0856a" tvg-name="LIVE 2026-11-14 19:00 UTC — Live | Riley vs Coupe" tvg-logo="https://static.ppvservices.st/assets/thumb/0b1ba88090738bc4a0ef1c51ab2a6fc8-thumbnail.jpg" group-title="Live",LIVE 2026-11-14 19:00 UTC — Live | Riley vs Coupe
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ppv4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.87c2bc75b611b28e" tvg-name="LIVE 2026-11-14 19:45 UTC — Soccer | Portugal vs Denmark" tvg-logo="https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-14 19:45 UTC — Soccer | Portugal vs Denmark
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -203,6 +191,10 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tudnus.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="UPCOMING 2026-11-15 00:00 UTC — Live | AEW Full Gear" tvg-logo="https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg" group-title="Live",UPCOMING 2026-11-15 00:00 UTC — Live | AEW Full Gear
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NBA | Denver Nuggets vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/5467b20c6e17a09dc8fa170ec9792bd3-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-15 00:00 UTC — NBA | Denver Nuggets vs New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -235,6 +227,14 @@ https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8d79e935e4355392" tvg-name="UPCOMING 2026-11-15 01:00 UTC — Live | Pacheco vs Fulghum — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg" group-title="Live",UPCOMING 2026-11-15 01:00 UTC — Live | Pacheco vs Fulghum — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ppv5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b2ff5d38e9b16f5e" tvg-name="UPCOMING 2026-11-15 01:00 UTC — Live | Pacheco vs Fulghum — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg" group-title="Live",UPCOMING 2026-11-15 01:00 UTC — Live | Pacheco vs Fulghum — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/12602870383c159bdc826f7bbbe87148/manifest/video.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="UPCOMING 2026-11-15 01:00 UTC — NBA | Brooklyn Nets vs Memphis Grizzlies" tvg-logo="https://static.ppvservices.st/assets/thumb/da9d7eddd627a7fb91b471b8d5b8a856-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-15 01:00 UTC — NBA | Brooklyn Nets vs Memphis Grizzlies
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

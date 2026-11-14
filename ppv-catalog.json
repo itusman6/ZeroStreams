@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Alabama Crimson Tide vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/ab755b046542a31d79415e649bbdd4c1-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/ala-van",
-    "starts_at": 1794678300,
-    "ends_at": 1794692700,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-14/ala-van"
-  },
-  {
     "name": "Tennessee Volunteers vs Texas A&M Aggies",
     "poster": "https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg",
     "tag": "College Football",
@@ -594,6 +583,17 @@
     "page": "https://ppv.st/live/nba/2026-11-15/okc-sac"
   },
   {
+    "name": "Riley vs Coupe",
+    "poster": "https://static.ppvservices.st/assets/thumb/0b1ba88090738bc4a0ef1c51ab2a6fc8-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "riley-vs-coupe-32223",
+    "starts_at": 1794682800,
+    "ends_at": 1794700800,
+    "status": "live",
+    "page": "https://ppv.st/live/riley-vs-coupe-32223"
+  },
+  {
     "name": "Polymarket UFC 334: Gane vs Hokit",
     "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
     "tag": "MMA",
@@ -603,6 +603,17 @@
     "ends_at": 1794722400,
     "status": "upcoming",
     "page": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218"
+  },
+  {
+    "name": "Pacheco vs Fulghum",
+    "poster": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "pacheco-vs-fulghum-32224",
+    "starts_at": 1794704400,
+    "ends_at": 1794722400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/pacheco-vs-fulghum-32224"
   },
   {
     "name": "Willow",
@@ -891,15 +902,15 @@
     "page": "https://ppv.st/live/247-fox-league"
   },
   {
-    "name": "AEW Saturday Night Collision",
-    "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+    "name": "AEW Full Gear",
+    "poster": "https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg",
     "tag": "Wrestling",
     "category": "Wrestling",
-    "uri": "aew/2026-11-14",
-    "starts_at": 1794704400,
-    "ends_at": 1794715200,
+    "uri": "aew-full-gear-32225",
+    "starts_at": 1794700800,
+    "ends_at": 1794722400,
     "status": "upcoming",
-    "page": "https://ppv.st/live/aew/2026-11-14"
+    "page": "https://ppv.st/live/aew-full-gear-32225"
   },
   {
     "name": "24/7 South Park",
