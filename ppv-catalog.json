@@ -671,28 +671,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Georgia vs Hungary",
-    "poster": "https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-14/geo-hun",
-    "starts_at": 1794675600,
-    "ends_at": 1794684600,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/geo-hun"
-  },
-  {
-    "name": "Norway vs Wales",
-    "poster": "https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-14/nor-wal",
-    "starts_at": 1794675600,
-    "ends_at": 1794684600,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/nor-wal"
-  },
-  {
     "name": "Fleetwood Town vs Tranmere Rovers",
     "poster": "https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg",
     "tag": "EFL League Two",
