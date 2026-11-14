@@ -392,7 +392,7 @@
     "uri": "nbl/2026-11-14/per-hwk",
     "starts_at": 1794652200,
     "ends_at": 1794663000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-14/per-hwk"
   },
   {
@@ -658,6 +658,17 @@
     "ends_at": 1794805200,
     "status": "upcoming",
     "page": "https://ppv.st/live/nba/2026-11-15/okc-sac"
+  },
+  {
+    "name": "Polymarket UFC 334: Gane vs Hokit",
+    "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "polymarket-ufc-334-gane-vs-hokit-32218",
+    "starts_at": 1794693600,
+    "ends_at": 1794722400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218"
   },
   {
     "name": "Willow",
