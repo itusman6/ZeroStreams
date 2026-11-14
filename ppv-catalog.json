@@ -374,17 +374,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Melbourne United vs South East Melbourne Phoenix",
-    "poster": "https://static.ppvservices.st/assets/thumb/3a8374ec9f3298d108404e170ed9d9cd-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-14/mel-pnx",
-    "starts_at": 1794645000,
-    "ends_at": 1794655800,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-14/mel-pnx"
-  },
-  {
     "name": "Perth Wildcats vs Illawarra Hawks",
     "poster": "https://static.ppvservices.st/assets/thumb/37693c9b1e97d52beb2164e157623035-thumbnail.jpg",
     "tag": "NBL",

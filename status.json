@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-14T11:15:57.688280+00:00",
+  "updated_utc": "2026-11-14T11:31:03.848980+00:00",
   "pages": 72,
   "candidate_urls": 68,
   "live_urls": 0,
@@ -14,9 +14,9 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 106,
+    "active_events": 105,
     "direct_candidates": 0,
-    "embed_only_events": 106,
+    "embed_only_events": 105,
     "errors": []
   },
   "event_groups": 63,
