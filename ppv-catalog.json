@@ -396,17 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Golden State Warriors vs San Antonio Spurs",
-    "poster": "https://static.ppvservices.st/assets/thumb/2a08d8d5a7ab23833090e8203e3b3768-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-13/gs-sa",
-    "starts_at": 1794623400,
-    "ends_at": 1794634200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-13/gs-sa"
-  },
-  {
     "name": "Portland Trail Blazers vs Sacramento Kings",
     "poster": "https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg",
     "tag": "NBA",
