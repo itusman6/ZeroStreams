@@ -99,14 +99,10 @@ https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.774deda46732d291" tvg-name="LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 00:00 UTC — NBA | New York Knicks vs Indiana Pacers — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="UPCOMING 2026-11-14 01:00 UTC — NBA | Atlanta Hawks vs Chicago Bulls" tvg-logo="https://static.ppvservices.st/assets/thumb/37c9b3804fa7eb217a2b6acb40e4ea86-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 01:00 UTC — NBA | Atlanta Hawks vs Chicago Bulls
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
