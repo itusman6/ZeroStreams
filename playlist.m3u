@@ -115,10 +115,10 @@ https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ireland.m3u8
-#EXTINF:-1 tvg-id="zerostreams.522bf449c706f68c" tvg-name="LIVE 24/7 — Soccer | Banfield vs Boca Juniors" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Banfield vs Boca Juniors
+#EXTINF:-1 tvg-id="zerostreams.c5623aad0839936b" tvg-name="LIVE 24/7 — Soccer | Banfield vs Boca Juniors" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Banfield vs Boca Juniors
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/atv.m3u8
+https://admin.formaturamaxi.com.br/tyc.m3u8
 #EXTINF:-1 tvg-id="zerostreams.523f62c8f4e5c314" tvg-name="LIVE 24/7 — Soccer | Chapecoense vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Chapecoense vs Vasco Gama
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
