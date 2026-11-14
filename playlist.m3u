@@ -11,18 +11,14 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.868e3c27429a52bd" tvg-name="LIVE 24/7 — Live | Alabama vs Vanderbilt" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Alabama vs Vanderbilt
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-11
+#EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="LIVE 24/7 — Live | Alabama vs Vanderbilt" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Alabama vs Vanderbilt
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa11.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="LIVE 24/7 — Live | Auburn vs Mississippi State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Auburn vs Mississippi State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
+https://admin2.formaturamaxi.com.br/ncaa10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.41879e5403e956f4" tvg-name="LIVE 24/7 — Live | Boston College vs Notre Dame" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Boston College vs Notre Dame
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e279ef1f2931f26" tvg-name="LIVE 24/7 — Live | Boston College vs Notre Dame" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Boston College vs Notre Dame
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
+https://temp.formaturamaxi.com.br/ncaa12.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a73f9e6d625c7b64" tvg-name="LIVE 24/7 — Live | Cincinnati vs Iowa State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Cincinnati vs Iowa State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -31,30 +27,38 @@ https://admin2.formaturamaxi.com.br/ncaa4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e070e537eb316f7" tvg-name="LIVE 24/7 — Live | Georgia Tech vs Clemson" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Georgia Tech vs Clemson
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-9
+#EXTINF:-1 tvg-id="zerostreams.a4450f3ba45b0a00" tvg-name="LIVE 24/7 — Live | Georgia Tech vs Clemson" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Georgia Tech vs Clemson
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa9.m3u8
+https://admin2.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d263d8b42bcc2edb" tvg-name="LIVE 24/7 — Live | Grand Slam of Darts (8/1PM)" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Grand Slam of Darts (8/1PM)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/darts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/darts.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a4450f3ba45b0a00" tvg-name="LIVE 24/7 — Live | James Madison vs UConn" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | James Madison vs UConn
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-8
+#EXTINF:-1 tvg-id="zerostreams.90d96afbf88aa697" tvg-name="LIVE 24/7 — Live | James Madison vs UConn" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | James Madison vs UConn
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.41879e5403e956f4" tvg-name="LIVE 24/7 — Live | Kansas State vs TCU" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Kansas State vs TCU
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
+https://admin.formaturamaxi.com.br/ncaa7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.868e3c27429a52bd" tvg-name="LIVE 24/7 — Live | Kansas State vs TCU" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Kansas State vs TCU
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa12.m3u8
+https://admin2.formaturamaxi.com.br/ncaa11.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4e279ef1f2931f26" tvg-name="LIVE 24/7 — Live | Kansas vs West Virginia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Kansas vs West Virginia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
 #EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="LIVE 24/7 — Live | NCAA GameDay" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | NCAA GameDay
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="LIVE 24/7 — Live | Nebraska vs Rutgers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Nebraska vs Rutgers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
+#EXTINF:-1 tvg-id="zerostreams.4e070e537eb316f7" tvg-name="LIVE 24/7 — Live | Nebraska vs Rutgers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Nebraska vs Rutgers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa10.m3u8
+https://admin2.formaturamaxi.com.br/ncaa9.m3u8
+#EXTINF:-1 tvg-id="zerostreams.39d54a4d57cb7be8" tvg-name="LIVE 24/7 — Live | Northwestern vs Ohio State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Northwestern vs Ohio State
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ab043270c6ca282b" tvg-name="LIVE 24/7 — Live | Oregon State vs Boise State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Oregon State vs Boise State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -79,10 +83,10 @@ https://admin2.formaturamaxi.com.br/ppv3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.84eb43503e14fd03" tvg-name="LIVE 24/7 — Live | Syracuse vs NC State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Syracuse vs NC State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-6
+#EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="LIVE 24/7 — Live | Syracuse vs NC State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Syracuse vs NC State
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
+https://admin2.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8766a8933e635ca7" tvg-name="LIVE 24/7 — Live | USC vs Indiana" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | USC vs Indiana
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -91,14 +95,10 @@ https://admin2.formaturamaxi.com.br/ncaa13.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.39d54a4d57cb7be8" tvg-name="LIVE 24/7 — Live | Wake Forest vs SMU" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Wake Forest vs SMU
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
+#EXTINF:-1 tvg-id="zerostreams.84eb43503e14fd03" tvg-name="LIVE 24/7 — Live | Wisconsin vs Maryland" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Wisconsin vs Maryland
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90d96afbf88aa697" tvg-name="LIVE 24/7 — Live | Wisconsin vs Maryland" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Wisconsin vs Maryland
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa7.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="LIVE 24/7 — Live | Zuffa Boxing 13: Adames vs Warburton" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Zuffa Boxing 13: Adames vs Warburton
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
