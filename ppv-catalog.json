@@ -62,7 +62,7 @@
     "uri": "cfb/2026-11-14/tenn-tam",
     "starts_at": 1794686400,
     "ends_at": 1794700800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-14/tenn-tam"
   },
   {
@@ -669,17 +669,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Fleetwood Town vs Tranmere Rovers",
-    "poster": "https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg",
-    "tag": "EFL League Two",
-    "category": "Football",
-    "uri": "efl-league-two/2026-11-14/fle-trn",
-    "starts_at": 1794677400,
-    "ends_at": 1794686400,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-league-two/2026-11-14/fle-trn"
   },
   {
     "name": "Algeria vs Togo",
