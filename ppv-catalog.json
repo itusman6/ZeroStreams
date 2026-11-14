@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Illinois Fighting Illini vs UCLA Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/f4500645bc55abe4ca8db68c89b6e640-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-13/ill-ucla",
-    "starts_at": 1794621600,
-    "ends_at": 1794636000,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-13/ill-ucla"
-  },
-  {
     "name": "Houston Cougars vs Colorado Buffaloes",
     "poster": "https://static.ppvservices.st/assets/thumb/a3e9e1fe181f85cdc095db87f827dd24-thumbnail.jpg",
     "tag": "College Football",
@@ -396,17 +385,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Portland Trail Blazers vs Sacramento Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-13/por-sac",
-    "starts_at": 1794625200,
-    "ends_at": 1794636000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-13/por-sac"
-  },
-  {
     "name": "Oklahoma City Thunder vs Los Angeles Clippers",
     "poster": "https://static.ppvservices.st/assets/thumb/a67c8daf0ce43ed52e8df1086f489d9e-thumbnail.jpg",
     "tag": "NBA",
@@ -768,17 +746,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Nashville Predators vs Vegas Golden Knights",
-    "poster": "https://static.ppvservices.st/assets/thumb/e13a643eca97a990bb6aac1c055ab790-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-13/nsh-vgk",
-    "starts_at": 1794625200,
-    "ends_at": 1794636000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-13/nsh-vgk"
   },
   {
     "name": "Seattle Kraken vs Carolina Hurricanes",
