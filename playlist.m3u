@@ -199,6 +199,10 @@ https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NHL | Colorado Avalanche vs Montreal Canadiens" tvg-logo="https://static.ppvservices.st/assets/thumb/e02e0c13ba31a13d0c565a014157ad59-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-15 00:00 UTC — NHL | Colorado Avalanche vs Montreal Canadiens
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1ecdd0acc9adbaa" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NHL | Detroit Red Wings vs Tampa Bay Lightning" tvg-logo="https://static.ppvservices.st/assets/thumb/5a3ca41ee0d4cfd0926881ff79d1f8ae-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-15 00:00 UTC — NHL | Detroit Red Wings vs Tampa Bay Lightning
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -207,10 +211,10 @@ https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NHL | Minnesota Wild vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/b030dff112833767261469617e18bafb-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-15 00:00 UTC — NHL | Minnesota Wild vs Boston Bruins
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
+#EXTINF:-1 tvg-id="zerostreams.44d26379923d5cc8" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NHL | Minnesota Wild vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/b030dff112833767261469617e18bafb-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-15 00:00 UTC — NHL | Minnesota Wild vs Boston Bruins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+https://tedesco.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c35fe04a174add0f" tvg-name="UPCOMING 2026-11-15 00:00 UTC — NHL | New Jersey Devils vs Washington Capitals" tvg-logo="https://static.ppvservices.st/assets/thumb/c2668547793a26a653489fff05300e59-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-15 00:00 UTC — NHL | New Jersey Devils vs Washington Capitals
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
