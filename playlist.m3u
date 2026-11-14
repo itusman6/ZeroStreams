@@ -151,10 +151,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="LIVE 2026-11-14 01:00 UTC — NBA | Cleveland Cavaliers vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/21928f035125c8fbf3a3fa93c9852c51-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 01:00 UTC — NBA | Cleveland Cavaliers vs Miami Heat
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-14 01:00 UTC — NBA | Cleveland Cavaliers vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/21928f035125c8fbf3a3fa93c9852c51-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 01:00 UTC — NBA | Cleveland Cavaliers vs Miami Heat
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba3.m3u8
+https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.da3183163d01db25" tvg-name="LIVE 2026-11-14 01:00 UTC — NBA | Memphis Grizzlies vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/70fdbb8a91c4000129944249ba58bead-thumbnail.jpg" group-title="NBA",LIVE 2026-11-14 01:00 UTC — NBA | Memphis Grizzlies vs New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -167,10 +167,10 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="UPCOMING 2026-11-14 02:30 UTC — NBA | Golden State Warriors vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/2a08d8d5a7ab23833090e8203e3b3768-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 02:30 UTC — NBA | Golden State Warriors vs San Antonio Spurs
+#EXTINF:-1 tvg-id="zerostreams.61d479e63052c1ee" tvg-name="UPCOMING 2026-11-14 02:30 UTC — NBA | Golden State Warriors vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/2a08d8d5a7ab23833090e8203e3b3768-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 02:30 UTC — NBA | Golden State Warriors vs San Antonio Spurs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba7.m3u8
+https://admin.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.872b165b84888df4" tvg-name="UPCOMING 2026-11-14 03:00 UTC — NBA | Portland Trail Blazers vs Sacramento Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 03:00 UTC — NBA | Portland Trail Blazers vs Sacramento Kings
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -179,11 +179,3 @@ https://tedesco.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b7bf62472366ca2c" tvg-name="UPCOMING 2026-11-14 03:30 UTC — NBA | Oklahoma City Thunder vs Los Angeles Clippers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/a67c8daf0ce43ed52e8df1086f489d9e-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 03:30 UTC — NBA | Oklahoma City Thunder vs Los Angeles Clippers — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/lakers.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f711b92fe87a4639" tvg-name="UPCOMING 2026-11-14 03:30 UTC — NBA | Oklahoma City Thunder vs Los Angeles Clippers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/a67c8daf0ce43ed52e8df1086f489d9e-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-14 03:30 UTC — NBA | Oklahoma City Thunder vs Los Angeles Clippers — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba9.m3u8
