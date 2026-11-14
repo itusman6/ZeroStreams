@@ -682,6 +682,17 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Kosovo vs Israel",
+    "poster": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/kos-isr",
+    "starts_at": 1794664800,
+    "ends_at": 1794673800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/kos-isr"
+  },
+  {
     "name": "Shrewsbury Town vs Oldham Athletic",
     "poster": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
     "tag": "EFL League Two",
@@ -693,6 +704,138 @@
     "page": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old"
   },
   {
+    "name": "Rochdale vs York City",
+    "poster": "https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg",
+    "tag": "EFL League Two",
+    "category": "Football",
+    "uri": "efl-league-two/2026-11-14/rch-york",
+    "starts_at": 1794668400,
+    "ends_at": 1794677400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/efl-league-two/2026-11-14/rch-york"
+  },
+  {
+    "name": "Uganda vs Botswana",
+    "poster": "https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-14/uga-bot",
+    "starts_at": 1794672000,
+    "ends_at": 1794681000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-14/uga-bot"
+  },
+  {
+    "name": "Georgia vs Hungary",
+    "poster": "https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/geo-hun",
+    "starts_at": 1794675600,
+    "ends_at": 1794684600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/geo-hun"
+  },
+  {
+    "name": "Norway vs Wales",
+    "poster": "https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/nor-wal",
+    "starts_at": 1794675600,
+    "ends_at": 1794684600,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/nor-wal"
+  },
+  {
+    "name": "Algeria vs Togo",
+    "poster": "https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-14/alg-tog",
+    "starts_at": 1794682800,
+    "ends_at": 1794691800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-14/alg-tog"
+  },
+  {
+    "name": "Angola vs South Sudan",
+    "poster": "https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-14/ang-ssd",
+    "starts_at": 1794682800,
+    "ends_at": 1794691800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-14/ang-ssd"
+  },
+  {
+    "name": "Austria vs Republic of Ireland",
+    "poster": "https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/aut-irl",
+    "starts_at": 1794685500,
+    "ends_at": 1794694500,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/aut-irl"
+  },
+  {
+    "name": "Northern Ireland vs Ukraine",
+    "poster": "https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/nir-ukr",
+    "starts_at": 1794685500,
+    "ends_at": 1794694500,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/nir-ukr"
+  },
+  {
+    "name": "Portugal vs Denmark",
+    "poster": "https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/por-den",
+    "starts_at": 1794685500,
+    "ends_at": 1794694500,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/por-den"
+  },
+  {
+    "name": "Romania vs Poland",
+    "poster": "https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/rou-pol",
+    "starts_at": 1794685500,
+    "ends_at": 1794694500,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/rou-pol"
+  },
+  {
+    "name": "Sweden vs Bosnia-Herzegovina",
+    "poster": "https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/swe-bih",
+    "starts_at": 1794685500,
+    "ends_at": 1794694500,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/swe-bih"
+  },
+  {
+    "name": "Haiti vs United States",
+    "poster": "https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg",
+    "tag": "Concacaf Nations League",
+    "category": "Football",
+    "uri": "concacaf-nations-league/2026-11-14/hai-usa",
+    "starts_at": 1794691800,
+    "ends_at": 1794700800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-14/hai-usa"
+  },
+  {
     "name": "Quer\u00e9taro vs Monterrey",
     "poster": "https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg",
     "tag": "Liga MX",
@@ -702,6 +845,17 @@
     "ends_at": 1794706200,
     "status": "upcoming",
     "page": "https://ppv.st/live/liga-mx/2026-11-14/qro-mty"
+  },
+  {
+    "name": "Jamaica vs Mexico",
+    "poster": "https://static.ppvservices.st/assets/thumb/4ee82a4bea518c56a0c883ed5ed59cef-thumbnail.jpg",
+    "tag": "Concacaf Nations League",
+    "category": "Football",
+    "uri": "concacaf-nations-league/2026-11-15/jam-mex",
+    "starts_at": 1794704400,
+    "ends_at": 1794713400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-15/jam-mex"
   },
   {
     "name": "Sky Sports Golf",
