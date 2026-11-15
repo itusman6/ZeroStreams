@@ -73,7 +73,7 @@
     "uri": "cfb/2026-11-14/utah-ariz",
     "starts_at": 1794713400,
     "ends_at": 1794727800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-14/utah-ariz"
   },
   {
@@ -251,17 +251,6 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Dallas Mavericks vs Cleveland Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/90888e38d8fb2d063adf14b990221ad5-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-14/dal-cle",
-    "starts_at": 1794702600,
-    "ends_at": 1794713400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-14/dal-cle"
   },
   {
     "name": "Detroit Pistons vs Miami Heat",
@@ -526,17 +515,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Jamaica vs Mexico",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ee82a4bea518c56a0c883ed5ed59cef-thumbnail.jpg",
-    "tag": "Concacaf Nations League",
-    "category": "Football",
-    "uri": "concacaf-nations-league/2026-11-15/jam-mex",
-    "starts_at": 1794704400,
-    "ends_at": 1794713400,
-    "status": "live",
-    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-15/jam-mex"
   },
   {
     "name": "Sky Sports Golf",
