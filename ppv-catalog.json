@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Tennessee Volunteers vs Texas A&M Aggies",
-    "poster": "https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/tenn-tam",
-    "starts_at": 1794686400,
-    "ends_at": 1794700800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-14/tenn-tam"
-  },
-  {
     "name": "Missouri Tigers vs Georgia Bulldogs",
     "poster": "https://static.ppvservices.st/assets/thumb/873859d775641dd9e910e5ef107c5a0e-thumbnail.jpg",
     "tag": "College Football",
@@ -95,7 +84,7 @@
     "uri": "cfb/2026-11-14/bay-byu",
     "starts_at": 1794700800,
     "ends_at": 1794715200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-14/bay-byu"
   },
   {
@@ -337,7 +326,7 @@
     "uri": "nba/2026-11-14/den-no",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-14/den-no"
   },
   {
@@ -572,17 +561,6 @@
     "page": "https://ppv.st/live/nba/2026-11-15/okc-sac"
   },
   {
-    "name": "Riley vs Coupe",
-    "poster": "https://static.ppvservices.st/assets/thumb/0b1ba88090738bc4a0ef1c51ab2a6fc8-thumbnail.jpg",
-    "tag": "Boxing",
-    "category": "Combat Sports",
-    "uri": "riley-vs-coupe-32223",
-    "starts_at": 1794682800,
-    "ends_at": 1794700800,
-    "status": "live",
-    "page": "https://ppv.st/live/riley-vs-coupe-32223"
-  },
-  {
     "name": "Polymarket UFC 334: Gane vs Hokit",
     "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
     "tag": "MMA",
@@ -625,17 +603,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Haiti vs United States",
-    "poster": "https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg",
-    "tag": "Concacaf Nations League",
-    "category": "Football",
-    "uri": "concacaf-nations-league/2026-11-14/hai-usa",
-    "starts_at": 1794691800,
-    "ends_at": 1794700800,
-    "status": "live",
-    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-14/hai-usa"
   },
   {
     "name": "Quer\u00e9taro vs Monterrey",
@@ -689,7 +656,7 @@
     "uri": "nhl/2026-11-14/min-bos",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/min-bos"
   },
   {
@@ -700,7 +667,7 @@
     "uri": "nhl/2026-11-14/edm-tor",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/edm-tor"
   },
   {
@@ -711,7 +678,7 @@
     "uri": "nhl/2026-11-14/col-mtl",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/col-mtl"
   },
   {
@@ -722,7 +689,7 @@
     "uri": "nhl/2026-11-14/det-tb",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/det-tb"
   },
   {
@@ -733,7 +700,7 @@
     "uri": "nhl/2026-11-14/ott-pit",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/ott-pit"
   },
   {
@@ -744,7 +711,7 @@
     "uri": "nhl/2026-11-14/nj-wsh",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/nj-wsh"
   },
   {
@@ -755,7 +722,7 @@
     "uri": "nhl/2026-11-14/phi-cbj",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/phi-cbj"
   },
   {
@@ -766,7 +733,7 @@
     "uri": "nhl/2026-11-14/fla-stl",
     "starts_at": 1794700800,
     "ends_at": 1794711600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/fla-stl"
   },
   {
@@ -832,7 +799,7 @@
     "uri": "aew-full-gear-32225",
     "starts_at": 1794700800,
     "ends_at": 1794722400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/aew-full-gear-32225"
   },
   {
