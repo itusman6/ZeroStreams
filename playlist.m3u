@@ -79,6 +79,10 @@ https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b9b604c0ec26430e" tvg-name="LIVE 24/7 — Soccer | Belgium vs Italy" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Belgium vs Italy
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="LIVE 24/7 — Soccer | Cyprus vs Montenegro" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Cyprus vs Montenegro
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -91,6 +95,18 @@ https://admin2.formaturamaxi.com.br/vix.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fsp.m3u8
+#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/eng.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fdcd5cb41c9bc644" tvg-name="LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | SPAIN vs ENGLAND — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/itv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL RedZone — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL RedZone — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -99,22 +115,6 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b9b604c0ec26430e" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Belgium vs Italy" tvg-logo="https://static.ppvservices.st/assets/thumb/def4341e04ac73a66137059c101cec1a-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Belgium vs Italy
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/eng.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fdcd5cb41c9bc644" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 3" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/itv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.74a70c0f571d8308" tvg-name="LIVE 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
