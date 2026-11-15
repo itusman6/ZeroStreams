@@ -304,7 +304,7 @@
     "uri": "nba/2026-11-14/det-mia",
     "starts_at": 1794704400,
     "ends_at": 1794715200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-14/det-mia"
   },
   {
@@ -315,7 +315,7 @@
     "uri": "nba/2026-11-14/bkn-mem",
     "starts_at": 1794704400,
     "ends_at": 1794715200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-14/bkn-mem"
   },
   {
@@ -326,7 +326,7 @@
     "uri": "nba/2026-11-14/chi-min",
     "starts_at": 1794704400,
     "ends_at": 1794715200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-14/chi-min"
   },
   {
@@ -535,7 +535,7 @@
     "uri": "pacheco-vs-fulghum-32224",
     "starts_at": 1794704400,
     "ends_at": 1794722400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pacheco-vs-fulghum-32224"
   },
   {
@@ -579,7 +579,7 @@
     "uri": "concacaf-nations-league/2026-11-15/jam-mex",
     "starts_at": 1794704400,
     "ends_at": 1794713400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/concacaf-nations-league/2026-11-15/jam-mex"
   },
   {
@@ -700,7 +700,7 @@
     "uri": "nhl/2026-11-14/buf-dal",
     "starts_at": 1794704400,
     "ends_at": 1794715200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-14/buf-dal"
   },
   {
