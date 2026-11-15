@@ -195,7 +195,11 @@ https://temp.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear" tvg-logo="https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg" group-title="Live",LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear
+#EXTINF:-1 tvg-id="zerostreams.8ded7466a0193908" tvg-name="LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg" group-title="Live",LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/aew.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg" group-title="Live",LIVE 2026-11-15 00:00 UTC — Live | AEW Full Gear — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aew.m3u8
