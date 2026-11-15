@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "New England Patriots vs Detroit Lions",
-    "poster": "https://static.ppvservices.st/assets/thumb/2ee5ed760b71a282eb597a7a17d04756-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-15/ne-det",
-    "starts_at": 1794753000,
-    "ends_at": 1794767400,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-15/ne-det"
-  },
-  {
     "name": "Kansas City Chiefs vs Atlanta Falcons",
     "poster": "https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg",
     "tag": "NFL",
