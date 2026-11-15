@@ -99,10 +99,18 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b9b604c0ec26430e" tvg-name="UPCOMING 2026-11-15 19:45 UTC — Soccer | Spain vs England" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-15 19:45 UTC — Soccer | Spain vs England
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fubo.m3u8
+https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/eng.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fdcd5cb41c9bc644" tvg-name="LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 3" tvg-logo="https://static.ppvservices.st/assets/thumb/db85d79959f1364f9367c55327f7c616-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-15 19:45 UTC — Soccer | Spain vs England — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/itv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="UPCOMING 2026-11-15 21:00 UTC — NBA | Los Angeles Lakers vs Phoenix Suns" tvg-logo="https://static.ppvservices.st/assets/thumb/3f678db824ca83a8cfa9543c537e7cb1-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-15 21:00 UTC — NBA | Los Angeles Lakers vs Phoenix Suns
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
