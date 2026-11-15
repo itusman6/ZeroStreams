@@ -39,6 +39,14 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.33144bfa38360178" tvg-name="LIVE 24/7 — Shared Channels | NFL2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL2 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="LIVE 24/7 — Shared Channels | NFL3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL3 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.65923d32f5a9e807" tvg-name="LIVE 24/7 — Shared Channels | NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -71,22 +79,14 @@ https://admin.formaturamaxi.com.br/nfl8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nfl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Houston Texans vs Cleveland Browns" tvg-logo="https://static.ppvservices.st/assets/thumb/edce495f4d55aab4c4135932956b400d-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Houston Texans vs Cleveland Browns
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f2af93d3254039e1" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Jacksonville Jaguars vs Tennessee Titans" tvg-logo="https://static.ppvservices.st/assets/thumb/dbb305ab6871208e7cc4e89e90ef343a-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Jacksonville Jaguars vs Tennessee Titans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4bcdf26bc68b00e9" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.4bcdf26bc68b00e9" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons" tvg-logo="https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.33144bfa38360178" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/d11241cda6866dd6f13754a4dbd232a9-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Kansas City Chiefs vs Atlanta Falcons — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f2e451c8ac85164c" tvg-name="LIVE 2026-11-15 18:00 UTC — NFL | Miami Dolphins vs Indianapolis Colts" tvg-logo="https://static.ppvservices.st/assets/thumb/6cb6afb25174858fac803d03983eb01b-thumbnail.jpg" group-title="NFL",LIVE 2026-11-15 18:00 UTC — NFL | Miami Dolphins vs Indianapolis Colts
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -119,30 +119,14 @@ https://admin2.formaturamaxi.com.br/itv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.74a70c0f571d8308" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b803751b863f6467" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 2
+https://tedesco.formaturamaxi.com.br/nfl10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8af8b341dbf1b526" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Los Angeles Rams vs Arizona Cardinals — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/packers.m3u8
-#EXTINF:-1 tvg-id="zerostreams.76db5ae15928eb35" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Seattle Seahawks vs Las Vegas Raiders — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/5d2b3b489d2fceb05d10990d63a1c44b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Seattle Seahawks vs Las Vegas Raiders — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.25b2443ce52b131d" tvg-name="UPCOMING 2026-11-15 21:05 UTC — NFL | Seattle Seahawks vs Las Vegas Raiders — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/5d2b3b489d2fceb05d10990d63a1c44b-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:05 UTC — NFL | Seattle Seahawks vs Las Vegas Raiders — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a4653c2013ec2735" tvg-name="UPCOMING 2026-11-15 21:25 UTC — NFL | San Francisco 49ers vs Dallas Cowboys — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/fcbe26fb7e2a47c54dc5cbf02fe4d5db-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:25 UTC — NFL | San Francisco 49ers vs Dallas Cowboys — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl11.m3u8
-#EXTINF:-1 tvg-id="zerostreams.52d3773574b0d3f5" tvg-name="UPCOMING 2026-11-15 21:25 UTC — NFL | San Francisco 49ers vs Dallas Cowboys — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/fcbe26fb7e2a47c54dc5cbf02fe4d5db-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-15 21:25 UTC — NFL | San Francisco 49ers vs Dallas Cowboys — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl4.m3u8
+https://temp.formaturamaxi.com.br/rams.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="UPCOMING 2026-11-15 21:30 UTC — NBA | Charlotte Hornets vs Los Angeles Clippers" tvg-logo="https://static.ppvservices.st/assets/thumb/21759766c62e5fb6175a6f614bbf59f9-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-15 21:30 UTC — NBA | Charlotte Hornets vs Los Angeles Clippers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
