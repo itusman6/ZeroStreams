@@ -139,7 +139,7 @@
     "uri": "nfl/2026-11-15/sf-dal",
     "starts_at": 1794777900,
     "ends_at": 1794792300,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-15/sf-dal"
   },
   {
@@ -227,7 +227,7 @@
     "uri": "nba/2026-11-15/cha-lac",
     "starts_at": 1794778200,
     "ends_at": 1794789000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-15/cha-lac"
   },
   {
