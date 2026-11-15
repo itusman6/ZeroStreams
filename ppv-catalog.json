@@ -227,7 +227,7 @@
     "uri": "nbl/2026-11-15/bri-tas",
     "starts_at": 1794722400,
     "ends_at": 1794733200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-15/bri-tas"
   },
   {
@@ -506,28 +506,6 @@
     "page": "https://ppv.st/live/cbb/2026-11-16/lbsu-ucla"
   },
   {
-    "name": "Polymarket UFC 334: Gane vs Hokit",
-    "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
-    "tag": "MMA",
-    "category": "Combat Sports",
-    "uri": "polymarket-ufc-334-gane-vs-hokit-32218",
-    "starts_at": 1794693600,
-    "ends_at": 1794722400,
-    "status": "live",
-    "page": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218"
-  },
-  {
-    "name": "Pacheco vs Fulghum",
-    "poster": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg",
-    "tag": "Boxing",
-    "category": "Combat Sports",
-    "uri": "pacheco-vs-fulghum-32224",
-    "starts_at": 1794704400,
-    "ends_at": 1794722400,
-    "status": "live",
-    "page": "https://ppv.st/live/pacheco-vs-fulghum-32224"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -570,28 +548,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "New York Islanders vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d8f4a5f27a6b251cc07d397cdc22c9b4-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-14/nyi-ana",
-    "starts_at": 1794711600,
-    "ends_at": 1794722400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-14/nyi-ana"
-  },
-  {
-    "name": "Calgary Flames vs Los Angeles Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ecfe4fc48b600da3583b52a40250a31-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-14/cgy-la",
-    "starts_at": 1794711600,
-    "ends_at": 1794722400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-14/cgy-la"
   },
   {
     "name": "Edmonton Oilers vs Philadelphia Flyers",
@@ -658,17 +614,6 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-league"
-  },
-  {
-    "name": "AEW Full Gear",
-    "poster": "https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "aew-full-gear-32225",
-    "starts_at": 1794700800,
-    "ends_at": 1794722400,
-    "status": "live",
-    "page": "https://ppv.st/live/aew-full-gear-32225"
   },
   {
     "name": "24/7 South Park",
