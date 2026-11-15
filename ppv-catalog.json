@@ -187,17 +187,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Brisbane Bullets vs Tasmania JackJumpers",
-    "poster": "https://static.ppvservices.st/assets/thumb/13309f50c334fe36d8edeaf6abf30a38-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-15/bri-tas",
-    "starts_at": 1794722400,
-    "ends_at": 1794733200,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-15/bri-tas"
-  },
-  {
     "name": "Indiana Pacers vs Philadelphia 76ers",
     "poster": "https://static.ppvservices.st/assets/thumb/92d2e1ac54dc610aaf291ba61575159c-thumbnail.jpg",
     "tag": "NBA",
