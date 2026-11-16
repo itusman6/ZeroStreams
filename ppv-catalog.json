@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Pittsburgh Steelers vs Cincinnati Bengals",
-    "poster": "https://static.ppvservices.st/assets/thumb/6445d6439869620bce51b32d004221bc-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-15/pit-cin",
-    "starts_at": 1794792000,
-    "ends_at": 1794806400,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-15/pit-cin"
-  },
-  {
     "name": "Los Angeles Chargers vs Baltimore Ravens",
     "poster": "https://static.ppvservices.st/assets/thumb/6a1da1769d081122cbb2445ac84d0185-thumbnail.jpg",
     "tag": "NFL",
