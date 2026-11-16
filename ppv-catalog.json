@@ -308,17 +308,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Edmonton Oilers vs Philadelphia Flyers",
-    "poster": "https://static.ppvservices.st/assets/thumb/7ddca8d8fb008425ed58887e59d7b6d0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-15/edm-phi",
-    "starts_at": 1794789000,
-    "ends_at": 1794799800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-15/edm-phi"
-  },
-  {
     "name": "Florida Panthers vs Dallas Stars",
     "poster": "https://static.ppvservices.st/assets/thumb/4ccc0601ee133bbe6c1563bff961e523-thumbnail.jpg",
     "tag": "NHL",
