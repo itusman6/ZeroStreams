@@ -814,6 +814,116 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
+    "name": "Faroe Islands vs Moldova",
+    "poster": "https://static.ppvservices.st/assets/thumb/e912375e5e67af411c8810f797762541-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/fro-mda",
+    "starts_at": 1794841200,
+    "ends_at": 1794850200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/fro-mda"
+  },
+  {
+    "name": "Kazakhstan vs Slovakia",
+    "poster": "https://static.ppvservices.st/assets/thumb/fad58e5c89d4169e5b9f5d810dd81d44-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/kaz-svk",
+    "starts_at": 1794841200,
+    "ends_at": 1794850200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/kaz-svk"
+  },
+  {
+    "name": "Estonia vs Bulgaria",
+    "poster": "https://static.ppvservices.st/assets/thumb/4341f2be818a6c5e4b1cfe01ce5fe927-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/est-bul",
+    "starts_at": 1794848400,
+    "ends_at": 1794857400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/est-bul"
+  },
+  {
+    "name": "Iceland vs Luxembourg",
+    "poster": "https://static.ppvservices.st/assets/thumb/ca7c4e351a35338743c8e0a8c67595a8-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/isl-lux",
+    "starts_at": 1794848400,
+    "ends_at": 1794857400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/isl-lux"
+  },
+  {
+    "name": "Lithuania vs Liechtenstein",
+    "poster": "https://static.ppvservices.st/assets/thumb/f1efddf20db4d2b355108a6201e7d2d6-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/ltu-lie",
+    "starts_at": 1794848400,
+    "ends_at": 1794857400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/ltu-lie"
+  },
+  {
+    "name": "Gibraltar vs Malta",
+    "poster": "https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/gib-mlt",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/gib-mlt"
+  },
+  {
+    "name": "Greece vs Serbia",
+    "poster": "https://static.ppvservices.st/assets/thumb/d24378502922384692993c806528ed55-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/gre-srb",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/gre-srb"
+  },
+  {
+    "name": "North Macedonia vs Slovenia",
+    "poster": "https://static.ppvservices.st/assets/thumb/7c0af8f1a0b9a4ca1780efeca9f5fe37-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/mkd-svn",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/mkd-svn"
+  },
+  {
+    "name": "Switzerland vs Scotland",
+    "poster": "https://static.ppvservices.st/assets/thumb/ecd4b7f261d259cd6835152bf7c4f507-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/sui-sco",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/sui-sco"
+  },
+  {
+    "name": "Germany vs Netherlands",
+    "poster": "https://static.ppvservices.st/assets/thumb/dea4742dab5d5f11e1acb18054073ac1-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/ger-ned",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/ger-ned"
+  },
+  {
     "name": "Orlando City SC vs FC Cincinnati",
     "poster": "https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg",
     "tag": "MLS",
