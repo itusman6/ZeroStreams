@@ -31,6 +31,10 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ac09bde009bb726c" tvg-name="LIVE 24/7 — NBA | Atlanta Hawks vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Atlanta Hawks vs Milwaukee Bucks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.fa233622a57ef2af" tvg-name="LIVE 24/7 — NBA | Charlotte Hornets vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Charlotte Hornets vs Los Angeles Clippers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -91,6 +95,10 @@ https://temp.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 24/7 — NHL | Florida Panthers vs Dallas Stars" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Florida Panthers vs Dallas Stars
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d263d8b42bcc2edb" tvg-name="LIVE 24/7 — Shared Channels | DARTS — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | DARTS — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/darts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -151,14 +159,6 @@ https://admin2.formaturamaxi.com.br/eng.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/itv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ac09bde009bb726c" tvg-name="LIVE 2026-11-16 01:00 UTC — NBA | Atlanta Hawks vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/1977dfacfe3638fc7f070d5e4fca7167-thumbnail.jpg" group-title="NBA",LIVE 2026-11-16 01:00 UTC — NBA | Atlanta Hawks vs Milwaukee Bucks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 2026-11-16 01:00 UTC — NHL | Florida Panthers vs Dallas Stars" tvg-logo="https://static.ppvservices.st/assets/thumb/4ccc0601ee133bbe6c1563bff961e523-thumbnail.jpg" group-title="NHL",LIVE 2026-11-16 01:00 UTC — NHL | Florida Panthers vs Dallas Stars
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="LIVE 2026-11-16 01:20 UTC — NFL | Pittsburgh Steelers vs Cincinnati Bengals" tvg-logo="https://static.ppvservices.st/assets/thumb/6445d6439869620bce51b32d004221bc-thumbnail.jpg" group-title="NFL",LIVE 2026-11-16 01:20 UTC — NFL | Pittsburgh Steelers vs Cincinnati Bengals
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
