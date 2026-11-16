@@ -47,22 +47,22 @@ https://tedesco.formaturamaxi.com.br/nfl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ecc9e293394f8ed3" tvg-name="LIVE 24/7 — Soccer | Namibia vs Cameroon" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Namibia vs Cameroon
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="LIVE 24/7 — Soccer | Sudan vs Senegal" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Sudan vs Senegal
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.75970eb1a4b3c4ee" tvg-name="LIVE 24/7 — Soccer | Zimbabwe vs Equatorial Guinea" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Zimbabwe vs Equatorial Guinea
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="LIVE 24/7 — WWE RAW" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",LIVE 24/7 — WWE RAW
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ecc9e293394f8ed3" tvg-name="UPCOMING 2026-11-16 13:00 UTC — Soccer | Namibia vs Cameroon" tvg-logo="https://static.ppvservices.st/assets/thumb/56d777255bbe2b3bf8d2c3b5d1182ed7-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-16 13:00 UTC — Soccer | Namibia vs Cameroon
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="UPCOMING 2026-11-16 13:00 UTC — Soccer | Sudan vs Senegal" tvg-logo="https://static.ppvservices.st/assets/thumb/4a65da83c210f36f4c2f6c76cd0e6acc-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-16 13:00 UTC — Soccer | Sudan vs Senegal
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="zerostreams.75970eb1a4b3c4ee" tvg-name="UPCOMING 2026-11-16 13:00 UTC — Soccer | Zimbabwe vs Equatorial Guinea" tvg-logo="https://static.ppvservices.st/assets/thumb/800c8c99c343fd5d978fdbde2de207a9-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-16 13:00 UTC — Soccer | Zimbabwe vs Equatorial Guinea
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b11753c7e450f9d4" tvg-name="UPCOMING 2026-11-16 15:00 UTC — Soccer | Faroe Islands vs Moldova" tvg-logo="https://static.ppvservices.st/assets/thumb/e912375e5e67af411c8810f797762541-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-16 15:00 UTC — Soccer | Faroe Islands vs Moldova
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

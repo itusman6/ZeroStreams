@@ -814,6 +814,39 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
+    "name": "Namibia vs Cameroon",
+    "poster": "https://static.ppvservices.st/assets/thumb/56d777255bbe2b3bf8d2c3b5d1182ed7-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/nam-cmr",
+    "starts_at": 1794834000,
+    "ends_at": 1794843000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/nam-cmr"
+  },
+  {
+    "name": "Sudan vs Senegal",
+    "poster": "https://static.ppvservices.st/assets/thumb/4a65da83c210f36f4c2f6c76cd0e6acc-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/sud-sen",
+    "starts_at": 1794834000,
+    "ends_at": 1794843000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/sud-sen"
+  },
+  {
+    "name": "Zimbabwe vs Equatorial Guinea",
+    "poster": "https://static.ppvservices.st/assets/thumb/800c8c99c343fd5d978fdbde2de207a9-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/zim-eqg",
+    "starts_at": 1794834000,
+    "ends_at": 1794843000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/zim-eqg"
+  },
+  {
     "name": "Faroe Islands vs Moldova",
     "poster": "https://static.ppvservices.st/assets/thumb/e912375e5e67af411c8810f797762541-thumbnail.jpg",
     "tag": "UEFA Nations League",
@@ -834,6 +867,28 @@
     "ends_at": 1794850200,
     "status": "upcoming",
     "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/kaz-svk"
+  },
+  {
+    "name": "Somalia vs Ghana",
+    "poster": "https://static.ppvservices.st/assets/thumb/369c03ef56222f6eb39f3e1a214203c7-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/som-gha",
+    "starts_at": 1794841200,
+    "ends_at": 1794850200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/som-gha"
+  },
+  {
+    "name": "Central African Republic vs Benin",
+    "poster": "https://static.ppvservices.st/assets/thumb/c0a6c9660551ff1d30c85891b5ba3feb-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/cta-ben",
+    "starts_at": 1794844800,
+    "ends_at": 1794853800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/cta-ben"
   },
   {
     "name": "Estonia vs Bulgaria",
@@ -867,6 +922,17 @@
     "ends_at": 1794857400,
     "status": "upcoming",
     "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/ltu-lie"
+  },
+  {
+    "name": "Eritrea vs Guinea",
+    "poster": "https://static.ppvservices.st/assets/thumb/8a28b8491fd8846096cfd98d1945c1fc-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-16/eri-gui",
+    "starts_at": 1794848400,
+    "ends_at": 1794857400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/eri-gui"
   },
   {
     "name": "Gibraltar vs Malta",
@@ -1837,6 +1903,61 @@
     "page": "https://ppv.st/live/nhl/2026-11-16/van-uta"
   },
   {
+    "name": "Las Vegas Grand Prix - Practice 1",
+    "poster": "https://static.ppvservices.st/assets/thumb/a4e51bfec583268fd1a064ffb4c8a18e-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/las-vegas/fp1",
+    "starts_at": 1795134600,
+    "ends_at": 1795141800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/f1/2026/las-vegas/fp1"
+  },
+  {
+    "name": "Las Vegas Grand Prix - Practice 2",
+    "poster": "https://static.ppvservices.st/assets/thumb/2891ea26279df1f69fd56d7673213e26-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/las-vegas/fp2",
+    "starts_at": 1795147200,
+    "ends_at": 1795154400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/f1/2026/las-vegas/fp2"
+  },
+  {
+    "name": "Las Vegas Grand Prix - Practice 3",
+    "poster": "https://static.ppvservices.st/assets/thumb/a702f41e630dfdaf68ac23e572b0a3c1-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/las-vegas/fp3",
+    "starts_at": 1795221000,
+    "ends_at": 1795228200,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/f1/2026/las-vegas/fp3"
+  },
+  {
+    "name": "Las Vegas Grand Prix - Qualifying",
+    "poster": "https://static.ppvservices.st/assets/thumb/b526db35e2cda05c237641a723988187-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/las-vegas/qualifying",
+    "starts_at": 1795233600,
+    "ends_at": 1795240800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/f1/2026/las-vegas/qualifying"
+  },
+  {
+    "name": "Las Vegas Grand Prix: Race",
+    "poster": "https://static.ppvservices.st/assets/thumb/f7d13134d98d5629c426de8cc76fe91e-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/las-vegas/race",
+    "starts_at": 1795320000,
+    "ends_at": 1795330800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/f1/2026/las-vegas/race"
+  },
+  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -1846,6 +1967,28 @@
     "ends_at": 10740,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "Tennis Channel",
+    "poster": "https://static.ppvservices.st/assets/thumb/cdab425a6142f35617238cfe7a753d18-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Tennis",
+    "uri": "tennis-channel",
+    "starts_at": 60,
+    "ends_at": 10860,
+    "status": "live",
+    "page": "https://ppv.st/live/tennis-channel"
+  },
+  {
+    "name": "Sky Sports Tennis",
+    "poster": "https://static.ppvservices.st/assets/thumb/3fa2f4ea885cdd997f65c0ded9148fba-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Tennis",
+    "uri": "sky-sports-tennis-32479",
+    "starts_at": 1794787200,
+    "ends_at": 1794801600,
+    "status": "live",
+    "page": "https://ppv.st/live/sky-sports-tennis-32479"
   },
   {
     "name": "WWE NXT",
