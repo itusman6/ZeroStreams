@@ -99,17 +99,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Charlotte Hornets vs Los Angeles Clippers",
-    "poster": "https://static.ppvservices.st/assets/thumb/21759766c62e5fb6175a6f614bbf59f9-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-15/cha-lac",
-    "starts_at": 1794778200,
-    "ends_at": 1794789000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-15/cha-lac"
-  },
-  {
     "name": "San Antonio Spurs vs Utah Jazz",
     "poster": "https://static.ppvservices.st/assets/thumb/c722824b0b5a6290ba08e8f6e288acce-thumbnail.jpg",
     "tag": "NBA",
@@ -447,7 +436,7 @@
     "uri": "nhl/2026-11-15/edm-phi",
     "starts_at": 1794789000,
     "ends_at": 1794799800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-15/edm-phi"
   },
   {
