@@ -814,50 +814,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Estonia vs Bulgaria",
-    "poster": "https://static.ppvservices.st/assets/thumb/4341f2be818a6c5e4b1cfe01ce5fe927-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-16/est-bul",
-    "starts_at": 1794848400,
-    "ends_at": 1794857400,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/est-bul"
-  },
-  {
-    "name": "Iceland vs Luxembourg",
-    "poster": "https://static.ppvservices.st/assets/thumb/ca7c4e351a35338743c8e0a8c67595a8-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-16/isl-lux",
-    "starts_at": 1794848400,
-    "ends_at": 1794857400,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/isl-lux"
-  },
-  {
-    "name": "Lithuania vs Liechtenstein",
-    "poster": "https://static.ppvservices.st/assets/thumb/f1efddf20db4d2b355108a6201e7d2d6-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-16/ltu-lie",
-    "starts_at": 1794848400,
-    "ends_at": 1794857400,
-    "status": "live",
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/ltu-lie"
-  },
-  {
-    "name": "Eritrea vs Guinea",
-    "poster": "https://static.ppvservices.st/assets/thumb/8a28b8491fd8846096cfd98d1945c1fc-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-16/eri-gui",
-    "starts_at": 1794848400,
-    "ends_at": 1794857400,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-16/eri-gui"
-  },
-  {
     "name": "Gibraltar vs Malta",
     "poster": "https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg",
     "tag": "UEFA Nations League",
