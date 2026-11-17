@@ -55,6 +55,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ac09bde009bb726c" tvg-name="LIVE 24/7 — NBA | Phoenix Suns vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Phoenix Suns vs Denver Nuggets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4dd02747c8ca28d3" tvg-name="LIVE 24/7 — NFL (MNF) — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (MNF) — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -111,10 +115,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ac09bde009bb726c" tvg-name="LIVE 2026-11-17 02:00 UTC — NBA | Phoenix Suns vs Denver Nuggets" tvg-logo="https://static.ppvservices.st/assets/thumb/0d923ac6ced301121ff256cfde970595-thumbnail.jpg" group-title="NBA",LIVE 2026-11-17 02:00 UTC — NBA | Phoenix Suns vs Denver Nuggets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 2026-11-17 02:30 UTC — NHL | Vancouver Canucks vs Utah Mammoth" tvg-logo="https://static.ppvservices.st/assets/thumb/b7a225c3d14fb0a3665e2f4913f6a36d-thumbnail.jpg" group-title="NHL",LIVE 2026-11-17 02:30 UTC — NHL | Vancouver Canucks vs Utah Mammoth
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
