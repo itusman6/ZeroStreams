@@ -491,7 +491,7 @@
     "uri": "nba/2026-11-16/por-min",
     "starts_at": 1794877200,
     "ends_at": 1794888000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-16/por-min"
   },
   {
@@ -502,7 +502,7 @@
     "uri": "nba/2026-11-16/gs-no",
     "starts_at": 1794877200,
     "ends_at": 1794888000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-16/gs-no"
   },
   {
