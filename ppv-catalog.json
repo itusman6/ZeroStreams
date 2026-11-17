@@ -1067,6 +1067,17 @@
     "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/usa-hai"
   },
   {
+    "name": "Mexico vs Jamaica",
+    "poster": "https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg",
+    "tag": "Concacaf Nations League",
+    "category": "Football",
+    "uri": "concacaf-nations-league/2026-11-18/mex-jam",
+    "starts_at": 1794969000,
+    "ends_at": 1794978000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/mex-jam"
+  },
+  {
     "name": "Orlando City SC vs FC Cincinnati",
     "poster": "https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg",
     "tag": "MLS",
