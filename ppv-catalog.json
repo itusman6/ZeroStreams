@@ -469,7 +469,7 @@
     "uri": "nba/2026-11-16/phi-bkn",
     "starts_at": 1794875400,
     "ends_at": 1794886200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-16/phi-bkn"
   },
   {
@@ -480,7 +480,7 @@
     "uri": "nba/2026-11-16/hou-mia",
     "starts_at": 1794875400,
     "ends_at": 1794886200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-16/hou-mia"
   },
   {
@@ -1701,7 +1701,7 @@
     "uri": "nhl/2026-11-16/mtl-nyr",
     "starts_at": 1794875400,
     "ends_at": 1794886200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-16/mtl-nyr"
   },
   {
