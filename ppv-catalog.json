@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Los Angeles Chargers vs Baltimore Ravens",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a1da1769d081122cbb2445ac84d0185-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-16/lac-bal",
-    "starts_at": 1794878100,
-    "ends_at": 1794892500,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-16/lac-bal"
-  },
-  {
     "name": "Indianapolis Colts vs Houston Texans",
     "poster": "https://static.ppvservices.st/assets/thumb/de4b08c594743e54e27682bd21a6b0a8-thumbnail.jpg",
     "tag": "NFL",
@@ -770,6 +759,17 @@
     "page": "https://ppv.st/live/cbb/2026-11-18/conn-ariz"
   },
   {
+    "name": "Northern Colorado Bears vs BYU Cougars",
+    "poster": "https://static.ppvservices.st/assets/thumb/bd4e9bb481cd2fbf8566a34c4389ab2a-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-18/unco-byu",
+    "starts_at": 1795053600,
+    "ends_at": 1795064400,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-18/unco-byu"
+  },
+  {
     "name": "Boston Celtics vs Denver Nuggets",
     "poster": "https://static.ppvservices.st/assets/thumb/d6af6ed041490dc447df6b0c7035daa7-thumbnail.jpg",
     "tag": "NBA",
@@ -801,6 +801,17 @@
     "ends_at": 1795068000,
     "status": "upcoming",
     "page": "https://ppv.st/live/nba/2026-11-18/phx-sac"
+  },
+  {
+    "name": "Cal State Fullerton Titans vs UCLA Bruins",
+    "poster": "https://static.ppvservices.st/assets/thumb/d4956a5421bc94b8f2401976afd59053-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-18/csuf-ucla",
+    "starts_at": 1795059000,
+    "ends_at": 1795069800,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/cbb/2026-11-18/csuf-ucla"
   },
   {
     "name": "Willow",
