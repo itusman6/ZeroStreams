@@ -51,22 +51,22 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 tvg-id="zerostreams.206b15196600b526" tvg-name="LIVE 24/7 — Soccer | Chile vs Colombia — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Chile vs Colombia — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.b3e9a620a584677e" tvg-name="LIVE 24/7 — Soccer | Chile vs Colombia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Chile vs Colombia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/concacaf.m3u8
-#EXTINF:-1 tvg-id="zerostreams.054ddf698da6f858" tvg-name="LIVE 24/7 — Soccer | Chile vs Colombia — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Chile vs Colombia — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/peacock.m3u8
+https://admin2.formaturamaxi.com.br/ecu.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b68f7bfa6a1b01f3" tvg-name="LIVE 24/7 — Soccer | Denmark vs Norway" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Denmark vs Norway
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c5623aad0839936b" tvg-name="LIVE 24/7 — Soccer | Ecuador vs Bolivia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Ecuador vs Bolivia
+#EXTINF:-1 tvg-id="zerostreams.2adf729621120818" tvg-name="LIVE 24/7 — Soccer | Ecuador vs Bolivia — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Ecuador vs Bolivia — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/tyc.m3u8
+https://admin.formaturamaxi.com.br/chiles.m3u8
+#EXTINF:-1 tvg-id="zerostreams.feb7ccb0482a0bcb" tvg-name="LIVE 24/7 — Soccer | Ecuador vs Bolivia — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Ecuador vs Bolivia — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/chilees.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="LIVE 24/7 — Soccer | Hungary vs Northern Ireland" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Hungary vs Northern Ireland
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
