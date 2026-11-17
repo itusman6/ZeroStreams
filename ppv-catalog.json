@@ -418,50 +418,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Orlando Magic vs Boston Celtics",
-    "poster": "https://static.ppvservices.st/assets/thumb/294f4125a52b086234bc85b43e7cb3e6-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-16/orl-bos",
-    "starts_at": 1794873600,
-    "ends_at": 1794884400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-16/orl-bos"
-  },
-  {
-    "name": "Chicago Bulls vs Cleveland Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/fed98a7979f77c558178ab532869786a-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-16/chi-cle",
-    "starts_at": 1794873600,
-    "ends_at": 1794884400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-16/chi-cle"
-  },
-  {
-    "name": "Memphis Grizzlies vs Washington Wizards",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a6fdc76598dfefa19a8ed841cdd9668-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-16/mem-wsh",
-    "starts_at": 1794873600,
-    "ends_at": 1794884400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-16/mem-wsh"
-  },
-  {
-    "name": "Grambling Tigers vs Kentucky Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/9f83888883468308f9213621071d8b1c-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-16/gram-uk",
-    "starts_at": 1794873600,
-    "ends_at": 1794884400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-16/gram-uk"
-  },
-  {
     "name": "Philadelphia 76ers vs Brooklyn Nets",
     "poster": "https://static.ppvservices.st/assets/thumb/7e3427c9f7a9de5ba308c994665d4a33-thumbnail.jpg",
     "tag": "NBA",
@@ -524,7 +480,7 @@
     "uri": "cbb/2026-11-16/lbsu-ucla",
     "starts_at": 1794884400,
     "ends_at": 1794895200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-16/lbsu-ucla"
   },
   {
