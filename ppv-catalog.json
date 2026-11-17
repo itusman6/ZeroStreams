@@ -418,28 +418,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Philadelphia 76ers vs Brooklyn Nets",
-    "poster": "https://static.ppvservices.st/assets/thumb/7e3427c9f7a9de5ba308c994665d4a33-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-16/phi-bkn",
-    "starts_at": 1794875400,
-    "ends_at": 1794886200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-16/phi-bkn"
-  },
-  {
-    "name": "Houston Rockets vs Miami Heat",
-    "poster": "https://static.ppvservices.st/assets/thumb/abf837edc8dfd715f0603f09731f25fa-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-16/hou-mia",
-    "starts_at": 1794875400,
-    "ends_at": 1794886200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-16/hou-mia"
-  },
-  {
     "name": "Portland Trail Blazers vs Minnesota Timberwolves",
     "poster": "https://static.ppvservices.st/assets/thumb/dff9bf07d8c014c123b6d61b6d260959-thumbnail.jpg",
     "tag": "NBA",
@@ -1648,17 +1626,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Montreal Canadiens vs New York Rangers",
-    "poster": "https://static.ppvservices.st/assets/thumb/6874154df26d447b677fe8c5ddbc7b57-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-16/mtl-nyr",
-    "starts_at": 1794875400,
-    "ends_at": 1794886200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-16/mtl-nyr"
   },
   {
     "name": "Vancouver Canucks vs Utah Mammoth",
