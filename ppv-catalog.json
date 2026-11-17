@@ -425,7 +425,7 @@
     "uri": "cbb/2026-11-17/nd-fla",
     "starts_at": 1794951000,
     "ends_at": 1794961800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-17/nd-fla"
   },
   {
@@ -900,61 +900,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "Botswana vs Uganda",
-    "poster": "https://static.ppvservices.st/assets/thumb/b931cfe6b306276977c5bf9cec084c59-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-17/bot-uga",
-    "starts_at": 1794942000,
-    "ends_at": 1794951000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/bot-uga"
-  },
-  {
-    "name": "Congo vs Comoros",
-    "poster": "https://static.ppvservices.st/assets/thumb/7e72cb3b7db2776bf3daa53ed1bc6adb-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-17/cgo-com",
-    "starts_at": 1794942000,
-    "ends_at": 1794951000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/cgo-com"
-  },
-  {
-    "name": "Liberia vs Cape Verde",
-    "poster": "https://static.ppvservices.st/assets/thumb/d50cc4b6cc006e52a0a6244bd5042c84-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-17/lbr-cpv",
-    "starts_at": 1794942000,
-    "ends_at": 1794951000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/lbr-cpv"
-  },
-  {
-    "name": "Mauritania vs Burkina Faso",
-    "poster": "https://static.ppvservices.st/assets/thumb/be155a0e73bfe3be85c48f396be82460-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-17/mtn-bka",
-    "starts_at": 1794942000,
-    "ends_at": 1794951000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/mtn-bka"
-  },
-  {
-    "name": "Rwanda vs Mali",
-    "poster": "https://static.ppvservices.st/assets/thumb/2bceacaba35a33345b817c48ed8f800c-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-17/rwa-mli",
-    "starts_at": 1794942000,
-    "ends_at": 1794951000,
-    "status": "live",
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/rwa-mli"
   },
   {
     "name": "Bosnia-Herzegovina vs Romania",
