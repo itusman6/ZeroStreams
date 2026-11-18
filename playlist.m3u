@@ -51,6 +51,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 24/7 — NBA | Utah Jazz vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Utah Jazz vs Los Angeles Clippers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.2481b9dcecf26a08" tvg-name="LIVE 24/7 — NHL | Anaheim Ducks vs St. Louis Blues" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Anaheim Ducks vs St. Louis Blues
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,10 +179,6 @@ https://admin2.formaturamaxi.com.br/bbc.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 2026-11-18 03:30 UTC — NBA | Utah Jazz vs Los Angeles Clippers" tvg-logo="https://static.ppvservices.st/assets/thumb/17e54ae46b98d5b7c6dcc0c3c708d70b-thumbnail.jpg" group-title="NBA",LIVE 2026-11-18 03:30 UTC — NBA | Utah Jazz vs Los Angeles Clippers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="LIVE 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/f09cd32ab001cf37f5d5fdeef580decf-thumbnail.jpg" group-title="NBA",LIVE 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

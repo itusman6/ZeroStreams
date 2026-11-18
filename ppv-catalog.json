@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Utah Jazz vs Los Angeles Clippers",
-    "poster": "https://static.ppvservices.st/assets/thumb/17e54ae46b98d5b7c6dcc0c3c708d70b-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-17/utah-lac",
-    "starts_at": 1794972600,
-    "ends_at": 1794983400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-17/utah-lac"
-  },
-  {
     "name": "Charlotte Hornets vs Los Angeles Lakers",
     "poster": "https://static.ppvservices.st/assets/thumb/f09cd32ab001cf37f5d5fdeef580decf-thumbnail.jpg",
     "tag": "NBA",
@@ -447,7 +436,7 @@
     "uri": "nbl/2026-11-18/nzl-pnx",
     "starts_at": 1794983400,
     "ends_at": 1794994200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-18/nzl-pnx"
   },
   {
