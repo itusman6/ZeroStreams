@@ -119,14 +119,14 @@ https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f84800903a067c787f5b45231d546b7c-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins
+#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f84800903a067c787f5b45231d546b7c-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44e771e76305c2fd" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/d1fe04d0915a7cf1f7b014c43421cd73-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets
+https://tedesco.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/d1fe04d0915a7cf1f7b014c43421cd73-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl5.m3u8
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="UPCOMING 2026-11-18 00:30 UTC — NBA | New York Knicks vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-18 00:30 UTC — NBA | New York Knicks vs Toronto Raptors
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
