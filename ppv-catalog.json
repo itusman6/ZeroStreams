@@ -407,39 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "New York Knicks vs Toronto Raptors",
-    "poster": "https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-17/ny-tor",
-    "starts_at": 1794961800,
-    "ends_at": 1794972600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-17/ny-tor"
-  },
-  {
-    "name": "Kennesaw State Owls vs Alabama Crimson Tide",
-    "poster": "https://static.ppvservices.st/assets/thumb/a2b54c7b120e4d7fbff9c833cbc89ee5-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/kenn-ala",
-    "starts_at": 1794961800,
-    "ends_at": 1794972600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-17/kenn-ala"
-  },
-  {
-    "name": "Arkansas Razorbacks vs Indiana Hoosiers",
-    "poster": "https://static.ppvservices.st/assets/thumb/ac1e6d55e2dfea2e3fe872fe0fa9b658-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/ark-iu",
-    "starts_at": 1794961800,
-    "ends_at": 1794972600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-17/ark-iu"
-  },
-  {
     "name": "Portland Trail Blazers vs Minnesota Timberwolves",
     "poster": "https://static.ppvservices.st/assets/thumb/dff9bf07d8c014c123b6d61b6d260959-thumbnail.jpg",
     "tag": "NBA",
@@ -513,7 +480,7 @@
     "uri": "nba/2026-11-17/utah-lac",
     "starts_at": 1794972600,
     "ends_at": 1794983400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-17/utah-lac"
   },
   {
@@ -1747,28 +1714,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Washington Capitals vs Tampa Bay Lightning",
-    "poster": "https://static.ppvservices.st/assets/thumb/82ab630b3d3966777560b0534a2fb241-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/wsh-tb",
-    "starts_at": 1794961800,
-    "ends_at": 1794972600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-17/wsh-tb"
-  },
-  {
-    "name": "Toronto Maple Leafs vs Chicago Blackhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/0accb1b09f3cbbf96f58f89c35d672f3-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/tor-chi",
-    "starts_at": 1794961800,
-    "ends_at": 1794972600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-17/tor-chi"
   },
   {
     "name": "Anaheim Ducks vs St. Louis Blues",
