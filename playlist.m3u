@@ -7,10 +7,10 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="LIVE 24/7 — Live | Ball State vs Ohio" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Ball State vs Ohio
+#EXTINF:-1 tvg-id="zerostreams.99dfcd9531f8666b" tvg-name="LIVE 24/7 — Live | Ball State vs Ohio" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Ball State vs Ohio
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa2.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3418396e91fb6b60" tvg-name="LIVE 24/7 — Live | Eastern Michigan vs Western Michigan" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Eastern Michigan vs Western Michigan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -23,10 +23,10 @@ https://admin2.formaturamaxi.com.br/darts.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/darts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/plus.m3u8
-#EXTINF:-1 tvg-id="zerostreams.39d54a4d57cb7be8" tvg-name="LIVE 24/7 — Live | Miami (OH) vs Kent State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Miami (OH) vs Kent State
+#EXTINF:-1 tvg-id="zerostreams.0f1bf8736a9840c4" tvg-name="LIVE 24/7 — Live | Miami (OH) vs Kent State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Miami (OH) vs Kent State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa3.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="LIVE 24/7 — Live | Teremoana vs Ahio" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Teremoana vs Ahio
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -107,23 +107,23 @@ https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bbc.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="UPCOMING 2026-11-18 00:00 UTC — NHL | Buffalo Sabres vs Philadelphia Flyers" tvg-logo="https://static.ppvservices.st/assets/thumb/61d435d66453610eaef61d49537b8281-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 00:00 UTC — NHL | Buffalo Sabres vs Philadelphia Flyers
+#EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Buffalo Sabres vs Philadelphia Flyers" tvg-logo="https://static.ppvservices.st/assets/thumb/61d435d66453610eaef61d49537b8281-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Buffalo Sabres vs Philadelphia Flyers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="UPCOMING 2026-11-18 00:00 UTC — NHL | Columbus Blue Jackets vs New York Islanders" tvg-logo="https://static.ppvservices.st/assets/thumb/09e5290a4efff5d8f5803571f25fae63-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 00:00 UTC — NHL | Columbus Blue Jackets vs New York Islanders
+#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Columbus Blue Jackets vs New York Islanders" tvg-logo="https://static.ppvservices.st/assets/thumb/09e5290a4efff5d8f5803571f25fae63-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Columbus Blue Jackets vs New York Islanders
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="UPCOMING 2026-11-18 00:00 UTC — NHL | Edmonton Oilers vs Florida Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/02564ecc0ca2cce93841ef1c6bec265f-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 00:00 UTC — NHL | Edmonton Oilers vs Florida Panthers
+#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Edmonton Oilers vs Florida Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/02564ecc0ca2cce93841ef1c6bec265f-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Edmonton Oilers vs Florida Panthers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="UPCOMING 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f84800903a067c787f5b45231d546b7c-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins
+#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f84800903a067c787f5b45231d546b7c-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Los Angeles Kings vs Boston Bruins
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44e771e76305c2fd" tvg-name="UPCOMING 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/d1fe04d0915a7cf1f7b014c43421cd73-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets
+#EXTINF:-1 tvg-id="zerostreams.44e771e76305c2fd" tvg-name="LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/d1fe04d0915a7cf1f7b014c43421cd73-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 00:00 UTC — NHL | Ottawa Senators vs Winnipeg Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl5.m3u8
@@ -159,6 +159,10 @@ https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d0502e525e8137ca" tvg-name="UPCOMING 2026-11-18 02:30 UTC — Soccer | Mexico vs Jamaica" tvg-logo="https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-18 02:30 UTC — Soccer | Mexico vs Jamaica
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.913b890d0067abba" tvg-name="UPCOMING 2026-11-18 03:00 UTC — NHL | Calgary Flames vs San Jose Sharks" tvg-logo="https://static.ppvservices.st/assets/thumb/9538925e41913b7a446e7533fa4723bf-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-18 03:00 UTC — NHL | Calgary Flames vs San Jose Sharks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
