@@ -7,11 +7,7 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8ded7466a0193908" tvg-name="LIVE 24/7 — Live | AEW — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | AEW — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="LIVE 24/7 — Live | AEW — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | AEW — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="LIVE 24/7 — Live | AEW" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | AEW
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aew.m3u8
@@ -59,14 +55,14 @@ https://admin2.formaturamaxi.com.br/fsp.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="LIVE 24/7 — Soccer | Cruzeiro vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Cruzeiro vs Palmeiras
+#EXTINF:-1 tvg-id="zerostreams.37de930a47e8e34c" tvg-name="LIVE 24/7 — Soccer | Cruzeiro vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Cruzeiro vs Palmeiras
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.75970eb1a4b3c4ee" tvg-name="LIVE 24/7 — Soccer | Flamengo vs Athletico-PR" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Flamengo vs Athletico-PR
+https://admin.formaturamaxi.com.br/fana4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.24741b98ef1dbcae" tvg-name="LIVE 24/7 — Soccer | Flamengo vs Athletico-PR" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Flamengo vs Athletico-PR
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+https://admin2.formaturamaxi.com.br/fana3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="LIVE 24/7 — Soccer | Grêmio vs Bahia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Grêmio vs Bahia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
