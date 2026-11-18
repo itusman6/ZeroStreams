@@ -524,7 +524,7 @@
     "uri": "cbb/2026-11-17/unlv-ku",
     "starts_at": 1794969000,
     "ends_at": 1794979800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-17/unlv-ku"
   },
   {
@@ -869,17 +869,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "United States vs Haiti",
-    "poster": "https://static.ppvservices.st/assets/thumb/c61546b6b13edb3b48a1b098291c615f-thumbnail.jpg",
-    "tag": "Concacaf Nations League",
-    "category": "Football",
-    "uri": "concacaf-nations-league/2026-11-18/usa-hai",
-    "starts_at": 1794960000,
-    "ends_at": 1794969000,
-    "status": "live",
-    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/usa-hai"
-  },
-  {
     "name": "Mexico vs Jamaica",
     "poster": "https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg",
     "tag": "Concacaf Nations League",
@@ -887,7 +876,7 @@
     "uri": "concacaf-nations-league/2026-11-18/mex-jam",
     "starts_at": 1794969000,
     "ends_at": 1794978000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/mex-jam"
   },
   {
