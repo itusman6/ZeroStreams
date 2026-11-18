@@ -407,39 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Portland Trail Blazers vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/dff9bf07d8c014c123b6d61b6d260959-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-17/por-min",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-17/por-min"
-  },
-  {
-    "name": "Detroit Pistons vs San Antonio Spurs",
-    "poster": "https://static.ppvservices.st/assets/thumb/f4aa3089d67dbf37da9da4d381e3599a-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-17/det-sa",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-17/det-sa"
-  },
-  {
-    "name": "Eastern Illinois Panthers vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/8e0a85fb9f46b173f0c39c802f9c89db-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/eiu-van",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-17/eiu-van"
-  },
-  {
     "name": "Michigan State Spartans vs Tennessee Volunteers",
     "poster": "https://static.ppvservices.st/assets/thumb/15fe11832427a9772c57cc2601d7057e-thumbnail.jpg",
     "tag": "College Basketball",
@@ -491,7 +458,7 @@
     "uri": "nba/2026-11-17/cha-lal",
     "starts_at": 1794974400,
     "ends_at": 1794985200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-17/cha-lal"
   },
   {
@@ -502,7 +469,7 @@
     "uri": "cbb/2026-11-17/mtst-gonz",
     "starts_at": 1794974400,
     "ends_at": 1794985200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-17/mtst-gonz"
   },
   {
@@ -1716,28 +1683,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Anaheim Ducks vs St. Louis Blues",
-    "poster": "https://static.ppvservices.st/assets/thumb/b9f1624dc1a8fad82d3b6a146025c2d7-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/ana-stl",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-17/ana-stl"
-  },
-  {
-    "name": "Nashville Predators vs Minnesota Wild",
-    "poster": "https://static.ppvservices.st/assets/thumb/c3228154cf6fd63f64d83b8335ebe83f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/nsh-min",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-17/nsh-min"
-  },
-  {
     "name": "Dallas Stars vs Vegas Golden Knights",
     "poster": "https://static.ppvservices.st/assets/thumb/2179bc25743e96ebf9c6725cb62f2149-thumbnail.jpg",
     "tag": "NHL",
@@ -1846,17 +1791,6 @@
     "ends_at": 1794801600,
     "status": "live",
     "page": "https://ppv.st/live/sky-sports-tennis-32479"
-  },
-  {
-    "name": "WWE NXT",
-    "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-17",
-    "starts_at": 1794963600,
-    "ends_at": 1794974400,
-    "status": "live",
-    "page": "https://ppv.st/live/wwe/2026-11-17"
   },
   {
     "name": "AEW Wednesday Night Dynamite",

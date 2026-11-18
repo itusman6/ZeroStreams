@@ -47,6 +47,14 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8b1b5ee668f970bc" tvg-name="LIVE 24/7 — NBA | Portland Trail Blazers vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Portland Trail Blazers vs Minnesota Timberwolves
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2481b9dcecf26a08" tvg-name="LIVE 24/7 — NHL | Anaheim Ducks vs St. Louis Blues" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Anaheim Ducks vs St. Louis Blues
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="LIVE 24/7 — NHL | Buffalo Sabres vs Philadelphia Flyers" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Buffalo Sabres vs Philadelphia Flyers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,6 +71,10 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e6fd4d5acd17ca19" tvg-name="LIVE 24/7 — NHL | Nashville Predators vs Minnesota Wild" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Nashville Predators vs Minnesota Wild
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 24/7 — NHL | Ottawa Senators vs Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Ottawa Senators vs Winnipeg Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -147,19 +159,7 @@ https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bbc.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b1b5ee668f970bc" tvg-name="LIVE 2026-11-18 01:00 UTC — NBA | Portland Trail Blazers vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/dff9bf07d8c014c123b6d61b6d260959-thumbnail.jpg" group-title="NBA",LIVE 2026-11-18 01:00 UTC — NBA | Portland Trail Blazers vs Minnesota Timberwolves
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2481b9dcecf26a08" tvg-name="LIVE 2026-11-18 01:00 UTC — NHL | Anaheim Ducks vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/b9f1624dc1a8fad82d3b6a146025c2d7-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 01:00 UTC — NHL | Anaheim Ducks vs St. Louis Blues
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e6fd4d5acd17ca19" tvg-name="LIVE 2026-11-18 01:00 UTC — NHL | Nashville Predators vs Minnesota Wild" tvg-logo="https://static.ppvservices.st/assets/thumb/c3228154cf6fd63f64d83b8335ebe83f-thumbnail.jpg" group-title="NHL",LIVE 2026-11-18 01:00 UTC — NHL | Nashville Predators vs Minnesota Wild
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="LIVE 2026-11-18 01:00 UTC — WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE",LIVE 2026-11-18 01:00 UTC — WWE NXT
+#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="LIVE 24/7 — WWE NXT" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",LIVE 24/7 — WWE NXT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
@@ -179,7 +179,7 @@ https://admin2.formaturamaxi.com.br/nhl11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="UPCOMING 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/f09cd32ab001cf37f5d5fdeef580decf-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers
+#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="LIVE 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/f09cd32ab001cf37f5d5fdeef580decf-thumbnail.jpg" group-title="NBA",LIVE 2026-11-18 04:00 UTC — NBA | Charlotte Hornets vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba3.m3u8
