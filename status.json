@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19T20:16:56.062958+00:00",
+  "updated_utc": "2026-11-19T20:31:29.095942+00:00",
   "pages": 27,
   "candidate_urls": 24,
   "live_urls": 0,
@@ -13,11 +13,28 @@
   "unsupported_pages": [],
   "errors": [],
   "ppv": {
-    "status": "embed-only",
+    "status": "partial",
     "active_events": 182,
     "direct_candidates": 0,
-    "embed_only_events": 182,
-    "errors": []
+    "embed_only_events": 178,
+    "errors": [
+      {
+        "uri": "nba/2026-11-20/ind-cle",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "uri": "nba/2026-11-20/tor-det",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "uri": "nba/2026-11-20/wsh-chi",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "uri": "nba/2026-11-20/no-okc",
+        "error": "HTTP Error 500: Internal Server Error"
+      }
+    ]
   },
   "event_groups": 19,
   "event_posters": 6,
