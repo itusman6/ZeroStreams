@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Boston Celtics vs Denver Nuggets",
-    "poster": "https://static.ppvservices.st/assets/thumb/d6af6ed041490dc447df6b0c7035daa7-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-18/bos-den",
-    "starts_at": 1795055400,
-    "ends_at": 1795066200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-18/bos-den"
-  },
-  {
     "name": "Utah Jazz vs Los Angeles Lakers",
     "poster": "https://static.ppvservices.st/assets/thumb/42d6fa9068ad6f6a1d6f095df7a12d89-thumbnail.jpg",
     "tag": "NBA",
