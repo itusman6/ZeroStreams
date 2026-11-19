@@ -39,11 +39,11 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa233622a57ef2af" tvg-name="LIVE 24/7 — Shared Channels | NBA3 — Shared Feed — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA3 — Shared Feed — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.17e5e7ffe3f96966" tvg-name="LIVE 24/7 — NBA | Milwaukee Bucks vs Vice City (Special)" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Milwaukee Bucks vs Vice City (Special)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 24/7 — Shared Channels | NBA3 — Shared Feed — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA3 — Shared Feed — Feed 2
+https://admin.formaturamaxi.com.br/bucks.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 24/7 — Shared Channels | NBA3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA3 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba3.m3u8
@@ -71,19 +71,23 @@ https://admin2.formaturamaxi.com.br/fs2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b1b5ee668f970bc" tvg-name="UPCOMING 2026-11-19 00:00 UTC — NBA | Houston Rockets vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/25088ce819fae63fff237b23f43016f3-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:00 UTC — NBA | Houston Rockets vs Indiana Pacers
+#EXTINF:-1 tvg-id="zerostreams.8b1b5ee668f970bc" tvg-name="LIVE 2026-11-19 00:00 UTC — NBA | Houston Rockets vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/25088ce819fae63fff237b23f43016f3-thumbnail.jpg" group-title="NBA",LIVE 2026-11-19 00:00 UTC — NBA | Houston Rockets vs Indiana Pacers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="UPCOMING 2026-11-19 00:00 UTC — NBA | Memphis Grizzlies vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/649871117b13a745ef52682f2d95db60-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:00 UTC — NBA | Memphis Grizzlies vs Cleveland Cavaliers
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-19 00:00 UTC — NBA | Memphis Grizzlies vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/649871117b13a745ef52682f2d95db60-thumbnail.jpg" group-title="NBA",LIVE 2026-11-19 00:00 UTC — NBA | Memphis Grizzlies vs Cleveland Cavaliers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="UPCOMING 2026-11-19 00:00 UTC — NBA | Philadelphia 76ers vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/9db80d04d16595801a6ebc250728faa5-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:00 UTC — NBA | Philadelphia 76ers vs Orlando Magic
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 2026-11-19 00:00 UTC — NBA | Philadelphia 76ers vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/9db80d04d16595801a6ebc250728faa5-thumbnail.jpg" group-title="NBA",LIVE 2026-11-19 00:00 UTC — NBA | Philadelphia 76ers vs Orlando Magic
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets" tvg-logo="https://static.ppvservices.st/assets/thumb/4dae12eac92b494cfc5accf6caadae17-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets
+#EXTINF:-1 tvg-id="zerostreams.fa233622a57ef2af" tvg-name="UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/4dae12eac92b494cfc5accf6caadae17-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/4dae12eac92b494cfc5accf6caadae17-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-19 00:30 UTC — NBA | Chicago Bulls vs Brooklyn Nets — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba3.m3u8
