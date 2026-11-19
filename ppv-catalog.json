@@ -407,17 +407,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Houston Cougars vs Florida Gators",
-    "poster": "https://static.ppvservices.st/assets/thumb/cb0c2785724655999b7c506abc265c33-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-18/hou-fla",
-    "starts_at": 1795037400,
-    "ends_at": 1795048200,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-18/hou-fla"
-  },
-  {
     "name": "Memphis Grizzlies vs Cleveland Cavaliers",
     "poster": "https://static.ppvservices.st/assets/thumb/649871117b13a745ef52682f2d95db60-thumbnail.jpg",
     "tag": "NBA",
@@ -480,7 +469,7 @@
     "uri": "nba/2026-11-18/chi-bkn",
     "starts_at": 1795048200,
     "ends_at": 1795059000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-18/chi-bkn"
   },
   {
@@ -491,7 +480,7 @@
     "uri": "nba/2026-11-18/wsh-tor",
     "starts_at": 1795048200,
     "ends_at": 1795059000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-18/wsh-tor"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "cbb/2026-11-18/nola-ttu",
     "starts_at": 1795048200,
     "ends_at": 1795059000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-18/nola-ttu"
   },
   {
@@ -1690,7 +1679,7 @@
     "uri": "nhl/2026-11-18/bos-det",
     "starts_at": 1795048200,
     "ends_at": 1795059000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-18/bos-det"
   },
   {
@@ -1701,7 +1690,7 @@
     "uri": "nhl/2026-11-18/mtl-nj",
     "starts_at": 1795048200,
     "ends_at": 1795059000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-18/mtl-nj"
   },
   {
