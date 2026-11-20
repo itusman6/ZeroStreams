@@ -693,17 +693,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Grand Slam of Darts | Day 6",
-    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-    "tag": "PDC Darts",
-    "category": "Darts",
-    "uri": "grand-slam-of-darts--day-6-32256",
-    "starts_at": 1795114800,
-    "ends_at": 1795132800,
-    "status": "live",
-    "page": "https://ppv.st/live/grand-slam-of-darts--day-6-32256"
-  },
-  {
     "name": "Grand Slam of Darts | Day 7",
     "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
     "tag": "PDC Darts",
@@ -1646,7 +1635,7 @@
     "uri": "nhl/2026-11-19/la-tor",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/la-tor"
   },
   {
@@ -1657,7 +1646,7 @@
     "uri": "nhl/2026-11-19/phi-ott",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/phi-ott"
   },
   {
@@ -1668,7 +1657,7 @@
     "uri": "nhl/2026-11-19/stl-pit",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/stl-pit"
   },
   {
@@ -1679,7 +1668,7 @@
     "uri": "nhl/2026-11-19/buf-wsh",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/buf-wsh"
   },
   {
@@ -1690,7 +1679,7 @@
     "uri": "nhl/2026-11-19/mtl-car",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/mtl-car"
   },
   {
@@ -1701,7 +1690,7 @@
     "uri": "nhl/2026-11-19/nyi-wpg",
     "starts_at": 1795132800,
     "ends_at": 1795143600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/nyi-wpg"
   },
   {
