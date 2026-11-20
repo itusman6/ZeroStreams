@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20T05:02:10.040835+00:00",
+  "updated_utc": "2026-11-20T05:16:28.408211+00:00",
   "pages": 33,
   "candidate_urls": 32,
   "live_urls": 0,
@@ -13,88 +13,11 @@
   "unsupported_pages": [],
   "errors": [],
   "ppv": {
-    "status": "partial",
-    "active_events": 174,
+    "status": "embed-only",
+    "active_events": 173,
     "direct_candidates": 0,
-    "embed_only_events": 155,
-    "errors": [
-      {
-        "uri": "nfl/2026-11-22/jax-nyg",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nfl/2026-11-22/min-sf",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nfl/2026-11-23/cin-wsh",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "247-fox-footy",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-19/tar-usc",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-19/hou-ku",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nbl/2026-11-20/cns-per",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/man-mia",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/cha-atl",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/lmd-uva",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/ccu-tenn",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/orl-bkn",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/ind-cle",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/tor-det",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/wsh-chi",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "nba/2026-11-20/no-okc",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/ucf-van",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/mvsu-ark",
-        "error": "HTTP Error 500: Internal Server Error"
-      },
-      {
-        "uri": "cbb/2026-11-20/eiu-ill",
-        "error": "HTTP Error 500: Internal Server Error"
-      }
-    ]
+    "embed_only_events": 173,
+    "errors": []
   },
   "event_groups": 26,
   "event_posters": 2,

@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Indianapolis Colts vs Houston Texans",
-    "poster": "https://static.ppvservices.st/assets/thumb/de4b08c594743e54e27682bd21a6b0a8-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-19/ind-hou",
-    "starts_at": 1795137300,
-    "ends_at": 1795151700,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-19/ind-hou"
-  },
-  {
     "name": "Oregon Ducks vs Michigan State Spartans",
     "poster": "https://static.ppvservices.st/assets/thumb/fddd38cedb856e2d952ae63ea4502fd9-thumbnail.jpg",
     "tag": "College Football",
