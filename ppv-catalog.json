@@ -755,7 +755,7 @@
     "uri": "mls/2026-11-19/sea-rsl",
     "starts_at": 1795143600,
     "ends_at": 1795154400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-19/sea-rsl"
   },
   {
@@ -1628,72 +1628,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Los Angeles Kings vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/15edf3d9473003cee87c3ba77cae1061-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/la-tor",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/la-tor"
-  },
-  {
-    "name": "Philadelphia Flyers vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/42794cdcca63551913131d182f0dc351-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/phi-ott",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/phi-ott"
-  },
-  {
-    "name": "St. Louis Blues vs Pittsburgh Penguins",
-    "poster": "https://static.ppvservices.st/assets/thumb/ba927417fd4bb5f00c2e6c65312715e0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/stl-pit",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/stl-pit"
-  },
-  {
-    "name": "Buffalo Sabres vs Washington Capitals",
-    "poster": "https://static.ppvservices.st/assets/thumb/2516f76cff8fd5a0162f075a851c68cc-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/buf-wsh",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/buf-wsh"
-  },
-  {
-    "name": "Montreal Canadiens vs Carolina Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/mtl-car",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/mtl-car"
-  },
-  {
-    "name": "New York Islanders vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec123a6616c97199766818baaa86f699-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/nyi-wpg",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/nyi-wpg"
-  },
-  {
     "name": "Edmonton Oilers vs Tampa Bay Lightning",
     "poster": "https://static.ppvservices.st/assets/thumb/4923909f8e61015ae48608f2c0892728-thumbnail.jpg",
     "tag": "NHL",
@@ -1756,7 +1690,7 @@
     "uri": "nhl/2026-11-19/dal-vgk",
     "starts_at": 1795143600,
     "ends_at": 1795154400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/dal-vgk"
   },
   {
