@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-11-20T08:31:20.190038+00:00",
-  "pages": 49,
-  "candidate_urls": 46,
+  "updated_utc": "2026-11-20T08:46:55.441368+00:00",
+  "pages": 48,
+  "candidate_urls": 40,
   "live_urls": 0,
-  "published_urls": 46,
+  "published_urls": 40,
   "verified_urls": 0,
-  "not_checked_urls": 46,
+  "not_checked_urls": 40,
   "validation_mode": "discovery_only",
   "unavailable_urls": 0,
-  "live_entries": 36,
+  "live_entries": 30,
   "upcoming_entries": 10,
   "unsupported_pages": [],
   "errors": [],
@@ -19,13 +19,13 @@
     "embed_only_events": 167,
     "errors": []
   },
-  "event_groups": 42,
+  "event_groups": 39,
   "event_posters": 10,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
       "base": "https://roxiestreams.info/",
-      "pages": 49,
+      "pages": 48,
       "errors": []
     }
   ]
