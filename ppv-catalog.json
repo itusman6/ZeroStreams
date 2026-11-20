@@ -737,17 +737,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Orlando City SC vs FC Cincinnati",
-    "poster": "https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-19/orl-cin",
-    "starts_at": 1795134600,
-    "ends_at": 1795145400,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-19/orl-cin"
-  },
-  {
     "name": "Seattle Sounders FC vs Real Salt Lake",
     "poster": "https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg",
     "tag": "MLS",
@@ -1626,17 +1615,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Edmonton Oilers vs Tampa Bay Lightning",
-    "poster": "https://static.ppvservices.st/assets/thumb/4923909f8e61015ae48608f2c0892728-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/edm-tb",
-    "starts_at": 1795134600,
-    "ends_at": 1795145400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-19/edm-tb"
   },
   {
     "name": "Columbus Blue Jackets vs Chicago Blackhawks",
