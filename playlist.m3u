@@ -67,10 +67,14 @@ https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes" tvg-logo="https://static.ppvservices.st/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes
+#EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8f8ae5f8ecb38f49" tvg-name="LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 00:00 UTC — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tsn2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.237af14bac8c21ad" tvg-name="LIVE 2026-11-20 00:00 UTC — NHL | New York Islanders vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/ec123a6616c97199766818baaa86f699-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 00:00 UTC — NHL | New York Islanders vs Winnipeg Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
