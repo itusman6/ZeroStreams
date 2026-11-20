@@ -7,18 +7,18 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.99dfcd9531f8666b" tvg-name="LIVE 24/7 — Live | Clemson vs Duke" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Clemson vs Duke
+#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="LIVE 24/7 — Live | Clemson vs Duke" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Clemson vs Duke
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+https://admin.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="LIVE 24/7 — Live | Iowa State vs UCF" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Iowa State vs UCF
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a73f9e6d625c7b64" tvg-name="LIVE 24/7 — Live | Oregon vs Michigan State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Oregon vs Michigan State
+#EXTINF:-1 tvg-id="zerostreams.90d86dbed51a354a" tvg-name="LIVE 24/7 — Live | Oregon vs Michigan State" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | Oregon vs Michigan State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa4.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="LIVE 24/7 — Live | UTEP vs Air Force" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | UTEP vs Air Force
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -163,10 +163,6 @@ https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f711b92fe87a4639" tvg-name="UPCOMING 2026-11-21 03:00 UTC — NBA | Sacramento Kings vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/ea6e42da9129d9d58a3463636ee37bb8-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-21 03:00 UTC — NBA | Sacramento Kings vs Los Angeles Lakers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="UPCOMING 2026-11-21 03:00 UTC — Soccer | Tijuana vs Atlante" tvg-logo="https://static.ppvservices.st/assets/thumb/037893918272d889da9fde0711034bba-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-21 03:00 UTC — Soccer | Tijuana vs Atlante
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
