@@ -15,6 +15,22 @@ https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — NBA | Golden State Warriors vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Golden State Warriors vs Memphis Grizzlies
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 24/7 — NBA | Los Angeles Clippers vs San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Los Angeles Clippers vs San Antonio Spurs
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 24/7 — NBA | New York Knicks vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | New York Knicks vs Minnesota Timberwolves
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 24/7 — NBA | Portland Trail Blazers vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Portland Trail Blazers vs Milwaukee Bucks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="LIVE 24/7 — NFL (TNF) — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL (TNF) — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -31,6 +47,10 @@ https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2481b9dcecf26a08" tvg-name="LIVE 24/7 — NHL | Columbus Blue Jackets vs Chicago Blackhawks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Columbus Blue Jackets vs Chicago Blackhawks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6732e4e4f78bdc60" tvg-name="LIVE 24/7 — NHL | Edmonton Oilers vs Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Edmonton Oilers vs Tampa Bay Lightning
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -39,6 +59,10 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.013d747a4b788de1" tvg-name="LIVE 24/7 — NHL | Minnesota Wild vs Calgary Flames" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Minnesota Wild vs Calgary Flames
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.97eda52b68c88b06" tvg-name="LIVE 24/7 — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Montreal Canadiens vs Carolina Hurricanes — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -91,30 +115,6 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fanatiz.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-20 01:00 UTC — NBA | Golden State Warriors vs Memphis Grizzlies" tvg-logo="https://static.ppvservices.st/assets/thumb/bafa03ed95e4c63a924c9130d8f682c4-thumbnail.jpg" group-title="NBA",LIVE 2026-11-20 01:00 UTC — NBA | Golden State Warriors vs Memphis Grizzlies
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 2026-11-20 01:00 UTC — NBA | Los Angeles Clippers vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/6156689b3f51a358c8621a684bc2efe7-thumbnail.jpg" group-title="NBA",LIVE 2026-11-20 01:00 UTC — NBA | Los Angeles Clippers vs San Antonio Spurs
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-20 01:00 UTC — NBA | New York Knicks vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/5e2a57bc8e40203ce33c8b9c915b57dd-thumbnail.jpg" group-title="NBA",LIVE 2026-11-20 01:00 UTC — NBA | New York Knicks vs Minnesota Timberwolves
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="LIVE 2026-11-20 01:00 UTC — NBA | Portland Trail Blazers vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/11708e39c068beb83d9dd9d90162bdec-thumbnail.jpg" group-title="NBA",LIVE 2026-11-20 01:00 UTC — NBA | Portland Trail Blazers vs Milwaukee Bucks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2481b9dcecf26a08" tvg-name="LIVE 2026-11-20 01:00 UTC — NHL | Columbus Blue Jackets vs Chicago Blackhawks" tvg-logo="https://static.ppvservices.st/assets/thumb/19b854588531633a98050c8f8c1723d6-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 01:00 UTC — NHL | Columbus Blue Jackets vs Chicago Blackhawks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.013d747a4b788de1" tvg-name="LIVE 2026-11-20 01:00 UTC — NHL | Minnesota Wild vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/1b8da8a2cd6a13c0e19dfdd9456c2490-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 01:00 UTC — NHL | Minnesota Wild vs Calgary Flames
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ff21de8976955817" tvg-name="LIVE 2026-11-20 02:00 UTC — NHL | Anaheim Ducks vs Colorado Avalanche" tvg-logo="https://static.ppvservices.st/assets/thumb/77ee7d87bd8f8975b51ca15243ab997b-thumbnail.jpg" group-title="NHL",LIVE 2026-11-20 02:00 UTC — NHL | Anaheim Ducks vs Colorado Avalanche
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
