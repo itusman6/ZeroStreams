@@ -1734,7 +1734,7 @@
     "uri": "nhl/2026-11-19/ana-col",
     "starts_at": 1795140000,
     "ends_at": 1795150800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-19/ana-col"
   },
   {
@@ -1855,7 +1855,7 @@
     "uri": "tna/2026-11-19",
     "starts_at": 1795140000,
     "ends_at": 1795150800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/tna/2026-11-19"
   },
   {
