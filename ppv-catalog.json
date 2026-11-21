@@ -62,7 +62,7 @@
     "uri": "cfb/2026-11-21/hou-wvu",
     "starts_at": 1795284000,
     "ends_at": 1795298400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/hou-wvu"
   },
   {
@@ -403,7 +403,7 @@
     "uri": "nba/2026-11-21/mil-phi",
     "starts_at": 1795284000,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-21/mil-phi"
   },
   {
@@ -414,7 +414,7 @@
     "uri": "cbb/2026-11-21/quc-lsu",
     "starts_at": 1795284000,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-21/quc-lsu"
   },
   {
@@ -669,17 +669,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "NEC Nijmegen vs PSV Eindhoven",
-    "poster": "https://static.ppvservices.st/assets/thumb/2d57901941378c054922ada852642f62-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-21/nec-psv",
-    "starts_at": 1795275000,
-    "ends_at": 1795284000,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-21/nec-psv"
   },
   {
     "name": "Nice vs Paris Saint-Germain",
@@ -1294,7 +1283,7 @@
     "uri": "nhl/2026-11-21/edm-car",
     "starts_at": 1795284000,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/edm-car"
   },
   {

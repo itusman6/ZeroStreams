@@ -71,6 +71,10 @@ https://admin2.formaturamaxi.com.br/ncaa7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="LIVE 24/7 — Shared Channels | BEIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | BEIN — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="zerostreams.781e469dbe1c2977" tvg-name="LIVE 24/7 — Shared Channels | MLS — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MLS — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -107,14 +111,10 @@ https://admin2.formaturamaxi.com.br/crystal.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="LIVE 24/7 — Soccer | Galatasaray vs Samsunspor — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Galatasaray vs Samsunspor — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="LIVE 24/7 — Soccer | Galatasaray vs Samsunspor" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Galatasaray vs Samsunspor
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="LIVE 24/7 — Soccer | Galatasaray vs Samsunspor — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Galatasaray vs Samsunspor — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="zerostreams.59351253628dcc56" tvg-name="LIVE 24/7 — Soccer | Gillingham vs Crewe Alexandra" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Gillingham vs Crewe Alexandra
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -139,22 +139,14 @@ https://tedesco.formaturamaxi.com.br/beinhk.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.37b22bafd940b40b" tvg-name="LIVE 24/7 — Soccer | Monaco vs Auxerre — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Monaco vs Auxerre — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/concacaf1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.054ddf698da6f858" tvg-name="LIVE 24/7 — Soccer | Monaco vs Auxerre — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Monaco vs Auxerre — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Soccer | Newcastle vs Arsenal" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Newcastle vs Arsenal
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b3e9a620a584677e" tvg-name="LIVE 24/7 — Soccer | Palmeiras vs Flamengo" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Palmeiras vs Flamengo
+#EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="LIVE 24/7 — Soccer | Palmeiras vs Flamengo" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Palmeiras vs Flamengo
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ecu.m3u8
+https://admin.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6388d6bc2e845f8e" tvg-name="LIVE 24/7 — Soccer | Santos Laguna vs León" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Santos Laguna vs León
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -179,14 +171,14 @@ https://temp.formaturamaxi.com.br/sn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="UPCOMING 2026-11-21 18:00 UTC — NBA | Milwaukee Bucks vs Philadelphia 76ers" tvg-logo="https://static.ppvservices.st/assets/thumb/cba419aba970197aa46d22675db14bd7-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-21 18:00 UTC — NBA | Milwaukee Bucks vs Philadelphia 76ers
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-21 18:00 UTC — NBA | Milwaukee Bucks vs Philadelphia 76ers" tvg-logo="https://static.ppvservices.st/assets/thumb/cba419aba970197aa46d22675db14bd7-thumbnail.jpg" group-title="NBA",LIVE 2026-11-21 18:00 UTC — NBA | Milwaukee Bucks vs Philadelphia 76ers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="UPCOMING 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes" tvg-logo="https://static.ppvservices.st/assets/thumb/2fcd33cb7dd8f7f641cb9e925663478f-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes
+#EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes" tvg-logo="https://static.ppvservices.st/assets/thumb/2fcd33cb7dd8f7f641cb9e925663478f-thumbnail.jpg" group-title="NHL",LIVE 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
+https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.abdf12aaa2206551" tvg-name="UPCOMING 2026-11-21 19:45 UTC — Soccer | Lens vs Toulouse" tvg-logo="https://static.ppvservices.st/assets/thumb/6a80a39055dcfa3638b1e70368678197-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-21 19:45 UTC — Soccer | Lens vs Toulouse
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
