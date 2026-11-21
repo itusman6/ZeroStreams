@@ -671,116 +671,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "AFC Bournemouth vs Nottingham Forest",
-    "poster": "https://static.ppvservices.st/assets/thumb/d1789d893d71224b7e554f107c2ab557-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/bou-nfo",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/bou-nfo"
-  },
-  {
-    "name": "Aston Villa vs Sunderland",
-    "poster": "https://static.ppvservices.st/assets/thumb/8c8c9c27b0932b84b1f1078a3d978df9-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/avl-sun",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/avl-sun"
-  },
-  {
-    "name": "Chelsea vs Leeds United",
-    "poster": "https://static.ppvservices.st/assets/thumb/69e808732fbf6789e296b3a0394b27e3-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/che-lee",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/che-lee"
-  },
-  {
-    "name": "Coventry City vs Crystal Palace",
-    "poster": "https://static.ppvservices.st/assets/thumb/f69ee60df0595dd81682c428602bf8f4-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/cov-cry",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/cov-cry"
-  },
-  {
-    "name": "Tottenham Hotspur vs Ipswich Town",
-    "poster": "https://static.ppvservices.st/assets/thumb/172c174dd26f89927068dfa9f4862485-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/tot-ips",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/tot-ips"
-  },
-  {
-    "name": "Lincoln City vs Wrexham",
-    "poster": "https://static.ppvservices.st/assets/thumb/ef887999a46ba73030dbb133ca8a558d-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/lcn-wxm",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/lcn-wxm"
-  },
-  {
-    "name": "Middlesbrough vs Bristol City",
-    "poster": "https://static.ppvservices.st/assets/thumb/1946e96effe6764063e2fae85aba40a9-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/mid-brc",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/mid-brc"
-  },
-  {
-    "name": "West Ham United vs Preston North End",
-    "poster": "https://static.ppvservices.st/assets/thumb/e52ea312c418ec780ec41afd212473f5-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/whu-pne",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/whu-pne"
-  },
-  {
-    "name": "Wolverhampton Wanderers vs Charlton Athletic",
-    "poster": "https://static.ppvservices.st/assets/thumb/ce647e4b2f610af5a4e086be0ecc51ce-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/wol-cha",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/wol-cha"
-  },
-  {
-    "name": "Swansea City vs West Bromwich Albion",
-    "poster": "https://static.ppvservices.st/assets/thumb/f3e1ca0f440fffeb76162a711d6594dc-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/swa-wba",
-    "starts_at": 1795273200,
-    "ends_at": 1795282200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/swa-wba"
-  },
-  {
     "name": "Rayo Vallecano vs Valencia",
     "poster": "https://static.ppvservices.st/assets/thumb/7a9096262d17133aa073b5ea80d1c3c5-thumbnail.jpg",
     "tag": "LaLiga",
@@ -843,7 +733,7 @@
     "uri": "laliga/2026-11-21/sev-bet",
     "starts_at": 1795282200,
     "ends_at": 1795291200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-21/sev-bet"
   },
   {
@@ -854,7 +744,7 @@
     "uri": "bundesliga/2026-11-21/s04-vfb",
     "starts_at": 1795282200,
     "ends_at": 1795291200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/s04-vfb"
   },
   {
@@ -865,7 +755,7 @@
     "uri": "pl/2026-11-21/new-ars",
     "starts_at": 1795282200,
     "ends_at": 1795291200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/new-ars"
   },
   {
