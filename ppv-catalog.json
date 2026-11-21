@@ -447,7 +447,7 @@
     "uri": "nba/2026-11-20/orl-bkn",
     "starts_at": 1795221000,
     "ends_at": 1795231800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-20/orl-bkn"
   },
   {
@@ -458,7 +458,7 @@
     "uri": "nba/2026-11-20/ind-cle",
     "starts_at": 1795221000,
     "ends_at": 1795231800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-20/ind-cle"
   },
   {
@@ -469,7 +469,7 @@
     "uri": "nba/2026-11-20/tor-det",
     "starts_at": 1795221000,
     "ends_at": 1795231800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-20/tor-det"
   },
   {
@@ -1602,7 +1602,7 @@
     "uri": "f1/2026/las-vegas/fp3",
     "starts_at": 1795221000,
     "ends_at": 1795228200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/f1/2026/las-vegas/fp3"
   },
   {
