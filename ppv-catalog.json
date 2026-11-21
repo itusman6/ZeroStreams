@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Chattanooga Mocs vs Alabama Crimson Tide",
-    "poster": "https://static.ppvservices.st/assets/thumb/7342c35b73c83de9a308967eb338ac7e-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/utc-ala",
-    "starts_at": 1795287600,
-    "ends_at": 1795302000,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/utc-ala"
-  },
-  {
     "name": "Iowa Hawkeyes vs Illinois Fighting Illini",
     "poster": "https://static.ppvservices.st/assets/thumb/7a4d9b582044cbb2c1c6cc5fb84fae74-thumbnail.jpg",
     "tag": "College Football",
@@ -517,17 +506,6 @@
     "page": "https://ppv.st/live/nba/2026-11-22/bos-gs"
   },
   {
-    "name": "UFC Fight Night: Prochazka vs Stirling",
-    "poster": "https://static.ppvservices.st/assets/thumb/847c6a9814ff9f823f8e267bd33355ef-thumbnail.jpg",
-    "tag": "MMA",
-    "category": "Combat Sports",
-    "uri": "ufc-fight-night-prochazka-vs-stirling-32647",
-    "starts_at": 1795273200,
-    "ends_at": 1795302000,
-    "status": "live",
-    "page": "https://ppv.st/live/ufc-fight-night-prochazka-vs-stirling-32647"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -601,7 +579,7 @@
     "uri": "liga-mx/2026-11-21/pac-tol",
     "starts_at": 1795301400,
     "ends_at": 1795310400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-21/pac-tol"
   },
   {
@@ -612,7 +590,7 @@
     "uri": "mls/2026-11-21/mia-clb",
     "starts_at": 1795302000,
     "ends_at": 1795312800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-21/mia-clb"
   },
   {
@@ -623,7 +601,7 @@
     "uri": "liga-mx/2026-11-21/san-leo",
     "starts_at": 1795302000,
     "ends_at": 1795311000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-21/san-leo"
   },
   {
@@ -1019,7 +997,7 @@
     "uri": "nhl/2026-11-21/buf-fla",
     "starts_at": 1795302000,
     "ends_at": 1795312800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/buf-fla"
   },
   {
@@ -1030,7 +1008,7 @@
     "uri": "nhl/2026-11-21/pit-nsh",
     "starts_at": 1795302000,
     "ends_at": 1795312800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/pit-nsh"
   },
   {
