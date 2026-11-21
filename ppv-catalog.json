@@ -612,7 +612,7 @@
     "uri": "ufc-fight-night-prochazka-vs-stirling-32647",
     "starts_at": 1795273200,
     "ends_at": 1795302000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/ufc-fight-night-prochazka-vs-stirling-32647"
   },
   {
@@ -669,50 +669,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "Manchester City vs Fulham",
-    "poster": "https://static.ppvservices.st/assets/thumb/aba3473a6843b02ae8650fb5c79639d1-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-21/mci-ful",
-    "starts_at": 1795264200,
-    "ends_at": 1795273200,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-21/mci-ful"
-  },
-  {
-    "name": "Millwall vs Queens Park Rangers",
-    "poster": "https://static.ppvservices.st/assets/thumb/b0ceca27a97508265bdbe44fc9c58579-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/mil-qpr",
-    "starts_at": 1795264200,
-    "ends_at": 1795273200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/mil-qpr"
-  },
-  {
-    "name": "Norwich City vs Cardiff City",
-    "poster": "https://static.ppvservices.st/assets/thumb/d565caefb9df5073786fb1f6d18b9b21-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/nor-car",
-    "starts_at": 1795264200,
-    "ends_at": 1795273200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/nor-car"
-  },
-  {
-    "name": "Southampton vs Derby County",
-    "poster": "https://static.ppvservices.st/assets/thumb/8af56548fbd36181ade53fc75c2cbce1-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-21/sou-der",
-    "starts_at": 1795264200,
-    "ends_at": 1795273200,
-    "status": "live",
-    "page": "https://ppv.st/live/efl-championship/2026-11-21/sou-der"
   },
   {
     "name": "Alav\u00e9s vs Deportivo",
@@ -832,7 +788,7 @@
     "uri": "pl/2026-11-21/bou-nfo",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/bou-nfo"
   },
   {
@@ -843,7 +799,7 @@
     "uri": "pl/2026-11-21/avl-sun",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/avl-sun"
   },
   {
@@ -854,7 +810,7 @@
     "uri": "pl/2026-11-21/che-lee",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/che-lee"
   },
   {
@@ -865,7 +821,7 @@
     "uri": "pl/2026-11-21/cov-cry",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/cov-cry"
   },
   {
@@ -876,7 +832,7 @@
     "uri": "pl/2026-11-21/tot-ips",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-21/tot-ips"
   },
   {
@@ -887,7 +843,7 @@
     "uri": "efl-championship/2026-11-21/lcn-wxm",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-21/lcn-wxm"
   },
   {
@@ -898,7 +854,7 @@
     "uri": "efl-championship/2026-11-21/mid-brc",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-21/mid-brc"
   },
   {
@@ -909,7 +865,7 @@
     "uri": "efl-championship/2026-11-21/whu-pne",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-21/whu-pne"
   },
   {
@@ -920,8 +876,19 @@
     "uri": "efl-championship/2026-11-21/wol-cha",
     "starts_at": 1795273200,
     "ends_at": 1795282200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/efl-championship/2026-11-21/wol-cha"
+  },
+  {
+    "name": "Swansea City vs West Bromwich Albion",
+    "poster": "https://static.ppvservices.st/assets/thumb/f3e1ca0f440fffeb76162a711d6594dc-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-21/swa-wba",
+    "starts_at": 1795273200,
+    "ends_at": 1795282200,
+    "status": "live",
+    "page": "https://ppv.st/live/efl-championship/2026-11-21/swa-wba"
   },
   {
     "name": "Rayo Vallecano vs Valencia",
