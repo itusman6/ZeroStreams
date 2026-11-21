@@ -671,50 +671,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Como vs Cagliari",
-    "poster": "https://static.ppvservices.st/assets/thumb/7b174ff4b56c3a0837b2020363765b97-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-21/como-cag",
-    "starts_at": 1795269600,
-    "ends_at": 1795278600,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-21/como-cag"
-  },
-  {
-    "name": "Lazio vs Lecce",
-    "poster": "https://static.ppvservices.st/assets/thumb/bcb12ab48d2e394030867801ddf7d3b5-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-21/laz-lec",
-    "starts_at": 1795269600,
-    "ends_at": 1795278600,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-21/laz-lec"
-  },
-  {
-    "name": "AIK vs Degerfors IF",
-    "poster": "https://static.ppvservices.st/assets/thumb/c578239d743e14b9b7bfdd92bef9f015-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-21/aik-deg",
-    "starts_at": 1795269600,
-    "ends_at": 1795278600,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-21/aik-deg"
-  },
-  {
-    "name": "Mj\u00e4llby AIF vs Malm\u00f6 FF",
-    "poster": "https://static.ppvservices.st/assets/thumb/d4b3a0a781e04f6cf9ac5a18bba3fbbb-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-21/mja-mal",
-    "starts_at": 1795269600,
-    "ends_at": 1795278600,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-21/mja-mal"
-  },
-  {
     "name": "1. FC Union Berlin vs RB Leipzig",
     "poster": "https://static.ppvservices.st/assets/thumb/86c01c9cbd06e1a26262b0f8996a26d5-thumbnail.jpg",
     "tag": "Bundesliga",
@@ -920,7 +876,7 @@
     "uri": "allsvenskan/2026-11-21/gais-vas",
     "starts_at": 1795278600,
     "ends_at": 1795287600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-21/gais-vas"
   },
   {
