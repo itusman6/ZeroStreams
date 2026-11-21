@@ -660,28 +660,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "FC Utrecht vs SC Cambuur",
-    "poster": "https://static.ppvservices.st/assets/thumb/0da871e3c6147503d413f50557eee998-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-21/utr-cam",
-    "starts_at": 1795283100,
-    "ends_at": 1795292100,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-21/utr-cam"
-  },
-  {
-    "name": "Feyenoord Rotterdam vs Excelsior",
-    "poster": "https://static.ppvservices.st/assets/thumb/f0a65e39a1dbf75f308cf24fc36d0aa9-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-21/fey-exc",
-    "starts_at": 1795283100,
-    "ends_at": 1795292100,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-21/fey-exc"
-  },
-  {
     "name": "New England Revolution vs Philadelphia Union",
     "poster": "https://static.ppvservices.st/assets/thumb/92b4fce7b6c33b137c08c2f2b9699255-thumbnail.jpg",
     "tag": "MLS",
