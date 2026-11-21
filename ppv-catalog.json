@@ -84,7 +84,7 @@
     "uri": "cfb/2026-11-21/iowa-ill",
     "starts_at": 1795289400,
     "ends_at": 1795303800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/iowa-ill"
   },
   {
@@ -669,17 +669,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "Parma vs AS Roma",
-    "poster": "https://static.ppvservices.st/assets/thumb/bd2a87186212079c0c886ca634616b7f-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-21/par-roma",
-    "starts_at": 1795280400,
-    "ends_at": 1795289400,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-21/par-roma"
   },
   {
     "name": "Sevilla vs Real Betis",
