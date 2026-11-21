@@ -151,10 +151,6 @@ https://admin2.formaturamaxi.com.br/ecu.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/olympiakos.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e783dee3ca3f0e2" tvg-name="LIVE 24/7 — Soccer | Southampton vs Derby County" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Southampton vs Derby County
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4b0c2b7b6f948448" tvg-name="LIVE 24/7 — Soccer | Tottenham vs Ipswich — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Tottenham vs Ipswich — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -187,6 +183,10 @@ https://admin2.formaturamaxi.com.br/ncaa16.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4e783dee3ca3f0e2" tvg-name="UPCOMING 2026-11-21 12:30 UTC — Soccer | Southampton vs Derby County" tvg-logo="https://static.ppvservices.st/assets/thumb/8af56548fbd36181ade53fc75c2cbce1-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-21 12:30 UTC — Soccer | Southampton vs Derby County
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3679c10d99629697" tvg-name="UPCOMING 2026-11-21 14:00 UTC — Soccer | Lazio vs Lecce" tvg-logo="https://static.ppvservices.st/assets/thumb/bcb12ab48d2e394030867801ddf7d3b5-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-21 14:00 UTC — Soccer | Lazio vs Lecce
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
