@@ -18,7 +18,7 @@
     "uri": "cfb/2026-11-21/byu-ku",
     "starts_at": 1795280400,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/byu-ku"
   },
   {
@@ -29,7 +29,7 @@
     "uri": "cfb/2026-11-21/wake-gt",
     "starts_at": 1795280400,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/wake-gt"
   },
   {
@@ -40,7 +40,7 @@
     "uri": "cfb/2026-11-21/wof-miss",
     "starts_at": 1795280400,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/wof-miss"
   },
   {
@@ -51,7 +51,7 @@
     "uri": "cfb/2026-11-21/osu-neb",
     "starts_at": 1795280400,
     "ends_at": 1795294800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/osu-neb"
   },
   {
@@ -392,7 +392,7 @@
     "uri": "cbb/2026-11-21/detm-msu",
     "starts_at": 1795280400,
     "ends_at": 1795291200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-21/detm-msu"
   },
   {
@@ -671,61 +671,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "1. FC Union Berlin vs RB Leipzig",
-    "poster": "https://static.ppvservices.st/assets/thumb/86c01c9cbd06e1a26262b0f8996a26d5-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-21/fcu-rbl",
-    "starts_at": 1795271400,
-    "ends_at": 1795280400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-21/fcu-rbl"
-  },
-  {
-    "name": "Bayer Leverkusen vs SC Paderborn 07",
-    "poster": "https://static.ppvservices.st/assets/thumb/3737905533f129cbd6e4b53ae640024f-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-21/b04-scp",
-    "starts_at": 1795271400,
-    "ends_at": 1795280400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-21/b04-scp"
-  },
-  {
-    "name": "Borussia M\u00f6nchengladbach vs Borussia Dortmund",
-    "poster": "https://static.ppvservices.st/assets/thumb/ef7e780fbe1c4b32f2525469700d7aab-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-21/bmg-dor",
-    "starts_at": 1795271400,
-    "ends_at": 1795280400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-21/bmg-dor"
-  },
-  {
-    "name": "Eintracht Frankfurt vs TSG Hoffenheim",
-    "poster": "https://static.ppvservices.st/assets/thumb/5f4ab402998fb63d368cd4a361872469-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-21/sge-tsg",
-    "starts_at": 1795271400,
-    "ends_at": 1795280400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-21/sge-tsg"
-  },
-  {
-    "name": "SV Elversberg vs SC Freiburg",
-    "poster": "https://static.ppvservices.st/assets/thumb/914cd973a652eb8b8e49b6a53e5e9daa-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-21/elv-scf",
-    "starts_at": 1795271400,
-    "ends_at": 1795280400,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-21/elv-scf"
-  },
-  {
     "name": "AFC Bournemouth vs Nottingham Forest",
     "poster": "https://static.ppvservices.st/assets/thumb/d1789d893d71224b7e554f107c2ab557-thumbnail.jpg",
     "tag": "Premier League",
@@ -887,7 +832,7 @@
     "uri": "seriea/2026-11-21/par-roma",
     "starts_at": 1795280400,
     "ends_at": 1795289400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-21/par-roma"
   },
   {
