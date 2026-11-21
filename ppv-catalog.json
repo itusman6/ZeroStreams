@@ -18,7 +18,7 @@
     "uri": "cfb/2026-11-20/ore-msu",
     "starts_at": 1795222800,
     "ends_at": 1795237200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-20/ore-msu"
   },
   {
@@ -396,17 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Manhattan Jaspers vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/16c0c6fb677fee398366c87a79ac3573-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/man-mia",
-    "starts_at": 1795212000,
-    "ends_at": 1795222800,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-20/man-mia"
-  },
-  {
     "name": "Charlotte Hornets vs Atlanta Hawks",
     "poster": "https://static.ppvservices.st/assets/thumb/d1d7ac57f71178a1bf192fe6fca712ae-thumbnail.jpg",
     "tag": "NBA",
@@ -480,7 +469,7 @@
     "uri": "nba/2026-11-20/wsh-chi",
     "starts_at": 1795222800,
     "ends_at": 1795233600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-20/wsh-chi"
   },
   {
@@ -491,7 +480,7 @@
     "uri": "nba/2026-11-20/no-okc",
     "starts_at": 1795222800,
     "ends_at": 1795233600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-20/no-okc"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "cbb/2026-11-20/ucf-van",
     "starts_at": 1795222800,
     "ends_at": 1795233600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-20/ucf-van"
   },
   {
@@ -513,7 +502,7 @@
     "uri": "cbb/2026-11-20/mvsu-ark",
     "starts_at": 1795222800,
     "ends_at": 1795233600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-20/mvsu-ark"
   },
   {
@@ -766,7 +755,7 @@
     "uri": "liga-mx/2026-11-20/pue-asl",
     "starts_at": 1795222800,
     "ends_at": 1795231800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-20/pue-asl"
   },
   {
@@ -1668,7 +1657,7 @@
     "uri": "wwe/2026-11-20",
     "starts_at": 1795222800,
     "ends_at": 1795233600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/wwe/2026-11-20"
   },
   {
