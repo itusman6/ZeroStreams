@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-21T03:46:12.816763+00:00",
+  "updated_utc": "2026-11-21T04:01:46.132713+00:00",
   "pages": 47,
   "candidate_urls": 42,
   "live_urls": 0,
@@ -14,13 +14,13 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 153,
+    "active_events": 148,
     "direct_candidates": 0,
-    "embed_only_events": 153,
+    "embed_only_events": 148,
     "errors": []
   },
   "event_groups": 39,
-  "event_posters": 5,
+  "event_posters": 3,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {

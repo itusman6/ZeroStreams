@@ -396,50 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Washington Wizards vs Chicago Bulls",
-    "poster": "https://static.ppvservices.st/assets/thumb/4a13446939ac9b569c758e070c3da73f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/wsh-chi",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-20/wsh-chi"
-  },
-  {
-    "name": "New Orleans Pelicans vs Oklahoma City Thunder",
-    "poster": "https://static.ppvservices.st/assets/thumb/7974fb81723c88aacfdf19dc228997b4-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/no-okc",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-20/no-okc"
-  },
-  {
-    "name": "UCF Knights vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/d6e3ee1c9037ca5678b305bf8dc7da96-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/ucf-van",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-20/ucf-van"
-  },
-  {
-    "name": "Mississippi Valley State Delta Devils vs Arkansas Razorbacks",
-    "poster": "https://static.ppvservices.st/assets/thumb/66caadcad0d7386e6d8f97f29e1e2748-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/mvsu-ark",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-20/mvsu-ark"
-  },
-  {
     "name": "Eastern Illinois Panthers vs Illinois Fighting Illini",
     "poster": "https://static.ppvservices.st/assets/thumb/dd3f333729de85e358f2c66ae9b4db6b-thumbnail.jpg",
     "tag": "College Basketball",
@@ -1514,7 +1470,7 @@
     "uri": "f1/2026/las-vegas/qualifying",
     "starts_at": 1795233600,
     "ends_at": 1795240800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/f1/2026/las-vegas/qualifying"
   },
   {
@@ -1560,17 +1516,6 @@
     "ends_at": 1794801600,
     "status": "live",
     "page": "https://ppv.st/live/sky-sports-tennis-32479"
-  },
-  {
-    "name": "WWE Friday Night Smackdown",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-20",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "status": "live",
-    "page": "https://ppv.st/live/wwe/2026-11-20"
   },
   {
     "name": "AEW Saturday Night Collision",
