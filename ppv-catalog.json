@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Houston Cougars vs West Virginia Mountaineers",
-    "poster": "https://static.ppvservices.st/assets/thumb/e83abb2e65c111ec37623283a4946763-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/hou-wvu",
-    "starts_at": 1795284000,
-    "ends_at": 1795298400,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/hou-wvu"
-  },
-  {
     "name": "Chattanooga Mocs vs Alabama Crimson Tide",
     "poster": "https://static.ppvservices.st/assets/thumb/7342c35b73c83de9a308967eb338ac7e-thumbnail.jpg",
     "tag": "College Football",
@@ -592,17 +581,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "New England Revolution vs Philadelphia Union",
-    "poster": "https://static.ppvservices.st/assets/thumb/92b4fce7b6c33b137c08c2f2b9699255-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-21/ne-phi",
-    "starts_at": 1795287600,
-    "ends_at": 1795298400,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-21/ne-phi"
   },
   {
     "name": "Napoli vs Torino",
