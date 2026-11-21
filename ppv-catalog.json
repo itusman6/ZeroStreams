@@ -777,7 +777,7 @@
     "uri": "bundesliga/2026-11-21/fcu-rbl",
     "starts_at": 1795271400,
     "ends_at": 1795280400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/fcu-rbl"
   },
   {
@@ -788,7 +788,7 @@
     "uri": "bundesliga/2026-11-21/b04-scp",
     "starts_at": 1795271400,
     "ends_at": 1795280400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/b04-scp"
   },
   {
@@ -799,7 +799,7 @@
     "uri": "bundesliga/2026-11-21/bmg-dor",
     "starts_at": 1795271400,
     "ends_at": 1795280400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/bmg-dor"
   },
   {
@@ -810,7 +810,7 @@
     "uri": "bundesliga/2026-11-21/sge-tsg",
     "starts_at": 1795271400,
     "ends_at": 1795280400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/sge-tsg"
   },
   {
@@ -821,7 +821,7 @@
     "uri": "bundesliga/2026-11-21/elv-scf",
     "starts_at": 1795271400,
     "ends_at": 1795280400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/bundesliga/2026-11-21/elv-scf"
   },
   {
