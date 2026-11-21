@@ -583,61 +583,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Napoli vs Torino",
-    "poster": "https://static.ppvservices.st/assets/thumb/599d0cd52995faf2be573bee104dd4e6-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-21/nap-tor",
-    "starts_at": 1795290300,
-    "ends_at": 1795299300,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-21/nap-tor"
-  },
-  {
-    "name": "AS Monaco vs AJ Auxerre",
-    "poster": "https://static.ppvservices.st/assets/thumb/80e71b9bb4c531e7747969bc024c8121-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-21/mon-aux",
-    "starts_at": 1795290300,
-    "ends_at": 1795299300,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-21/mon-aux"
-  },
-  {
-    "name": "Lens vs Toulouse",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a80a39055dcfa3638b1e70368678197-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-21/rcl-tou",
-    "starts_at": 1795290300,
-    "ends_at": 1795299300,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-21/rcl-tou"
-  },
-  {
-    "name": "Lille vs Lyon",
-    "poster": "https://static.ppvservices.st/assets/thumb/ce8e4ae1247a5f256eb92b3d23a3a7b7-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-21/lill-lyon",
-    "starts_at": 1795290300,
-    "ends_at": 1795299300,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-21/lill-lyon"
-  },
-  {
-    "name": "Strasbourg vs Brest",
-    "poster": "https://static.ppvservices.st/assets/thumb/5ff5872627a533e1d344376b785d989e-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-21/str-bre",
-    "starts_at": 1795290300,
-    "ends_at": 1795299300,
-    "status": "live",
-    "page": "https://ppv.st/live/ligue1/2026-11-21/str-bre"
-  },
-  {
     "name": "Real Madrid vs Celta Vigo",
     "poster": "https://static.ppvservices.st/assets/thumb/e9465819ec45ec3242d2e2f1d9dfec28-thumbnail.jpg",
     "tag": "LaLiga",

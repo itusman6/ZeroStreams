@@ -151,6 +151,10 @@ https://tedesco.formaturamaxi.com.br/one.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/beinhk.m3u8
+#EXTINF:-1 tvg-id="zerostreams.abdf12aaa2206551" tvg-name="LIVE 24/7 — Soccer | Lens vs Toulouse" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Lens vs Toulouse
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 24/7 — Soccer | Manchester City vs Fulham" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Manchester City vs Fulham
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -203,10 +207,6 @@ https://temp.formaturamaxi.com.br/sn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.abdf12aaa2206551" tvg-name="LIVE 2026-11-21 19:45 UTC — Soccer | Lens vs Toulouse" tvg-logo="https://static.ppvservices.st/assets/thumb/6a80a39055dcfa3638b1e70368678197-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-21 19:45 UTC — Soccer | Lens vs Toulouse
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d9220dbcbc583b13" tvg-name="LIVE 2026-11-21 20:30 UTC — NHL | Chicago Blackhawks vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/6456d8dea2521a525ee34bbd43b7a6a7-thumbnail.jpg" group-title="NHL",LIVE 2026-11-21 20:30 UTC — NHL | Chicago Blackhawks vs Calgary Flames
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
