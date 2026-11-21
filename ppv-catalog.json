@@ -583,39 +583,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Real Madrid vs Celta Vigo",
-    "poster": "https://static.ppvservices.st/assets/thumb/e9465819ec45ec3242d2e2f1d9dfec28-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-21/rma-cel",
-    "starts_at": 1795291200,
-    "ends_at": 1795300200,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-21/rma-cel"
-  },
-  {
-    "name": "FC Groningen vs Heerenveen",
-    "poster": "https://static.ppvservices.st/assets/thumb/080c4f5ea472e8cacf73e846b9d30a92-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-21/gro-hee",
-    "starts_at": 1795291200,
-    "ends_at": 1795300200,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-21/gro-hee"
-  },
-  {
-    "name": "Telstar vs PEC Zwolle",
-    "poster": "https://static.ppvservices.st/assets/thumb/eef15df386e89d204ee295ee9a175bfc-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-21/tel-pec",
-    "starts_at": 1795291200,
-    "ends_at": 1795300200,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-21/tel-pec"
-  },
-  {
     "name": "FC Dallas vs Portland Timbers",
     "poster": "https://static.ppvservices.st/assets/thumb/5793d1aefa9075b1fafae3a5b31bdb24-thumbnail.jpg",
     "tag": "MLS",
