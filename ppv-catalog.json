@@ -385,17 +385,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Phoenix Suns vs Utah Jazz",
-    "poster": "https://static.ppvservices.st/assets/thumb/e2030521e5976b30f09613cf0150a2ef-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/phx-utah",
-    "starts_at": 1795228200,
-    "ends_at": 1795239000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-20/phx-utah"
-  },
-  {
     "name": "Houston Rockets vs Denver Nuggets",
     "poster": "https://static.ppvservices.st/assets/thumb/6727662900141fcdb2d60feebeb11166-thumbnail.jpg",
     "tag": "NBA",
@@ -713,28 +702,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "FC Ju\u00e1rez vs Atlas",
-    "poster": "https://static.ppvservices.st/assets/thumb/45eca10950cadb0a5e91951af88b87e0-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-20/jua-ats",
-    "starts_at": 1795230000,
-    "ends_at": 1795239000,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-20/jua-ats"
-  },
-  {
-    "name": "Tijuana vs Atlante",
-    "poster": "https://static.ppvservices.st/assets/thumb/037893918272d889da9fde0711034bba-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-20/tij-atl",
-    "starts_at": 1795230000,
-    "ends_at": 1795239000,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-20/tij-atl"
   },
   {
     "name": "Manchester City vs Fulham",

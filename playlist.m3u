@@ -43,6 +43,10 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="LIVE 24/7 — NBA | Phoenix Suns vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Phoenix Suns vs Utah Jazz
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1482c7de233fe065" tvg-name="LIVE 24/7 — NBA | Toronto Raptors vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Toronto Raptors vs Detroit Pistons
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -87,6 +91,10 @@ https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/espnmx.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9811edc229697c25" tvg-name="LIVE 24/7 — Soccer | Tijuana vs Atlante" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Tijuana vs Atlante
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.abdf12aaa2206551" tvg-name="LIVE 24/7 — Soccer | Troyes vs Le Havre" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Troyes vs Le Havre
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -95,18 +103,10 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="LIVE 2026-11-21 02:30 UTC — NBA | Phoenix Suns vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/e2030521e5976b30f09613cf0150a2ef-thumbnail.jpg" group-title="NBA",LIVE 2026-11-21 02:30 UTC — NBA | Phoenix Suns vs Utah Jazz
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.16949ddf742381fb" tvg-name="LIVE 2026-11-21 03:00 UTC — NBA | Houston Rockets vs Denver Nuggets" tvg-logo="https://static.ppvservices.st/assets/thumb/6727662900141fcdb2d60feebeb11166-thumbnail.jpg" group-title="NBA",LIVE 2026-11-21 03:00 UTC — NBA | Houston Rockets vs Denver Nuggets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9811edc229697c25" tvg-name="LIVE 2026-11-21 03:00 UTC — Soccer | Tijuana vs Atlante" tvg-logo="https://static.ppvservices.st/assets/thumb/037893918272d889da9fde0711034bba-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-21 03:00 UTC — Soccer | Tijuana vs Atlante
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="UPCOMING 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes" tvg-logo="https://static.ppvservices.st/assets/thumb/2fcd33cb7dd8f7f641cb9e925663478f-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-21 18:00 UTC — NHL | Edmonton Oilers vs Carolina Hurricanes
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
