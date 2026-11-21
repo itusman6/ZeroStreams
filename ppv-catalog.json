@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Iowa Hawkeyes vs Illinois Fighting Illini",
-    "poster": "https://static.ppvservices.st/assets/thumb/7a4d9b582044cbb2c1c6cc5fb84fae74-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/iowa-ill",
-    "starts_at": 1795289400,
-    "ends_at": 1795303800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/iowa-ill"
-  },
-  {
     "name": "UCLA Bruins vs Michigan Wolverines",
     "poster": "https://static.ppvservices.st/assets/thumb/9c6bc998fc37d13e9062a30a2a29faa9-thumbnail.jpg",
     "tag": "College Football",
@@ -977,17 +966,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Chicago Blackhawks vs Calgary Flames",
-    "poster": "https://static.ppvservices.st/assets/thumb/6456d8dea2521a525ee34bbd43b7a6a7-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/chi-cgy",
-    "starts_at": 1795293000,
-    "ends_at": 1795303800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/chi-cgy"
   },
   {
     "name": "Buffalo Sabres vs Florida Panthers",
