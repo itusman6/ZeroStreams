@@ -51,10 +51,6 @@ https://admin2.formaturamaxi.com.br/ncaa16.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="LIVE 24/7 — Shared Channels | NFL3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL3 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.65923d32f5a9e807" tvg-name="LIVE 24/7 — Shared Channels | NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NFL4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,18 +171,22 @@ https://admin.formaturamaxi.com.br/nfl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.293a78cebb4bc24f" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | Miami Dolphins vs Buffalo Bills" tvg-logo="https://static.ppvservices.st/assets/thumb/8ef336a0c50ee1242249738c0d17507a-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | Miami Dolphins vs Buffalo Bills
+#EXTINF:-1 tvg-id="zerostreams.df781fdafdeb8a56" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | Baltimore Ravens vs Carolina Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/244be1edbd14d25dd29a536c32018542-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | Baltimore Ravens vs Carolina Panthers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b225425793ec7e76" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | Miami Dolphins vs Buffalo Bills" tvg-logo="https://static.ppvservices.st/assets/thumb/8ef336a0c50ee1242249738c0d17507a-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | Miami Dolphins vs Buffalo Bills
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4bcdf26bc68b00e9" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | New Orleans Saints vs Chicago Bears" tvg-logo="https://static.ppvservices.st/assets/thumb/12892e0e45d80e9a14591d9df7eeeb39-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | New Orleans Saints vs Chicago Bears
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl2.m3u8
+https://temp.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.76789458cc8add9f" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | Pittsburgh Steelers vs Philadelphia Eagles" tvg-logo="https://static.ppvservices.st/assets/thumb/09d7e86837e0009177066376f3bff538-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | Pittsburgh Steelers vs Philadelphia Eagles
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nfl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.349af90cb89a616a" tvg-name="UPCOMING 2026-11-22 18:00 UTC — NFL | Tennessee Titans vs Dallas Cowboys" tvg-logo="https://static.ppvservices.st/assets/thumb/960a647ff5f1033a6178a97b832d1ba4-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 18:00 UTC — NFL | Tennessee Titans vs Dallas Cowboys
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="UPCOMING 2026-11-22 20:30 UTC — NBA | Detroit Pistons vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/03f47c7316395517764ef6d0962efe73-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-22 20:30 UTC — NBA | Detroit Pistons vs Atlanta Hawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -207,6 +207,10 @@ https://tedesco.formaturamaxi.com.br/nfl10.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/rams.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5ea27162b9219969" tvg-name="UPCOMING 2026-11-22 21:25 UTC — NFL | Las Vegas Raiders vs Denver Broncos" tvg-logo="https://static.ppvservices.st/assets/thumb/18237f32342c494f83ae1c0e8073e760-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-22 21:25 UTC — NFL | Las Vegas Raiders vs Denver Broncos
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="UPCOMING 2026-11-23 00:00 UTC — NBA | Dallas Mavericks vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/044ef8898e3f5c9482b893862770b354-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-23 00:00 UTC — NBA | Dallas Mavericks vs Utah Jazz
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
