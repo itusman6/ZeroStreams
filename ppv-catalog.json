@@ -425,7 +425,7 @@
     "uri": "laliga/2026-11-22/bar-vil",
     "starts_at": 1795352400,
     "ends_at": 1795361400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-22/bar-vil"
   },
   {
@@ -436,7 +436,7 @@
     "uri": "allsvenskan/2026-11-22/bkh-elf",
     "starts_at": 1795352400,
     "ends_at": 1795361400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-22/bkh-elf"
   },
   {
@@ -447,7 +447,7 @@
     "uri": "allsvenskan/2026-11-22/sir-dju",
     "starts_at": 1795352400,
     "ends_at": 1795361400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-22/sir-dju"
   },
   {
