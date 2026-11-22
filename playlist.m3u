@@ -183,11 +183,7 @@ https://temp.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cc3973a7fb39e9e1" tvg-name="LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://redzone.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e48c6e1afde7050b" tvg-name="LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 3" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 3
+#EXTINF:-1 tvg-id="zerostreams.e48c6e1afde7050b" tvg-name="LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="NFL",LIVE 2026-11-22 18:00 UTC — NFL RedZone — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/redzone.m3u8
