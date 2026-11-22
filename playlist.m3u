@@ -99,6 +99,14 @@ https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2c0146c6f22355c7" tvg-name="LIVE 24/7 — Soccer | Juventus vs Venezia — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Juventus vs Venezia — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/beinhk.m3u8
+#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 24/7 — Soccer | Juventus vs Venezia — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Juventus vs Venezia — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="LIVE 24/7 — Soccer | Laliga" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Laliga
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -159,14 +167,6 @@ https://temp.formaturamaxi.com.br/sn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2c0146c6f22355c7" tvg-name="LIVE 2026-11-22 11:30 UTC — Soccer | Juventus vs Venezia — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/191431447e73bdde9e1c2cab0566e882-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-22 11:30 UTC — Soccer | Juventus vs Venezia — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/beinhk.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="LIVE 2026-11-22 11:30 UTC — Soccer | Juventus vs Venezia — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/191431447e73bdde9e1c2cab0566e882-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-22 11:30 UTC — Soccer | Juventus vs Venezia — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="UPCOMING 2026-11-22 17:30 UTC — NHL | Carolina Hurricanes vs New York Rangers" tvg-logo="https://static.ppvservices.st/assets/thumb/40e2ec2a8323dc09937350322ae0a0f7-thumbnail.jpg" group-title="NHL",UPCOMING 2026-11-22 17:30 UTC — NHL | Carolina Hurricanes vs New York Rangers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)

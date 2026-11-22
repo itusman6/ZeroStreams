@@ -396,17 +396,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Juventus vs Venezia",
-    "poster": "https://static.ppvservices.st/assets/thumb/191431447e73bdde9e1c2cab0566e882-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-22/juv-ven",
-    "starts_at": 1795347000,
-    "ends_at": 1795356000,
-    "status": "live",
-    "page": "https://ppv.st/live/seriea/2026-11-22/juv-ven"
-  },
-  {
     "name": "Barcelona vs Villarreal",
     "poster": "https://static.ppvservices.st/assets/thumb/4747fd4590bc916f5e78a33ae81930a2-thumbnail.jpg",
     "tag": "LaLiga",
@@ -469,7 +458,7 @@
     "uri": "pl/2026-11-22/hul-bha",
     "starts_at": 1795356000,
     "ends_at": 1795365000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-22/hul-bha"
   },
   {
@@ -480,7 +469,7 @@
     "uri": "seriea/2026-11-22/bol-udi",
     "starts_at": 1795356000,
     "ends_at": 1795365000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-22/bol-udi"
   },
   {
@@ -491,7 +480,7 @@
     "uri": "seriea/2026-11-22/sas-gen",
     "starts_at": 1795356000,
     "ends_at": 1795365000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-22/sas-gen"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "ligue1/2026-11-22/par-ang",
     "starts_at": 1795356000,
     "ends_at": 1795365000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/ligue1/2026-11-22/par-ang"
   },
   {
