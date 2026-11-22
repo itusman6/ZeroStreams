@@ -484,17 +484,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Pachuca vs Toluca",
-    "poster": "https://static.ppvservices.st/assets/thumb/65e4e8a3a4de55f4ddb174a28b807dd3-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-21/pac-tol",
-    "starts_at": 1795301400,
-    "ends_at": 1795310400,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-21/pac-tol"
-  },
-  {
     "name": "Inter Miami CF vs Columbus Crew",
     "poster": "https://static.ppvservices.st/assets/thumb/5c76912b1fabd8e39539a6152440ce4f-thumbnail.jpg",
     "tag": "MLS",
@@ -504,17 +493,6 @@
     "ends_at": 1795312800,
     "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-21/mia-clb"
-  },
-  {
-    "name": "Santos vs Le\u00f3n",
-    "poster": "https://static.ppvservices.st/assets/thumb/6c33984bcfb9bee87ac4eb147b96a89b-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-21/san-leo",
-    "starts_at": 1795302000,
-    "ends_at": 1795311000,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-21/san-leo"
   },
   {
     "name": "Pumas UNAM vs Monterrey",
