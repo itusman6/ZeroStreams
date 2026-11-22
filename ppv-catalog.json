@@ -392,30 +392,8 @@
     "uri": "grand-slam-of-darts--day-9-session-2-32260",
     "starts_at": 1795374000,
     "ends_at": 1795392000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "Werder Bremen vs Hamburg SV",
-    "poster": "https://static.ppvservices.st/assets/thumb/237287cd556b8184671ad551272f6fb6-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-22/svw-hsv",
-    "starts_at": 1795365000,
-    "ends_at": 1795374000,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-22/svw-hsv"
-  },
-  {
-    "name": "Liverpool vs Manchester United",
-    "poster": "https://static.ppvservices.st/assets/thumb/06f2151b64027a437b011debdeeb087b-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-22/liv-mun",
-    "starts_at": 1795365000,
-    "ends_at": 1795374000,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-22/liv-mun"
   },
   {
     "name": "AC Milan vs Frosinone",
