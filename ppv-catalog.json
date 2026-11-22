@@ -165,28 +165,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "South East Melbourne Phoenix vs Cairns Taipans",
-    "poster": "https://static.ppvservices.st/assets/thumb/f2aee0cbb167593fae46d3c27b3589fb-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-22/pnx-cns",
-    "starts_at": 1795320000,
-    "ends_at": 1795330800,
-    "status": "live",
-    "page": "https://ppv.st/live/nbl/2026-11-22/pnx-cns"
-  },
-  {
-    "name": "Washington State Cougars vs Duke Blue Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/8c8062fbfb65f7fe2dde5a01b93cd268-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-21/wsu-duke",
-    "starts_at": 1795320000,
-    "ends_at": 1795330800,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-21/wsu-duke"
-  },
-  {
     "name": "Brisbane Bullets vs Sydney Kings",
     "poster": "https://static.ppvservices.st/assets/thumb/83eae96ea1195ce45840236c010ee415-thumbnail.jpg",
     "tag": "NBL",
@@ -845,17 +823,6 @@
     "ends_at": 1795406400,
     "status": "upcoming",
     "page": "https://ppv.st/live/nhl/2026-11-22/chi-van"
-  },
-  {
-    "name": "Las Vegas Grand Prix: Race",
-    "poster": "https://static.ppvservices.st/assets/thumb/f7d13134d98d5629c426de8cc76fe91e-thumbnail.jpg",
-    "tag": "Formula 1",
-    "category": "Motorsports",
-    "uri": "f1/2026/las-vegas/race",
-    "starts_at": 1795320000,
-    "ends_at": 1795330800,
-    "status": "live",
-    "page": "https://ppv.st/live/f1/2026/las-vegas/race"
   },
   {
     "name": "Fox League",
