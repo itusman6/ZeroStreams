@@ -11,28 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Virginia Tech Hokies vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/073299ad5392d73892de1e58bc36cd36-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/vt-mia",
-    "starts_at": 1795305600,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/vt-mia"
-  },
-  {
-    "name": "Arizona Wildcats vs Kansas State Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/acd5376787aea36d66e1875b45f797e9-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/ariz-ksu",
-    "starts_at": 1795305600,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/ariz-ksu"
-  },
-  {
     "name": "Georgia Bulldogs vs South Carolina Gamecocks",
     "poster": "https://static.ppvservices.st/assets/thumb/d0361efa6d6df72c4bf50b8684f913d7-thumbnail.jpg",
     "tag": "College Football",
@@ -242,39 +220,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Los Angeles Clippers vs Dallas Mavericks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d3c29f4a27df59a482750b7398dc665a-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-21/lac-dal",
-    "starts_at": 1795309200,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-21/lac-dal"
-  },
-  {
-    "name": "Memphis Grizzlies vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/9b6af34e377a3bfbc75d08462e3ca1a7-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-21/mem-min",
-    "starts_at": 1795309200,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-21/mem-min"
-  },
-  {
-    "name": "New Orleans Pelicans vs San Antonio Spurs",
-    "poster": "https://static.ppvservices.st/assets/thumb/e39ccdde394e93e25b898c54ce31a1cc-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-21/no-sa",
-    "starts_at": 1795309200,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-21/no-sa"
-  },
-  {
     "name": "Boston Celtics vs Sacramento Kings",
     "poster": "https://static.ppvservices.st/assets/thumb/20bb0dea41202064963a90c9cf3b90cb-thumbnail.jpg",
     "tag": "NBA",
@@ -293,7 +238,7 @@
     "uri": "nbl/2026-11-22/pnx-cns",
     "starts_at": 1795320000,
     "ends_at": 1795330800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-22/pnx-cns"
   },
   {
@@ -304,7 +249,7 @@
     "uri": "cbb/2026-11-21/wsu-duke",
     "starts_at": 1795320000,
     "ends_at": 1795330800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-21/wsu-duke"
   },
   {
@@ -854,7 +799,7 @@
     "uri": "f1/2026/las-vegas/race",
     "starts_at": 1795320000,
     "ends_at": 1795330800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/f1/2026/las-vegas/race"
   },
   {
@@ -889,17 +834,6 @@
     "ends_at": 1794801600,
     "status": "live",
     "page": "https://ppv.st/live/sky-sports-tennis-32479"
-  },
-  {
-    "name": "AEW Saturday Night Collision",
-    "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "aew/2026-11-21",
-    "starts_at": 1795309200,
-    "ends_at": 1795320000,
-    "status": "live",
-    "page": "https://ppv.st/live/aew/2026-11-21"
   },
   {
     "name": "24/7 South Park",
