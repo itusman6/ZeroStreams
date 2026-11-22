@@ -396,39 +396,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Barcelona vs Villarreal",
-    "poster": "https://static.ppvservices.st/assets/thumb/4747fd4590bc916f5e78a33ae81930a2-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-22/bar-vil",
-    "starts_at": 1795352400,
-    "ends_at": 1795361400,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-22/bar-vil"
-  },
-  {
-    "name": "BK H\u00e4cken vs IF Elfsborg",
-    "poster": "https://static.ppvservices.st/assets/thumb/7b1e805bc0bae7fcbbd73b5a47b2d15a-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-22/bkh-elf",
-    "starts_at": 1795352400,
-    "ends_at": 1795361400,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-22/bkh-elf"
-  },
-  {
-    "name": "IK Sirius vs Djurg\u00e5rden",
-    "poster": "https://static.ppvservices.st/assets/thumb/0d2940c93b46311132f2c1b48e3aff3a-thumbnail.jpg",
-    "tag": "Allsvenskan",
-    "category": "Football",
-    "uri": "allsvenskan/2026-11-22/sir-dju",
-    "starts_at": 1795352400,
-    "ends_at": 1795361400,
-    "status": "live",
-    "page": "https://ppv.st/live/allsvenskan/2026-11-22/sir-dju"
-  },
-  {
     "name": "Ajax Amsterdam vs ADO Den Haag",
     "poster": "https://static.ppvservices.st/assets/thumb/d3710adf62c3f822a8bf4c798412f900-thumbnail.jpg",
     "tag": "Eredivisie",
@@ -524,7 +491,7 @@
     "uri": "allsvenskan/2026-11-22/bro-hbk",
     "starts_at": 1795361400,
     "ends_at": 1795370400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-22/bro-hbk"
   },
   {
