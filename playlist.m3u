@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="LIVE 24/7 — Formula 1 - Las Vegas Grand Prix" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Las Vegas Grand Prix
+#EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="LIVE 24/7 — Formula 1 - Las Vegas Grand Prix — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Las Vegas Grand Prix — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.343544e2c60af5d7" tvg-name="LIVE 24/7 — Formula 1 - Las Vegas Grand Prix — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",LIVE 24/7 — Formula 1 - Las Vegas Grand Prix — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/f1tv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3418396e91fb6b60" tvg-name="LIVE 24/7 — Live | BYU vs Kansas" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | BYU vs Kansas
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -119,6 +123,10 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3679c10d99629697" tvg-name="LIVE 24/7 — Shared Channels | BEINHK — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | BEINHK — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/beinhk.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1e5ae10d67b94373" tvg-name="LIVE 24/7 — Shared Channels | MATCH3RU — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MATCH3RU — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -199,10 +207,6 @@ https://admin2.formaturamaxi.com.br/rma.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3679c10d99629697" tvg-name="LIVE 24/7 — Soccer | Lazio vs Lecce" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Lazio vs Lecce
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beinhk.m3u8
 #EXTINF:-1 tvg-id="zerostreams.abdf12aaa2206551" tvg-name="LIVE 24/7 — Soccer | Lens vs Toulouse" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Lens vs Toulouse
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
