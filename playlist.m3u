@@ -23,6 +23,10 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — NBA | Detroit Pistons vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Detroit Pistons vs Atlanta Hawks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b817146f074ea32e" tvg-name="LIVE 24/7 — NFL | Baltimore Ravens vs Carolina Panthers — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Baltimore Ravens vs Carolina Panthers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -191,10 +195,6 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/redzone.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 2026-11-22 20:30 UTC — NBA | Detroit Pistons vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/03f47c7316395517764ef6d0962efe73-thumbnail.jpg" group-title="NBA",LIVE 2026-11-22 20:30 UTC — NBA | Detroit Pistons vs Atlanta Hawks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f961819d5bba5c88" tvg-name="LIVE 2026-11-22 21:05 UTC — NFL | New York Jets vs Los Angeles Chargers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/0d39ffb3a5ff50d457e65b331f6328cb-thumbnail.jpg" group-title="NFL",LIVE 2026-11-22 21:05 UTC — NFL | New York Jets vs Los Angeles Chargers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
