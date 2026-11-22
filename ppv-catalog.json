@@ -469,7 +469,7 @@
     "uri": "laliga/2026-11-22/osa-mcf",
     "starts_at": 1795368600,
     "ends_at": 1795377600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-22/osa-mcf"
   },
   {
@@ -612,7 +612,7 @@
     "uri": "nhl/2026-11-22/car-nyr",
     "starts_at": 1795368600,
     "ends_at": 1795379400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-22/car-nyr"
   },
   {
