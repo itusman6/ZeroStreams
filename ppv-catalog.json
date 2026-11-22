@@ -253,17 +253,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Michigan Wolverines vs Villanova Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/b55403cb876e9676eca69e95ba77ae6b-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-21/mich-vill",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-21/mich-vill"
-  },
-  {
     "name": "Portland Trail Blazers vs New York Knicks",
     "poster": "https://static.ppvservices.st/assets/thumb/a9aea5e3041253372bee48786d6c035b-thumbnail.jpg",
     "tag": "NBA",
@@ -315,7 +304,7 @@
     "uri": "nba/2026-11-21/bos-sac",
     "starts_at": 1795316400,
     "ends_at": 1795327200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-21/bos-sac"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "liga-mx/2026-11-21/uanl-ame",
     "starts_at": 1795316400,
     "ends_at": 1795325400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-21/uanl-ame"
   },
   {
@@ -858,83 +847,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Washington Capitals vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/wsh-bos",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/wsh-bos"
-  },
-  {
-    "name": "Columbus Blue Jackets vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/b43e7e07a3dc3777ea34f3f8125c1ed6-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/cbj-tor",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/cbj-tor"
-  },
-  {
-    "name": "Philadelphia Flyers vs Montreal Canadiens",
-    "poster": "https://static.ppvservices.st/assets/thumb/e8118edf1e37cad40ca4ccb05d198b90-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/phi-mtl",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/phi-mtl"
-  },
-  {
-    "name": "Los Angeles Kings vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a1d8e0d9465315112371c04e15b273e-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/la-ott",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/la-ott"
-  },
-  {
-    "name": "New York Islanders vs Detroit Red Wings",
-    "poster": "https://static.ppvservices.st/assets/thumb/b01cb469cdb743e1f0948765e356fc3f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/nyi-det",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/nyi-det"
-  },
-  {
-    "name": "New Jersey Devils vs St. Louis Blues",
-    "poster": "https://static.ppvservices.st/assets/thumb/48d9ebab1d9ff4d8a903c6521e1ea489-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/nj-stl",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/nj-stl"
-  },
-  {
-    "name": "Vegas Golden Knights vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/09b53f37e6899dc5ceda3868b7068e68-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/vgk-wpg",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/vgk-wpg"
-  },
-  {
     "name": "Anaheim Ducks vs Utah Mammoth",
     "poster": "https://static.ppvservices.st/assets/thumb/28c2ee946f9ce82b0479b6a921e04268-thumbnail.jpg",
     "tag": "NHL",
@@ -953,7 +865,7 @@
     "uri": "nhl/2026-11-21/min-van",
     "starts_at": 1795316400,
     "ends_at": 1795327200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/min-van"
   },
   {
@@ -964,7 +876,7 @@
     "uri": "nhl/2026-11-21/sea-sj",
     "starts_at": 1795316400,
     "ends_at": 1795327200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/sea-sj"
   },
   {
