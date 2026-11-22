@@ -396,28 +396,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Ajax Amsterdam vs ADO Den Haag",
-    "poster": "https://static.ppvservices.st/assets/thumb/d3710adf62c3f822a8bf4c798412f900-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-22/aja-ado",
-    "starts_at": 1795354200,
-    "ends_at": 1795363200,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-22/aja-ado"
-  },
-  {
-    "name": "Sparta Rotterdam vs AZ Alkmaar",
-    "poster": "https://static.ppvservices.st/assets/thumb/f39d97481c05191479729385b9d2d902-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-22/spa-az",
-    "starts_at": 1795354200,
-    "ends_at": 1795363200,
-    "status": "live",
-    "page": "https://ppv.st/live/eredivisie/2026-11-22/spa-az"
-  },
-  {
     "name": "Hull City vs Brighton & Hove Albion",
     "poster": "https://static.ppvservices.st/assets/thumb/9c263c78546dddab35ffc94a8363961f-thumbnail.jpg",
     "tag": "Premier League",
