@@ -84,7 +84,7 @@
     "uri": "cfb/2026-11-21/utah-tcu",
     "starts_at": 1795312800,
     "ends_at": 1795327200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/utah-tcu"
   },
   {
@@ -484,17 +484,6 @@
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
   },
   {
-    "name": "Inter Miami CF vs Columbus Crew",
-    "poster": "https://static.ppvservices.st/assets/thumb/5c76912b1fabd8e39539a6152440ce4f-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-21/mia-clb",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-21/mia-clb"
-  },
-  {
     "name": "Pumas UNAM vs Monterrey",
     "poster": "https://static.ppvservices.st/assets/thumb/37d1e9f82dda933c7047cd5ec5f777b2-thumbnail.jpg",
     "tag": "Liga MX",
@@ -869,28 +858,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Buffalo Sabres vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/268800077b726a02be359e2d4e94a392-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/buf-fla",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/buf-fla"
-  },
-  {
-    "name": "Pittsburgh Penguins vs Nashville Predators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6cbcc9754451ac6f7ff760b81e666d4d-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/pit-nsh",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/pit-nsh"
-  },
-  {
     "name": "Washington Capitals vs Boston Bruins",
     "poster": "https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg",
     "tag": "NHL",
@@ -975,7 +942,7 @@
     "uri": "nhl/2026-11-21/ana-uta",
     "starts_at": 1795312800,
     "ends_at": 1795323600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-21/ana-uta"
   },
   {
