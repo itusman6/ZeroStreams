@@ -242,17 +242,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Portland Trail Blazers vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/a9aea5e3041253372bee48786d6c035b-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-21/por-ny",
-    "starts_at": 1795307400,
-    "ends_at": 1795318200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-21/por-ny"
-  },
-  {
     "name": "Los Angeles Clippers vs Dallas Mavericks",
     "poster": "https://static.ppvservices.st/assets/thumb/d3c29f4a27df59a482750b7398dc665a-thumbnail.jpg",
     "tag": "NBA",
@@ -460,17 +449,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "Pumas UNAM vs Monterrey",
-    "poster": "https://static.ppvservices.st/assets/thumb/37d1e9f82dda933c7047cd5ec5f777b2-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-21/unam-mty",
-    "starts_at": 1795309200,
-    "ends_at": 1795318200,
-    "status": "live",
-    "page": "https://ppv.st/live/liga-mx/2026-11-21/unam-mty"
   },
   {
     "name": "Tigres UANL vs Am\u00e9rica",
