@@ -161,7 +161,7 @@
     "uri": "cbb/2026-11-22/neb-btlr",
     "starts_at": 1795366800,
     "ends_at": 1795377600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-22/neb-btlr"
   },
   {
@@ -374,17 +374,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Grand Slam of Darts | Day 9, Session 1",
-    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-    "tag": "PDC Darts",
-    "category": "Darts",
-    "uri": "grand-slam-of-darts--day-9-session-1-32259",
-    "starts_at": 1795348800,
-    "ends_at": 1795366800,
-    "status": "live",
-    "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-1-32259"
-  },
-  {
     "name": "Grand Slam of Darts | Day 9, Session 2",
     "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
     "tag": "PDC Darts",
@@ -394,17 +383,6 @@
     "ends_at": 1795392000,
     "status": "upcoming",
     "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
-    "name": "FC Augsburg vs Mainz",
-    "poster": "https://static.ppvservices.st/assets/thumb/c9d1741bda41dc94fd3eaf8b41b64c36-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-22/fca-m05",
-    "starts_at": 1795357800,
-    "ends_at": 1795366800,
-    "status": "live",
-    "page": "https://ppv.st/live/bundesliga/2026-11-22/fca-m05"
   },
   {
     "name": "Racing Santander vs Real Sociedad",
@@ -480,7 +458,7 @@
     "uri": "seriea/2026-11-22/mil-fro",
     "starts_at": 1795366800,
     "ends_at": 1795375800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/seriea/2026-11-22/mil-fro"
   },
   {
