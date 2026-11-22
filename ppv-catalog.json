@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Maryland Terrapins vs USC Trojans",
-    "poster": "https://static.ppvservices.st/assets/thumb/91cb28d271b78d51aa50868a55a8298e-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/md-usc",
-    "starts_at": 1795302900,
-    "ends_at": 1795317300,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/md-usc"
-  },
-  {
     "name": "Virginia Tech Hokies vs Miami Hurricanes",
     "poster": "https://static.ppvservices.st/assets/thumb/073299ad5392d73892de1e58bc36cd36-thumbnail.jpg",
     "tag": "College Football",
@@ -106,7 +95,7 @@
     "uri": "cfb/2026-11-21/okst-asu",
     "starts_at": 1795317300,
     "ends_at": 1795331700,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-21/okst-asu"
   },
   {
