@@ -199,6 +199,10 @@ https://admin.formaturamaxi.com.br/fanaes.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fanapt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5456acf3548e5520" tvg-name="LIVE 24/7 — Soccer | Pumas vs Monterrey" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Pumas vs Monterrey
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tudnmx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e67a26045d236015" tvg-name="LIVE 24/7 — Soccer | Santos Laguna vs León" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Santos Laguna vs León
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -259,15 +263,15 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="UPCOMING 2026-11-22 01:00 UTC — NBA | Los Angeles Clippers vs Dallas Mavericks" tvg-logo="https://static.ppvservices.st/assets/thumb/d3c29f4a27df59a482750b7398dc665a-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-22 01:00 UTC — NBA | Los Angeles Clippers vs Dallas Mavericks
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="LIVE 2026-11-22 01:00 UTC — NBA | Los Angeles Clippers vs Dallas Mavericks" tvg-logo="https://static.ppvservices.st/assets/thumb/d3c29f4a27df59a482750b7398dc665a-thumbnail.jpg" group-title="NBA",LIVE 2026-11-22 01:00 UTC — NBA | Los Angeles Clippers vs Dallas Mavericks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1482c7de233fe065" tvg-name="UPCOMING 2026-11-22 01:00 UTC — NBA | Memphis Grizzlies vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/9b6af34e377a3bfbc75d08462e3ca1a7-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-22 01:00 UTC — NBA | Memphis Grizzlies vs Minnesota Timberwolves
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="LIVE 2026-11-22 01:00 UTC — NBA | Memphis Grizzlies vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/9b6af34e377a3bfbc75d08462e3ca1a7-thumbnail.jpg" group-title="NBA",LIVE 2026-11-22 01:00 UTC — NBA | Memphis Grizzlies vs Minnesota Timberwolves
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="UPCOMING 2026-11-22 01:00 UTC — NBA | New Orleans Pelicans vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/e39ccdde394e93e25b898c54ce31a1cc-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-22 01:00 UTC — NBA | New Orleans Pelicans vs San Antonio Spurs
+https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="LIVE 2026-11-22 01:00 UTC — NBA | New Orleans Pelicans vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/e39ccdde394e93e25b898c54ce31a1cc-thumbnail.jpg" group-title="NBA",LIVE 2026-11-22 01:00 UTC — NBA | New Orleans Pelicans vs San Antonio Spurs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8

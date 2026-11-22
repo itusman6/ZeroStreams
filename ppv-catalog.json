@@ -282,7 +282,7 @@
     "uri": "nba/2026-11-21/lac-dal",
     "starts_at": 1795309200,
     "ends_at": 1795320000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-21/lac-dal"
   },
   {
@@ -293,7 +293,7 @@
     "uri": "nba/2026-11-21/mem-min",
     "starts_at": 1795309200,
     "ends_at": 1795320000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-21/mem-min"
   },
   {
@@ -304,7 +304,7 @@
     "uri": "nba/2026-11-21/no-sa",
     "starts_at": 1795309200,
     "ends_at": 1795320000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-21/no-sa"
   },
   {
@@ -524,7 +524,7 @@
     "uri": "liga-mx/2026-11-21/unam-mty",
     "starts_at": 1795309200,
     "ends_at": 1795318200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/liga-mx/2026-11-21/unam-mty"
   },
   {
@@ -1074,7 +1074,7 @@
     "uri": "aew/2026-11-21",
     "starts_at": 1795309200,
     "ends_at": 1795320000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/aew/2026-11-21"
   },
   {
