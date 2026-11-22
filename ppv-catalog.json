@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Utah Utes vs TCU Horned Frogs",
-    "poster": "https://static.ppvservices.st/assets/thumb/253e8102628d8e6e44e3e7d9652f8c5c-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/utah-tcu",
-    "starts_at": 1795312800,
-    "ends_at": 1795327200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/utah-tcu"
-  },
-  {
     "name": "San Diego State Aztecs vs Boise State Broncos",
     "poster": "https://static.ppvservices.st/assets/thumb/0c7bb27fb1cda4f623a200102913c4e0-thumbnail.jpg",
     "tag": "College Football",
@@ -187,17 +176,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Boston Celtics vs Sacramento Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/20bb0dea41202064963a90c9cf3b90cb-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-21/bos-sac",
-    "starts_at": 1795316400,
-    "ends_at": 1795327200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-21/bos-sac"
-  },
-  {
     "name": "South East Melbourne Phoenix vs Cairns Taipans",
     "poster": "https://static.ppvservices.st/assets/thumb/f2aee0cbb167593fae46d3c27b3589fb-thumbnail.jpg",
     "tag": "NBL",
@@ -227,7 +205,7 @@
     "uri": "nbl/2026-11-22/bri-syd",
     "starts_at": 1795327200,
     "ends_at": 1795338000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nbl/2026-11-22/bri-syd"
   },
   {
@@ -823,28 +801,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Minnesota Wild vs Vancouver Canucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/4eadf4804301c7b1a9f932e3100ec19a-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/min-van",
-    "starts_at": 1795316400,
-    "ends_at": 1795327200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/min-van"
-  },
-  {
-    "name": "Seattle Kraken vs San Jose Sharks",
-    "poster": "https://static.ppvservices.st/assets/thumb/73af8249c756b7986a51a67cfdc9bd74-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/sea-sj",
-    "starts_at": 1795316400,
-    "ends_at": 1795327200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-21/sea-sj"
   },
   {
     "name": "Carolina Hurricanes vs New York Rangers",
