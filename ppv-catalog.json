@@ -11,39 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Georgia Bulldogs vs South Carolina Gamecocks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d0361efa6d6df72c4bf50b8684f913d7-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/uga-sc",
-    "starts_at": 1795307400,
-    "ends_at": 1795321800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/uga-sc"
-  },
-  {
-    "name": "SMU Mustangs vs Notre Dame Fighting Irish",
-    "poster": "https://static.ppvservices.st/assets/thumb/7d35a30f0288b68e5bac86bad731032d-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/smu-nd",
-    "starts_at": 1795307400,
-    "ends_at": 1795321800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/smu-nd"
-  },
-  {
-    "name": "Kentucky Wildcats vs Missouri Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/c8681b30f5be37cf5bd86a1517adbd5d-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/uk-miz",
-    "starts_at": 1795307400,
-    "ends_at": 1795321800,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-21/uk-miz"
-  },
-  {
     "name": "Utah Utes vs TCU Horned Frogs",
     "poster": "https://static.ppvservices.st/assets/thumb/253e8102628d8e6e44e3e7d9652f8c5c-thumbnail.jpg",
     "tag": "College Football",
