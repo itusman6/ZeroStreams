@@ -44,17 +44,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Oklahoma City Thunder vs Miami Heat",
-    "poster": "https://static.ppvservices.st/assets/thumb/bea4a07ad1e35c3faa94edfa98049da5-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/okc-mia",
-    "starts_at": 1795388400,
-    "ends_at": 1795399200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-22/okc-mia"
-  },
-  {
     "name": "Orlando Magic vs Washington Wizards",
     "poster": "https://static.ppvservices.st/assets/thumb/5f2c06328219573a23651b2455d92a29-thumbnail.jpg",
     "tag": "NBA",
