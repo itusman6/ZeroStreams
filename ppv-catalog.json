@@ -777,7 +777,7 @@
     "uri": "allsvenskan/2026-11-23/ham-got",
     "starts_at": 1795456800,
     "ends_at": 1795465800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-23/ham-got"
   },
   {
@@ -788,7 +788,7 @@
     "uri": "allsvenskan/2026-11-23/org-kff",
     "starts_at": 1795456800,
     "ends_at": 1795465800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/allsvenskan/2026-11-23/org-kff"
   },
   {
@@ -2167,17 +2167,6 @@
     "page": "https://ppv.st/live/laliga/2026-11-30/esp-get"
   },
   {
-    "name": "Sky Sports Golf",
-    "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
-    "tag": "24/7 channel",
-    "category": "Golf",
-    "uri": "sky-sports-golf-29059",
-    "starts_at": 0,
-    "ends_at": 0,
-    "status": "live",
-    "page": "https://ppv.st/live/sky-sports-golf-29059"
-  },
-  {
     "name": "NHL Network",
     "poster": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -2286,17 +2275,6 @@
     "ends_at": 10860,
     "status": "live",
     "page": "https://ppv.st/live/tennis-channel"
-  },
-  {
-    "name": "Sky Sports Tennis",
-    "poster": "https://static.ppvservices.st/assets/thumb/3fa2f4ea885cdd997f65c0ded9148fba-thumbnail.jpg",
-    "tag": "24/7 channel",
-    "category": "Tennis",
-    "uri": "sky-sports-tennis-32479",
-    "starts_at": 1794787200,
-    "ends_at": 1794801600,
-    "status": "live",
-    "page": "https://ppv.st/live/sky-sports-tennis-32479"
   },
   {
     "name": "WWE NXT",
@@ -2418,17 +2396,6 @@
     "ends_at": 1770865200,
     "status": "live",
     "page": "https://ppv.st/live/rally-tv"
-  },
-  {
-    "name": "Sky Sports Racing",
-    "poster": "https://static.ppvservices.st/assets/thumb/43030017ee0ab21769b49bffe20f76d1-thumbnail.jpg",
-    "tag": "24/7 channel",
-    "category": "24/7 Streams",
-    "uri": "sky-sports-racing",
-    "starts_at": 1792108800,
-    "ends_at": 1792123200,
-    "status": "live",
-    "page": "https://ppv.st/live/sky-sports-racing"
   },
   {
     "name": "CNN",
