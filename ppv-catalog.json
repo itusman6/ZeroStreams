@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "New York Jets vs Los Angeles Chargers",
-    "poster": "https://static.ppvservices.st/assets/thumb/0d39ffb3a5ff50d457e65b331f6328cb-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-22/nyj-lac",
-    "starts_at": 1795381500,
-    "ends_at": 1795395900,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-22/nyj-lac"
-  },
-  {
     "name": "Las Vegas Raiders vs Denver Broncos",
     "poster": "https://static.ppvservices.st/assets/thumb/18237f32342c494f83ae1c0e8073e760-thumbnail.jpg",
     "tag": "NFL",
