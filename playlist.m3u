@@ -23,6 +23,14 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="LIVE 24/7 — NBA | Boston Celtics vs Golden State Warriors — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Boston Celtics vs Golden State Warriors — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="LIVE 24/7 — NBA | Boston Celtics vs Golden State Warriors — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Boston Celtics vs Golden State Warriors — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="LIVE 24/7 — NBA | Dallas Mavericks vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",LIVE 24/7 — NBA | Dallas Mavericks vs Utah Jazz
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -255,11 +263,3 @@ https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="LIVE 2026-11-23 01:30 UTC — NBA | Boston Celtics vs Golden State Warriors — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/e7a99ae793cc3ff1510e270626deaf3e-thumbnail.jpg" group-title="NBA",LIVE 2026-11-23 01:30 UTC — NBA | Boston Celtics vs Golden State Warriors — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="LIVE 2026-11-23 01:30 UTC — NBA | Boston Celtics vs Golden State Warriors — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/e7a99ae793cc3ff1510e270626deaf3e-thumbnail.jpg" group-title="NBA",LIVE 2026-11-23 01:30 UTC — NBA | Boston Celtics vs Golden State Warriors — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba.m3u8
