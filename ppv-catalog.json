@@ -770,28 +770,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Levante vs Elche",
-    "poster": "https://static.ppvservices.st/assets/thumb/454292eab1feb61ebb977d4013714e59-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-23/lev-elc",
-    "starts_at": 1795464000,
-    "ends_at": 1795473000,
-    "status": "live",
-    "page": "https://ppv.st/live/laliga/2026-11-23/lev-elc"
-  },
-  {
-    "name": "Brentford vs Everton",
-    "poster": "https://static.ppvservices.st/assets/thumb/5808eb439674e7ab4f6aea80319c64bf-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-23/bre-eve",
-    "starts_at": 1795464000,
-    "ends_at": 1795473000,
-    "status": "live",
-    "page": "https://ppv.st/live/pl/2026-11-23/bre-eve"
-  },
-  {
     "name": "St. Louis CITY SC vs LAFC",
     "poster": "https://static.ppvservices.st/assets/thumb/dd3e757b37471d7e0a4738249ea695c8-thumbnail.jpg",
     "tag": "MLS",
