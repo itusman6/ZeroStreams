@@ -67,6 +67,18 @@ https://temp.formaturamaxi.com.br/nfl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="LIVE 24/7 — NFL RedZone — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL RedZone — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -251,15 +263,3 @@ https://temp.formaturamaxi.com.br/sn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg" group-title="NFL",LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg" group-title="NFL",LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 3" tvg-logo="https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg" group-title="NFL",LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl.m3u8

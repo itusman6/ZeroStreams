@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Minnesota Vikings vs San Francisco 49ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-22/min-sf",
-    "starts_at": 1795396800,
-    "ends_at": 1795411200,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-22/min-sf"
-  },
-  {
     "name": "Cincinnati Bengals vs Washington Commanders",
     "poster": "https://static.ppvservices.st/assets/thumb/fc28cf61169d475e5c04405791cebec9-thumbnail.jpg",
     "tag": "NFL",
