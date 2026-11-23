@@ -191,6 +191,10 @@ https://admin2.formaturamaxi.com.br/bein.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9811edc229697c25" tvg-name="LIVE 24/7 — Soccer | Querétaro vs Necaxa" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Querétaro vs Necaxa
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8e2d0cc056e1a708" tvg-name="LIVE 24/7 — Soccer | RB Bragantino vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | RB Bragantino vs Vasco Gama
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -239,10 +243,6 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9811edc229697c25" tvg-name="LIVE 2026-11-23 01:00 UTC — Soccer | Querétaro vs Necaxa" tvg-logo="https://static.ppvservices.st/assets/thumb/64187500a64cc2a234854d9b96e9bc7c-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-23 01:00 UTC — Soccer | Querétaro vs Necaxa
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg" group-title="NFL",LIVE 2026-11-23 01:20 UTC — NFL | Minnesota Vikings vs San Francisco 49ers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
