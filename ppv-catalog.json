@@ -106,7 +106,7 @@
     "uri": "nba/2026-11-22/orl-wsh",
     "starts_at": 1795392000,
     "ends_at": 1795402800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-22/orl-wsh"
   },
   {
@@ -117,7 +117,7 @@
     "uri": "nba/2026-11-22/den-chi",
     "starts_at": 1795392000,
     "ends_at": 1795402800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-22/den-chi"
   },
   {
@@ -128,7 +128,7 @@
     "uri": "nba/2026-11-22/dal-utah",
     "starts_at": 1795392000,
     "ends_at": 1795402800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-22/dal-utah"
   },
   {
@@ -286,17 +286,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Grand Slam of Darts | Day 9, Session 2",
-    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-    "tag": "PDC Darts",
-    "category": "Darts",
-    "uri": "grand-slam-of-darts--day-9-session-2-32260",
-    "starts_at": 1795374000,
-    "ends_at": 1795392000,
-    "status": "live",
-    "page": "https://ppv.st/live/grand-slam-of-darts--day-9-session-2-32260"
-  },
-  {
     "name": "Guadalajara vs Cruz Azul",
     "poster": "https://static.ppvservices.st/assets/thumb/fa165952d1106a56f3b52ef1e1245c27-thumbnail.jpg",
     "tag": "Liga MX",
@@ -414,7 +403,7 @@
     "uri": "nhl/2026-11-22/edm-stl",
     "starts_at": 1795392000,
     "ends_at": 1795402800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-22/edm-stl"
   },
   {
@@ -425,7 +414,7 @@
     "uri": "nhl/2026-11-22/pit-dal",
     "starts_at": 1795392000,
     "ends_at": 1795402800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-22/pit-dal"
   },
   {
