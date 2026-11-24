@@ -451,17 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Ole Miss Rebels vs BYU Cougars",
-    "poster": "https://static.ppvservices.st/assets/thumb/08e71477a5a9bd2693efcf5bf0f05720-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-24/miss-byu",
-    "starts_at": 1795548600,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-24/miss-byu"
-  },
-  {
     "name": "Tennessee Volunteers vs Maryland Terrapins",
     "poster": "https://static.ppvservices.st/assets/thumb/773a303499e2cd31cffdf64de8baac98-thumbnail.jpg",
     "tag": "College Basketball",
@@ -491,7 +480,7 @@
     "uri": "cbb/2026-11-24/crei-mich",
     "starts_at": 1795559400,
     "ends_at": 1795570200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-24/crei-mich"
   },
   {
@@ -790,83 +779,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Arsenal vs Borussia Dortmund",
-    "poster": "https://static.ppvservices.st/assets/thumb/a7d217ae06d3122b9b6c9a6d95ae6dc3-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/ars-dor",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/ars-dor"
-  },
-  {
-    "name": "Como vs AEK Athens",
-    "poster": "https://static.ppvservices.st/assets/thumb/10335f7345fd88e51d45cbcf99af506d-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/como-aek",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/como-aek"
-  },
-  {
-    "name": "Feyenoord Rotterdam vs FC Porto",
-    "poster": "https://static.ppvservices.st/assets/thumb/f36c03e9162e142c159f15d390594589-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/fey-fcp",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/fey-fcp"
-  },
-  {
-    "name": "Manchester City vs Napoli",
-    "poster": "https://static.ppvservices.st/assets/thumb/b3fbae6fdcc457523358c78b369a8f08-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/mci-nap",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/mci-nap"
-  },
-  {
-    "name": "RB Leipzig vs Lens",
-    "poster": "https://static.ppvservices.st/assets/thumb/8f51ce06b6937515243e349395b1ee51-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/rbl-rcl",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/rbl-rcl"
-  },
-  {
-    "name": "Real Madrid vs PSV Eindhoven",
-    "poster": "https://static.ppvservices.st/assets/thumb/ad9c41ea1e4917e5b466564b41c2b550-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/rma-psv",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/rma-psv"
-  },
-  {
-    "name": "Slovan Bratislava vs Real Betis",
-    "poster": "https://static.ppvservices.st/assets/thumb/aba89bdf4e42b9dcc5834a481f24ae4c-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/slb-bet",
-    "starts_at": 1795550400,
-    "ends_at": 1795559400,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/slb-bet"
   },
   {
     "name": "San Jose Earthquakes vs Houston Dynamo FC",
