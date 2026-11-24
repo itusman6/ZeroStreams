@@ -2167,17 +2167,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Anaheim Ducks vs Seattle Kraken",
-    "poster": "https://static.ppvservices.st/assets/thumb/b1d5bc5aa95227f452c9cb42e6d68ec6-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/ana-sea",
-    "starts_at": 1795488000,
-    "ends_at": 1795498800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-23/ana-sea"
-  },
-  {
     "name": "Minnesota Wild vs San Jose Sharks",
     "poster": "https://static.ppvservices.st/assets/thumb/237ea1e4a92f545203728105506fcb81-thumbnail.jpg",
     "tag": "NHL",
