@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Cincinnati Bengals vs Washington Commanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/fc28cf61169d475e5c04405791cebec9-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-23/cin-wsh",
-    "starts_at": 1795482900,
-    "ends_at": 1795497300,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-23/cin-wsh"
-  },
-  {
     "name": "Green Bay Packers vs Los Angeles Rams",
     "poster": "https://static.ppvservices.st/assets/thumb/73b6a6cf548c308c700da5746a3cc363-thumbnail.jpg",
     "tag": "NFL",
