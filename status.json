@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T01:01:59.462206+00:00",
+  "updated_utc": "2026-11-24T01:16:27.067057+00:00",
   "pages": 35,
   "candidate_urls": 36,
   "live_urls": 0,
@@ -8,8 +8,8 @@
   "not_checked_urls": 36,
   "validation_mode": "discovery_only",
   "unavailable_urls": 0,
-  "live_entries": 30,
-  "upcoming_entries": 6,
+  "live_entries": 32,
+  "upcoming_entries": 4,
   "unsupported_pages": [],
   "errors": [],
   "ppv": {
