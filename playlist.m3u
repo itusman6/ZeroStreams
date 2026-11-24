@@ -131,11 +131,7 @@ https://admin2.formaturamaxi.com.br/nba8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg" group-title="NBA",LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8040a5cc707d62d1" tvg-name="LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg" group-title="NBA",LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.8040a5cc707d62d1" tvg-name="LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg" group-title="NBA",LIVE 2026-11-24 03:00 UTC — NBA | San Antonio Spurs vs Sacramento Kings
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba10.m3u8
