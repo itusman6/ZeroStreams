@@ -502,7 +502,7 @@
     "uri": "nba/2026-11-23/okc-ind",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/okc-ind"
   },
   {
@@ -513,7 +513,7 @@
     "uri": "nba/2026-11-23/mil-tor",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/mil-tor"
   },
   {
@@ -524,7 +524,7 @@
     "uri": "nba/2026-11-23/bkn-min",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/bkn-min"
   },
   {
@@ -559,17 +559,6 @@
     "ends_at": 1795492800,
     "status": "upcoming",
     "page": "https://ppv.st/live/cbb/2026-11-23/win-ill"
-  },
-  {
-    "name": "Denver Pioneers vs Kansas Jayhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/0c4755f5911eaa1ccfaa9fc3bfee2ba4-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-23/den-ku",
-    "starts_at": 1795482000,
-    "ends_at": 1795492800,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/cbb/2026-11-23/den-ku"
   },
   {
     "name": "Los Angeles Clippers vs Houston Rockets",
@@ -2141,7 +2130,7 @@
     "uri": "nhl/2026-11-23/la-mtl",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/la-mtl"
   },
   {
@@ -2152,7 +2141,7 @@
     "uri": "nhl/2026-11-23/cgy-ott",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/cgy-ott"
   },
   {
@@ -2163,7 +2152,7 @@
     "uri": "nhl/2026-11-23/tor-nyi",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/tor-nyi"
   },
   {
@@ -2174,7 +2163,7 @@
     "uri": "nhl/2026-11-23/uta-wpg",
     "starts_at": 1795480200,
     "ends_at": 1795491000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/uta-wpg"
   },
   {
