@@ -480,7 +480,7 @@
     "uri": "nba/2026-11-23/mem-cha",
     "starts_at": 1795478400,
     "ends_at": 1795489200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/mem-cha"
   },
   {
@@ -491,7 +491,7 @@
     "uri": "nba/2026-11-23/por-phi",
     "starts_at": 1795478400,
     "ends_at": 1795489200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/por-phi"
   },
   {
@@ -2130,7 +2130,7 @@
     "uri": "nhl/2026-11-23/cbj-nj",
     "starts_at": 1795478400,
     "ends_at": 1795489200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/cbj-nj"
   },
   {
