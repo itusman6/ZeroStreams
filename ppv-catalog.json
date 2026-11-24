@@ -792,28 +792,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Bodo/Glimt vs LASK Linz",
-    "poster": "https://static.ppvservices.st/assets/thumb/d7a63855217c2696b4c221290d3e80f6-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/bodo-las",
-    "starts_at": 1795542300,
-    "ends_at": 1795551300,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/bodo-las"
-  },
-  {
-    "name": "Galatasaray vs Aston Villa",
-    "poster": "https://static.ppvservices.st/assets/thumb/a34cc9763e84c539981dc313fed66e10-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-24/gal-avl",
-    "starts_at": 1795542300,
-    "ends_at": 1795551300,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-24/gal-avl"
-  },
-  {
     "name": "Arsenal vs Borussia Dortmund",
     "poster": "https://static.ppvservices.st/assets/thumb/a7d217ae06d3122b9b6c9a6d95ae6dc3-thumbnail.jpg",
     "tag": "Champions League",
