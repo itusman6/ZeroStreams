@@ -462,28 +462,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Memphis Grizzlies vs Charlotte Hornets",
-    "poster": "https://static.ppvservices.st/assets/thumb/234881f2cb32455111f7de60cb6324b5-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/mem-cha",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-23/mem-cha"
-  },
-  {
-    "name": "Portland Trail Blazers vs Philadelphia 76ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/fdc55e13dae68ab9e50b4b19b9ce2263-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/por-phi",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-23/por-phi"
-  },
-  {
     "name": "Oklahoma City Thunder vs Indiana Pacers",
     "poster": "https://static.ppvservices.st/assets/thumb/4ccb28335bd6091d59a1173a36093253-thumbnail.jpg",
     "tag": "NBA",
@@ -568,7 +546,7 @@
     "uri": "nba/2026-11-23/utah-lal",
     "starts_at": 1795489200,
     "ends_at": 1795500000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/utah-lal"
   },
   {
@@ -579,7 +557,7 @@
     "uri": "nba/2026-11-23/sa-sac",
     "starts_at": 1795489200,
     "ends_at": 1795500000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-23/sa-sac"
   },
   {
@@ -2101,17 +2079,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Columbus Blue Jackets vs New Jersey Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/6ca19d1fcd1fa2c4729e5842153f7c5a-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/cbj-nj",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-23/cbj-nj"
-  },
-  {
     "name": "Los Angeles Kings vs Montreal Canadiens",
     "poster": "https://static.ppvservices.st/assets/thumb/fd1ada708e6a37f71f47d2c94468f55c-thumbnail.jpg",
     "tag": "NHL",
@@ -2174,7 +2141,7 @@
     "uri": "nhl/2026-11-23/min-sj",
     "starts_at": 1795489200,
     "ends_at": 1795500000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-23/min-sj"
   },
   {
