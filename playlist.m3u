@@ -59,10 +59,18 @@ https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians
+#EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c7e1a957e30ffcd5" tvg-name="LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/l1max.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1e5ae10d67b94373" tvg-name="LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians — Feed 3
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d0502e525e8137ca" tvg-name="LIVE 24/7 — Soccer | Boca Juniors vs Independiente Rivadavia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Boca Juniors vs Independiente Rivadavia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
