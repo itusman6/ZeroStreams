@@ -47,10 +47,10 @@ https://admin2.formaturamaxi.com.br/football.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6d1f79a0de38e10a" tvg-name="LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.e1675bf1a671c224" tvg-name="LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/tudn.m3u8
+https://admin2.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8a5fc2aa8e51eea8" tvg-name="LIVE 24/7 — Soccer | Burnley vs Birmingham" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Burnley vs Birmingham
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
