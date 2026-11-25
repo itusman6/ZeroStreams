@@ -513,7 +513,7 @@
     "uri": "nba/2026-11-24/bos-wsh",
     "starts_at": 1795568400,
     "ends_at": 1795579200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-24/bos-wsh"
   },
   {
@@ -524,7 +524,7 @@
     "uri": "cbb/2026-11-24/ttu-lou",
     "starts_at": 1795568400,
     "ends_at": 1795579200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-24/ttu-lou"
   },
   {
@@ -2009,7 +2009,7 @@
     "uri": "nhl/2026-11-24/vgk-edm",
     "starts_at": 1795568400,
     "ends_at": 1795579200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-24/vgk-edm"
   },
   {
@@ -2042,7 +2042,7 @@
     "uri": "wwe/2026-11-24",
     "starts_at": 1795568400,
     "ends_at": 1795579200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/wwe/2026-11-24"
   },
   {
