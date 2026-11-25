@@ -7,11 +7,7 @@ https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5285be6bf66cb62e" tvg-name="LIVE 24/7 — MotoGP - Coverage — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",LIVE 24/7 — MotoGP - Coverage — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fd97b484e3a7af25" tvg-name="LIVE 24/7 — MotoGP - Coverage — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",LIVE 24/7 — MotoGP - Coverage — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.fd97b484e3a7af25" tvg-name="LIVE 24/7 — MotoGP - Coverage" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",LIVE 24/7 — MotoGP - Coverage
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
@@ -23,8 +19,12 @@ https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d257cc25c86c5ffb" tvg-name="LIVE 24/7 — Shared Channels | BEIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | BEIN — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="LIVE 24/7 — Shared Channels | GOLAZO — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | GOLAZO — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="LIVE 24/7 — Shared Channels | MAIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | MAIN — Shared Feed
@@ -35,70 +35,54 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.dad5f8bcb695d615" tvg-name="LIVE 24/7 — Shared Channels | PREM — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | PREM — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5285be6bf66cb62e" tvg-name="LIVE 24/7 — Shared Channels | TNT2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | TNT2 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a4d6e3c07d5d5fac" tvg-name="LIVE 24/7 — Shared Channels | TNT3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | TNT3 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.211ee88c79943f14" tvg-name="LIVE 24/7 — Shared Channels | TNT4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | TNT4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e1675bf1a671c224" tvg-name="LIVE 24/7 — Shared Channels | TUDN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | TUDN — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b8b1966c37ad1adc" tvg-name="LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Atlético Mineiro vs Corinthians
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/football.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d257cc25c86c5ffb" tvg-name="LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e1675bf1a671c224" tvg-name="LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Barcelona vs Sabah — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — Soccer | Burnley vs Birmingham" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Burnley vs Birmingham
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.46dde33ba5de0056" tvg-name="LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTINF:-1 tvg-id="zerostreams.3478b71b9f4285c2" tvg-name="LIVE 24/7 — Soccer | Lille vs Bayern München" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Lille vs Bayern München
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana3en.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b3652c403fb2bff0" tvg-name="LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana3es.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b78114e395df9d8f" tvg-name="LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 3" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Inter Milan vs Stuttgart — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana3pt.m3u8
+https://admin2.formaturamaxi.com.br/bayern.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b68f7bfa6a1b01f3" tvg-name="LIVE 24/7 — Soccer | PSG vs Roma" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | PSG vs Roma
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.40307ff61b25cf05" tvg-name="LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe
+#EXTINF:-1 tvg-id="zerostreams.8e1aa929bf9cb94f" tvg-name="LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/south.m3u8
+https://admin2.formaturamaxi.com.br/fener.m3u8
 #EXTINF:-1 tvg-id="zerostreams.20d9cc5d3537b3a2" tvg-name="LIVE 24/7 — Soccer | Slavia Praha vs Villarreal" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Slavia Praha vs Villarreal
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a4d6e3c07d5d5fac" tvg-name="LIVE 24/7 — Soccer | Stoke vs Millwall" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Stoke vs Millwall
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.dad5f8bcb695d615" tvg-name="LIVE 24/7 — Soccer | Toluca vs Atlas" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Toluca vs Atlas
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9e91899aab060fa5" tvg-name="UPCOMING 2026-11-25 20:00 UTC — Soccer | Club Brugge vs Liverpool — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/2ca022888f384b55b66804ce29f871bc-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-25 20:00 UTC — Soccer | Club Brugge vs Liverpool — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2pt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1e5ae10d67b94373" tvg-name="UPCOMING 2026-11-25 20:00 UTC — Soccer | Club Brugge vs Liverpool — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/2ca022888f384b55b66804ce29f871bc-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-25 20:00 UTC — Soccer | Club Brugge vs Liverpool — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/match3ru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b138901715f800c" tvg-name="UPCOMING 2026-11-25 20:00 UTC — Soccer | Sporting CP vs Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/9d94f7f3af859407a2e0a6c51019c622-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-25 20:00 UTC — Soccer | Sporting CP vs Manchester United
+#EXTINF:-1 tvg-id="zerostreams.a3a2e6ca57406aff" tvg-name="UPCOMING 2026-11-25 20:00 UTC — Soccer | Sporting CP vs Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/9d94f7f3af859407a2e0a6c51019c622-thumbnail.jpg" group-title="Soccer",UPCOMING 2026-11-25 20:00 UTC — Soccer | Sporting CP vs Manchester United
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/west.m3u8
+https://admin2.formaturamaxi.com.br/rte.m3u8
 #EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="UPCOMING 2026-11-26 00:00 UTC — NBA | Chicago Bulls vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/26fd11ca8c2fe2dfdb3ff5872fcc913b-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-26 00:00 UTC — NBA | Chicago Bulls vs Charlotte Hornets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
