@@ -704,28 +704,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Sabah FK vs Barcelona",
-    "poster": "https://static.ppvservices.st/assets/thumb/c1c8ab8e97f2dfb8e1c7e38111f6b10c-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-25/sab-bar",
-    "starts_at": 1795628700,
-    "ends_at": 1795637700,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-25/sab-bar"
-  },
-  {
-    "name": "Slavia Prague vs Villarreal",
-    "poster": "https://static.ppvservices.st/assets/thumb/f60060edcc6760995f934e4e48d76f75-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-25/slp-vil",
-    "starts_at": 1795628700,
-    "ends_at": 1795637700,
-    "status": "live",
-    "page": "https://ppv.st/live/ucl/2026-11-25/slp-vil"
-  },
-  {
     "name": "Atl\u00e9tico Madrid vs Viking FK",
     "poster": "https://static.ppvservices.st/assets/thumb/1361c5a83d1494781f2c8dbf12b7fc74-thumbnail.jpg",
     "tag": "Champions League",

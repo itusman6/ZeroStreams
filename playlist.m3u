@@ -31,10 +31,10 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="LIVE 24/7 — Shared Channels | NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — Shared Channels | NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | NBA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba.m3u8
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.dad5f8bcb695d615" tvg-name="LIVE 24/7 — Shared Channels | PREM — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | PREM — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -55,10 +55,6 @@ https://admin2.formaturamaxi.com.br/tudn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/football.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="LIVE 24/7 — Soccer | Burnley vs Birmingham" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Burnley vs Birmingham
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3478b71b9f4285c2" tvg-name="LIVE 24/7 — Soccer | Lille vs Bayern München" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Lille vs Bayern München
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -119,6 +115,10 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="UPCOMING 2026-11-26 00:30 UTC — NBA | Cleveland Cavaliers vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-26 00:30 UTC — NBA | Cleveland Cavaliers vs New York Knicks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="UPCOMING 2026-11-26 00:30 UTC — NBA | Minnesota Timberwolves vs Oklahoma City Thunder" tvg-logo="https://static.ppvservices.st/assets/thumb/b16e0385a0fc90d0acd3c810f90d32f2-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-26 00:30 UTC — NBA | Minnesota Timberwolves vs Oklahoma City Thunder
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
