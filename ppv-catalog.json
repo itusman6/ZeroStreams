@@ -469,7 +469,7 @@
     "uri": "nba/2026-11-24/det-orl",
     "starts_at": 1795564800,
     "ends_at": 1795575600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-24/det-orl"
   },
   {
@@ -480,7 +480,7 @@
     "uri": "cbb/2026-11-24/milw-fla",
     "starts_at": 1795564800,
     "ends_at": 1795575600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-24/milw-fla"
   },
   {
@@ -491,7 +491,7 @@
     "uri": "cbb/2026-11-24/van-osu",
     "starts_at": 1795564800,
     "ends_at": 1795575600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-24/van-osu"
   },
   {
@@ -502,7 +502,7 @@
     "uri": "cbb/2026-11-24/jax-iu",
     "starts_at": 1795564800,
     "ends_at": 1795575600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-24/jax-iu"
   },
   {
