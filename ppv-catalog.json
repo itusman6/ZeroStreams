@@ -451,17 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Arizona State Sun Devils vs LSU Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/1d7f43dba162b8f5bb3f056753ff9662-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-25/asu-lsu",
-    "starts_at": 1795633200,
-    "ends_at": 1795644000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-25/asu-lsu"
-  },
-  {
     "name": "Ole Miss Rebels vs Arizona Wildcats",
     "poster": "https://static.ppvservices.st/assets/thumb/5b616639860c46507420cb9a04294a54-thumbnail.jpg",
     "tag": "College Basketball",
@@ -491,7 +480,7 @@
     "uri": "nba/2026-11-25/mia-phi",
     "starts_at": 1795644000,
     "ends_at": 1795654800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/mia-phi"
   },
   {
@@ -502,7 +491,7 @@
     "uri": "cbb/2026-11-25/sou-neb",
     "starts_at": 1795644000,
     "ends_at": 1795654800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-25/sou-neb"
   },
   {
@@ -513,7 +502,7 @@
     "uri": "cbb/2026-11-25/mem-psu",
     "starts_at": 1795644000,
     "ends_at": 1795654800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-25/mem-psu"
   },
   {
