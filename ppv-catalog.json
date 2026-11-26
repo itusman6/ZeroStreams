@@ -29,7 +29,7 @@
     "uri": "nfl/2026-11-26/phi-dal",
     "starts_at": 1795728600,
     "ends_at": 1795743000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-26/phi-dal"
   },
   {
@@ -480,7 +480,7 @@
     "uri": "cbb/2026-11-26/ark-msu",
     "starts_at": 1795728600,
     "ends_at": 1795739400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-26/ark-msu"
   },
   {
@@ -491,7 +491,7 @@
     "uri": "cbb/2026-11-26/usu-usc",
     "starts_at": 1795728600,
     "ends_at": 1795739400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cbb/2026-11-26/usu-usc"
   },
   {
