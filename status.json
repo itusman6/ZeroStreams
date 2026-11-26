@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-26T17:46:30.997803+00:00",
+  "updated_utc": "2026-11-26T18:02:14.566012+00:00",
   "pages": 52,
   "candidate_urls": 46,
   "live_urls": 0,
@@ -8,15 +8,15 @@
   "not_checked_urls": 46,
   "validation_mode": "discovery_only",
   "unavailable_urls": 0,
-  "live_entries": 35,
-  "upcoming_entries": 11,
+  "live_entries": 38,
+  "upcoming_entries": 8,
   "unsupported_pages": [],
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 192,
+    "active_events": 191,
     "direct_candidates": 0,
-    "embed_only_events": 192,
+    "embed_only_events": 191,
     "errors": []
   },
   "event_groups": 42,

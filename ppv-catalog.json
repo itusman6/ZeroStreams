@@ -18,7 +18,7 @@
     "uri": "nfl/2026-11-26/chi-det",
     "starts_at": 1795716000,
     "ends_at": 1795730400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-26/chi-det"
   },
   {
@@ -768,17 +768,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Kairat Almaty vs Mj\u00e4llby AIF",
-    "poster": "https://static.ppvservices.st/assets/thumb/fe632a967c2b9fa48f4fdeb21923341c-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-26/kai-mja",
-    "starts_at": 1795707000,
-    "ends_at": 1795716000,
-    "status": "live",
-    "page": "https://ppv.st/live/uecl/2026-11-26/kai-mja"
   },
   {
     "name": "Besiktas vs Hapoel Be'er",
