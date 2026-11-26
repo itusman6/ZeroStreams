@@ -451,17 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "South Carolina Gamecocks vs USC Trojans",
-    "poster": "https://static.ppvservices.st/assets/thumb/852add9543d248107b27d37b31be4b0f-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-25/sc-usc",
-    "starts_at": 1795642200,
-    "ends_at": 1795653000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-25/sc-usc"
-  },
-  {
     "name": "Miami Heat vs Philadelphia 76ers",
     "poster": "https://static.ppvservices.st/assets/thumb/2a09f23a6f6e5186d3a92bec589691e4-thumbnail.jpg",
     "tag": "NBA",
@@ -535,7 +524,7 @@
     "uri": "nba/2026-11-25/cle-ny",
     "starts_at": 1795653000,
     "ends_at": 1795663800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/cle-ny"
   },
   {
@@ -546,7 +535,7 @@
     "uri": "nba/2026-11-25/min-okc",
     "starts_at": 1795653000,
     "ends_at": 1795663800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/min-okc"
   },
   {
@@ -1910,7 +1899,7 @@
     "uri": "nhl/2026-11-25/van-det",
     "starts_at": 1795653000,
     "ends_at": 1795663800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-25/van-det"
   },
   {
