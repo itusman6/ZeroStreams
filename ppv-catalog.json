@@ -1925,17 +1925,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Chicago Blackhawks vs Seattle Kraken",
-    "poster": "https://static.ppvservices.st/assets/thumb/51754374bd2db4fe0b9618baf486985d-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/chi-sea",
-    "starts_at": 1795660800,
-    "ends_at": 1795671600,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/chi-sea"
-  },
-  {
     "name": "San Jose Sharks vs Anaheim Ducks",
     "poster": "https://static.ppvservices.st/assets/thumb/ee5da4c1d35f8371f3738e1064831ebb-thumbnail.jpg",
     "tag": "NHL",
