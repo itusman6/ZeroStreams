@@ -451,17 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "BYU Cougars vs Providence Friars",
-    "poster": "https://static.ppvservices.st/assets/thumb/d60f6d48e6f9313256aa096224b09ff5-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-25/byu-prov",
-    "starts_at": 1795645800,
-    "ends_at": 1795656600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-25/byu-prov"
-  },
-  {
     "name": "Chicago Bulls vs Charlotte Hornets",
     "poster": "https://static.ppvservices.st/assets/thumb/26fd11ca8c2fe2dfdb3ff5872fcc913b-thumbnail.jpg",
     "tag": "NBA",
@@ -535,7 +524,7 @@
     "uri": "nba/2026-11-25/phx-hou",
     "starts_at": 1795656600,
     "ends_at": 1795667400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/phx-hou"
   },
   {
