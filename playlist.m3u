@@ -115,6 +115,10 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bayern.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8190a834418898d3" tvg-name="LIVE 24/7 — Soccer | Monterrey vs América" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Monterrey vs América
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8e1aa929bf9cb94f" tvg-name="LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Shakhtar Donetsk vs Fenerbahçe
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
