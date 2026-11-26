@@ -451,28 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Cleveland Cavaliers vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-25/cle-ny",
-    "starts_at": 1795653000,
-    "ends_at": 1795663800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-25/cle-ny"
-  },
-  {
-    "name": "Minnesota Timberwolves vs Oklahoma City Thunder",
-    "poster": "https://static.ppvservices.st/assets/thumb/b16e0385a0fc90d0acd3c810f90d32f2-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-25/min-okc",
-    "starts_at": 1795653000,
-    "ends_at": 1795663800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-25/min-okc"
-  },
-  {
     "name": "Los Angeles Clippers vs Memphis Grizzlies",
     "poster": "https://static.ppvservices.st/assets/thumb/17d10f608b42265a3425d225d755490b-thumbnail.jpg",
     "tag": "NBA",
@@ -1736,17 +1714,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Vancouver Canucks vs Detroit Red Wings",
-    "poster": "https://static.ppvservices.st/assets/thumb/ee518ed8c85346cc0c8cc3dafcefd136-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/van-det",
-    "starts_at": 1795653000,
-    "ends_at": 1795663800,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/van-det"
   },
   {
     "name": "Nashville Predators vs Dallas Stars",
