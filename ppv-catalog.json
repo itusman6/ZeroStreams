@@ -1925,17 +1925,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Montreal Canadiens vs Colorado Avalanche",
-    "poster": "https://static.ppvservices.st/assets/thumb/f40016d76b70336ac142dc8c06f96497-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/mtl-col",
-    "starts_at": 1795660200,
-    "ends_at": 1795671000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/mtl-col"
-  },
-  {
     "name": "Chicago Blackhawks vs Seattle Kraken",
     "poster": "https://static.ppvservices.st/assets/thumb/51754374bd2db4fe0b9618baf486985d-thumbnail.jpg",
     "tag": "NHL",
