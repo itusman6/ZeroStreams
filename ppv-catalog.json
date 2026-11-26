@@ -451,28 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Chicago Bulls vs Charlotte Hornets",
-    "poster": "https://static.ppvservices.st/assets/thumb/26fd11ca8c2fe2dfdb3ff5872fcc913b-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-25/chi-cha",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-25/chi-cha"
-  },
-  {
-    "name": "UConn Huskies vs Duke Blue Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/ba718599fdf7657c587ad4fb377497d0-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-25/conn-duke",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-25/conn-duke"
-  },
-  {
     "name": "Cleveland Cavaliers vs New York Knicks",
     "poster": "https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg",
     "tag": "NBA",
@@ -535,7 +513,7 @@
     "uri": "nba/2026-11-25/sac-gs",
     "starts_at": 1795662000,
     "ends_at": 1795672800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/sac-gs"
   },
   {
@@ -546,7 +524,7 @@
     "uri": "nba/2026-11-25/sa-por",
     "starts_at": 1795662000,
     "ends_at": 1795672800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-25/sa-por"
   },
   {
@@ -1760,94 +1738,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Winnipeg Jets vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/08b253f4acd5ecb11873f808514a5a65-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/wpg-bos",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/wpg-bos"
-  },
-  {
-    "name": "New York Rangers vs Buffalo Sabres",
-    "poster": "https://static.ppvservices.st/assets/thumb/e7df1b277a4c7a4b0a27e3328bd2243a-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/nyr-buf",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/nyr-buf"
-  },
-  {
-    "name": "Carolina Hurricanes vs Tampa Bay Lightning",
-    "poster": "https://static.ppvservices.st/assets/thumb/5e722f947506b476b1c32322adfb65b2-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/car-tb",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/car-tb"
-  },
-  {
-    "name": "Ottawa Senators vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/f19b9dad95e749ccf1432f3156d20132-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/ott-fla",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/ott-fla"
-  },
-  {
-    "name": "St. Louis Blues vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/34442f148352bbb8d29eaf1dcdc35401-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/stl-nyi",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/stl-nyi"
-  },
-  {
-    "name": "Calgary Flames vs Pittsburgh Penguins",
-    "poster": "https://static.ppvservices.st/assets/thumb/b8da89a7846c268fc80f9252482dd2b0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/cgy-pit",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/cgy-pit"
-  },
-  {
-    "name": "Philadelphia Flyers vs Washington Capitals",
-    "poster": "https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/phi-wsh",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/phi-wsh"
-  },
-  {
-    "name": "New Jersey Devils vs Columbus Blue Jackets",
-    "poster": "https://static.ppvservices.st/assets/thumb/e50f0e9ec23a1e202e5a8ae178acebc9-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-25/nj-cbj",
-    "starts_at": 1795651200,
-    "ends_at": 1795662000,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-25/nj-cbj"
-  },
-  {
     "name": "Vancouver Canucks vs Detroit Red Wings",
     "poster": "https://static.ppvservices.st/assets/thumb/ee518ed8c85346cc0c8cc3dafcefd136-thumbnail.jpg",
     "tag": "NHL",
@@ -1910,7 +1800,7 @@
     "uri": "nhl/2026-11-25/sj-ana",
     "starts_at": 1795662000,
     "ends_at": 1795672800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-25/sj-ana"
   },
   {
