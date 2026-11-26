@@ -1177,6 +1177,17 @@
     "page": "https://ppv.st/live/eredivisie/2026-11-27/gro-wil"
   },
   {
+    "name": "FC Dordrecht vs Vitesse",
+    "poster": "https://static.ppvservices.st/assets/thumb/366d387045664c189cb67ce562dfe634-thumbnail.jpg",
+    "tag": "Keuken Kampioen Divisie",
+    "category": "Football",
+    "uri": "keuken-kampioen-divisie/2026-11-27/dor-vit",
+    "starts_at": 1795806000,
+    "ends_at": 1795815000,
+    "status": "upcoming",
+    "page": "https://ppv.st/live/keuken-kampioen-divisie/2026-11-27/dor-vit"
+  },
+  {
     "name": "Werder Bremen vs Borussia M\u00f6nchengladbach",
     "poster": "https://static.ppvservices.st/assets/thumb/5baae9270e3796c90e0f455f651357c0-thumbnail.jpg",
     "tag": "Bundesliga",
