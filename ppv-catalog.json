@@ -451,17 +451,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Phoenix Suns vs Houston Rockets",
-    "poster": "https://static.ppvservices.st/assets/thumb/6897e85df79e1e5103cbc5b62854b092-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-25/phx-hou",
-    "starts_at": 1795656600,
-    "ends_at": 1795667400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-25/phx-hou"
-  },
-  {
     "name": "Sacramento Kings vs Golden State Warriors",
     "poster": "https://static.ppvservices.st/assets/thumb/5f9632e771be2c269ed2300e1db03312-thumbnail.jpg",
     "tag": "NBA",
