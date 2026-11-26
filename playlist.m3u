@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 24/7 — Live | GTA VI Modding Stream" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | GTA VI Modding Stream
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3418396e91fb6b60" tvg-name="LIVE 24/7 — Live | TCU vs Texas Tech" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Live",LIVE 24/7 — Live | TCU vs Texas Tech
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -19,14 +15,14 @@ https://admin2.formaturamaxi.com.br/ppv2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fs1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="LIVE 24/7 — NFL on Netflix — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL on Netflix — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 24/7 — NFL on Netflix — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL on Netflix — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="LIVE 24/7 — NFL on Netflix — Feed 1" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL on Netflix — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nflalt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="LIVE 24/7 — NFL on Netflix — Feed 2" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",LIVE 24/7 — NFL on Netflix — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="LIVE 24/7 — NHL | Calgary Flames vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Calgary Flames vs New Jersey Devils
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -87,6 +83,10 @@ https://admin2.formaturamaxi.com.br/nhl11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl13.m3u8
+#EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 24/7 — Shared Channels | ABBIECADABRI — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | ABBIECADABRI — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d257cc25c86c5ffb" tvg-name="LIVE 24/7 — Shared Channels | BEIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",LIVE 24/7 — Shared Channels | BEIN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -179,18 +179,6 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e3bed2a19cf9f11a" tvg-name="UPCOMING 2026-11-26 21:30 UTC — NFL | Philadelphia Eagles vs Dallas Cowboys — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-26 21:30 UTC — NFL | Philadelphia Eagles vs Dallas Cowboys — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.33144bfa38360178" tvg-name="UPCOMING 2026-11-26 21:30 UTC — NFL | Philadelphia Eagles vs Dallas Cowboys — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-26 21:30 UTC — NFL | Philadelphia Eagles vs Dallas Cowboys — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.349af90cb89a616a" tvg-name="UPCOMING 2026-11-27 01:20 UTC — NFL | Kansas City Chiefs vs Buffalo Bills" tvg-logo="https://static.ppvservices.st/assets/thumb/545dc6828165d0f41414dcd148fe5ecb-thumbnail.jpg" group-title="NFL",UPCOMING 2026-11-27 01:20 UTC — NFL | Kansas City Chiefs vs Buffalo Bills
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.90e298ac81863038" tvg-name="UPCOMING 2026-11-28 00:30 UTC — NBA | Milwaukee Bucks vs Detroit Pistons" tvg-logo="https://static.ppvservices.st/assets/thumb/8ca603d900763d4607c088ec81390f47-thumbnail.jpg" group-title="NBA",UPCOMING 2026-11-28 00:30 UTC — NBA | Milwaukee Bucks vs Detroit Pistons
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
