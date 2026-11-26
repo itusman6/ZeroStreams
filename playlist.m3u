@@ -119,6 +119,10 @@ https://admin2.formaturamaxi.com.br/bayern.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/lyon.m3u8
+#EXTINF:-1 tvg-id="zerostreams.740063ade6a0b0b2" tvg-name="LIVE 24/7 — Soccer | Marseille vs Levski Sofia" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Marseille vs Levski Sofia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/marseille.m3u8
 #EXTINF:-1 tvg-id="zerostreams.211ee88c79943f14" tvg-name="LIVE 24/7 — Soccer | Milan vs Olympiakos" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",LIVE 24/7 — Soccer | Milan vs Olympiakos
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -131,10 +135,6 @@ https://admin2.formaturamaxi.com.br/tnt3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/vixmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.740063ade6a0b0b2" tvg-name="LIVE 2026-11-26 17:45 UTC — Soccer | Marseille vs Levski Sofia" tvg-logo="https://static.ppvservices.st/assets/thumb/8c8980c25dbdc02b829fe4e36398f6e3-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-26 17:45 UTC — Soccer | Marseille vs Levski Sofia
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/marseille.m3u8
 #EXTINF:-1 tvg-id="zerostreams.79b1a2f54749aa94" tvg-name="LIVE 2026-11-26 18:00 UTC — NFL | Chicago Bears vs Detroit Lions — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/67f27827b023c3ccb472dd21204d01de-thumbnail.jpg" group-title="NFL",LIVE 2026-11-26 18:00 UTC — NFL | Chicago Bears vs Detroit Lions — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
