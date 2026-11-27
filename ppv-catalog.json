@@ -1481,7 +1481,7 @@
     "uri": "nhl/2026-11-27/tor-bos",
     "starts_at": 1795802400,
     "ends_at": 1795813200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/tor-bos"
   },
   {
@@ -1492,7 +1492,7 @@
     "uri": "nhl/2026-11-27/cgy-nj",
     "starts_at": 1795802400,
     "ends_at": 1795813200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/cgy-nj"
   },
   {
@@ -1503,7 +1503,7 @@
     "uri": "nhl/2026-11-27/uta-nsh",
     "starts_at": 1795802400,
     "ends_at": 1795813200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/uta-nsh"
   },
   {
