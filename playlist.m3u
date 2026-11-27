@@ -51,6 +51,10 @@ https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="LIVE 24/7 — NHL | Dallas Stars vs St. Louis Blues" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Dallas Stars vs St. Louis Blues
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7ed61ed6c4d59f2d" tvg-name="LIVE 24/7 — NHL | Toronto Maple Leafs vs Boston Bruins" tvg-logo="https://raw.githubusercontent.com/itusman6/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",LIVE 24/7 — NHL | Toronto Maple Leafs vs Boston Bruins
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -107,10 +111,6 @@ https://admin2.formaturamaxi.com.br/skyde.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="LIVE 2026-11-27 19:00 UTC — NHL | Dallas Stars vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/1d48dee2057540ecf0fdf9d48b90aef6-thumbnail.jpg" group-title="NHL",LIVE 2026-11-27 19:00 UTC — NHL | Dallas Stars vs St. Louis Blues
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3679c10d99629697" tvg-name="LIVE 2026-11-27 19:45 UTC — Soccer | Venezia vs Bologna" tvg-logo="https://static.ppvservices.st/assets/thumb/a71f7b095e9d509c0a7b264c6198a2ce-thumbnail.jpg" group-title="Soccer",LIVE 2026-11-27 19:45 UTC — Soccer | Venezia vs Bologna
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
