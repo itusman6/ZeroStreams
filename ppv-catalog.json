@@ -11,28 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Nebraska Cornhuskers vs Iowa Hawkeyes",
-    "poster": "https://static.ppvservices.st/assets/thumb/1e7f9038b4af818221287acd7bd8b5c0-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-27/neb-iowa",
-    "starts_at": 1795798800,
-    "ends_at": 1795813200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-27/neb-iowa"
-  },
-  {
-    "name": "Mississippi State Bulldogs vs Ole Miss Rebels",
-    "poster": "https://static.ppvservices.st/assets/thumb/6aa58ec8c0cabbb57dea3aef3a635c9b-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-27/msst-miss",
-    "starts_at": 1795798800,
-    "ends_at": 1795813200,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-27/msst-miss"
-  },
-  {
     "name": "Denver Broncos vs Pittsburgh Steelers",
     "poster": "https://static.ppvservices.st/assets/thumb/ba976e2604c62434eb25dbe611f97b10-thumbnail.jpg",
     "tag": "NFL",
@@ -1463,39 +1441,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Toronto Maple Leafs vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/69cf493fd5f2dee3f0a38d72d554f746-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/tor-bos",
-    "starts_at": 1795802400,
-    "ends_at": 1795813200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/tor-bos"
-  },
-  {
-    "name": "Calgary Flames vs New Jersey Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/15efd0c47aaec85204c94568b1246b11-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/cgy-nj",
-    "starts_at": 1795802400,
-    "ends_at": 1795813200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/cgy-nj"
-  },
-  {
-    "name": "Utah Mammoth vs Nashville Predators",
-    "poster": "https://static.ppvservices.st/assets/thumb/493d1aa6f3309827038ea06181b73266-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/uta-nsh",
-    "starts_at": 1795802400,
-    "ends_at": 1795813200,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/uta-nsh"
-  },
-  {
     "name": "Dallas Stars vs St. Louis Blues",
     "poster": "https://static.ppvservices.st/assets/thumb/1d48dee2057540ecf0fdf9d48b90aef6-thumbnail.jpg",
     "tag": "NHL",
@@ -1558,7 +1503,7 @@
     "uri": "nhl/2026-11-27/col-min",
     "starts_at": 1795813200,
     "ends_at": 1795824000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/col-min"
   },
   {
@@ -1569,7 +1514,7 @@
     "uri": "nhl/2026-11-27/la-ana",
     "starts_at": 1795813200,
     "ends_at": 1795824000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/la-ana"
   },
   {
@@ -1580,7 +1525,7 @@
     "uri": "nhl/2026-11-27/vgk-sj",
     "starts_at": 1795813200,
     "ends_at": 1795824000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/vgk-sj"
   },
   {
