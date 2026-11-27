@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Philadelphia Eagles vs Dallas Cowboys",
-    "poster": "https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-26/phi-dal",
-    "starts_at": 1795728600,
-    "ends_at": 1795743000,
-    "status": "live",
-    "page": "https://ppv.st/live/nfl/2026-11-26/phi-dal"
-  },
-  {
     "name": "TCU Horned Frogs vs Texas Tech Red Raiders",
     "poster": "https://static.ppvservices.st/assets/thumb/25d718cccc664a8b2232d451856393c3-thumbnail.jpg",
     "tag": "College Football",
@@ -40,7 +29,7 @@
     "uri": "nfl/2026-11-26/kc-buf",
     "starts_at": 1795742400,
     "ends_at": 1795756800,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-26/kc-buf"
   },
   {
