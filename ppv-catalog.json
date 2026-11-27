@@ -40,7 +40,7 @@
     "uri": "nfl/2026-11-27/den-pit",
     "starts_at": 1795809600,
     "ends_at": 1795824000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nfl/2026-11-27/den-pit"
   },
   {
@@ -777,7 +777,7 @@
     "uri": "laliga/2026-11-27/lev-rac",
     "starts_at": 1795809600,
     "ends_at": 1795818600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/laliga/2026-11-27/lev-rac"
   },
   {
@@ -788,7 +788,7 @@
     "uri": "pl/2026-11-27/nfo-che",
     "starts_at": 1795809600,
     "ends_at": 1795818600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/pl/2026-11-27/nfo-che"
   },
   {
@@ -1514,7 +1514,7 @@
     "uri": "nhl/2026-11-27/ott-tb",
     "starts_at": 1795809600,
     "ends_at": 1795820400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/ott-tb"
   },
   {
@@ -1525,7 +1525,7 @@
     "uri": "nhl/2026-11-27/van-phi",
     "starts_at": 1795809600,
     "ends_at": 1795820400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/van-phi"
   },
   {
@@ -1536,7 +1536,7 @@
     "uri": "nhl/2026-11-27/fla-wsh",
     "starts_at": 1795809600,
     "ends_at": 1795820400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/fla-wsh"
   },
   {
@@ -1547,7 +1547,7 @@
     "uri": "nhl/2026-11-27/det-cbj",
     "starts_at": 1795809600,
     "ends_at": 1795820400,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nhl/2026-11-27/det-cbj"
   },
   {
