@@ -18,7 +18,7 @@
     "uri": "cfb/2026-11-27/neb-iowa",
     "starts_at": 1795798800,
     "ends_at": 1795813200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-27/neb-iowa"
   },
   {
@@ -29,7 +29,7 @@
     "uri": "cfb/2026-11-27/msst-miss",
     "starts_at": 1795798800,
     "ends_at": 1795813200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/cfb/2026-11-27/msst-miss"
   },
   {
@@ -680,17 +680,6 @@
     "ends_at": 10800,
     "status": "live",
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Players Championship Finals | Day 1 Session 1",
-    "poster": "https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg",
-    "tag": "Darts",
-    "category": "Darts",
-    "uri": "players-championship-finals--day-1-session-1-33037",
-    "starts_at": 1795784400,
-    "ends_at": 1795798800,
-    "status": "live",
-    "page": "https://ppv.st/live/players-championship-finals--day-1-session-1-33037"
   },
   {
     "name": "Players Championship Finals | Day 1 Session 2",
@@ -1657,7 +1646,7 @@
     "uri": "f1/2026/qatar/fp2",
     "starts_at": 1795798800,
     "ends_at": 1795806000,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/f1/2026/qatar/fp2"
   },
   {
