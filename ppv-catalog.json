@@ -396,28 +396,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Texas Tech Red Raiders vs Oregon Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/2ed8a78272d051f80fd37cf9774b9afb-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-26/ttu-ore",
-    "starts_at": 1795753800,
-    "ends_at": 1795764600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-26/ttu-ore"
-  },
-  {
-    "name": "Baylor Bears vs Gonzaga Bulldogs",
-    "poster": "https://static.ppvservices.st/assets/thumb/82332d38abac90ee04f07a273b7ad6b5-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-26/bay-gonz",
-    "starts_at": 1795753800,
-    "ends_at": 1795764600,
-    "status": "live",
-    "page": "https://ppv.st/live/cbb/2026-11-26/bay-gonz"
-  },
-  {
     "name": "Virginia Cavaliers vs Xavier Musketeers",
     "poster": "https://static.ppvservices.st/assets/thumb/6b1613335259a1baab0cd5990fabafb5-thumbnail.jpg",
     "tag": "College Basketball",
