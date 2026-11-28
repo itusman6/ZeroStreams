@@ -11,17 +11,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "West Virginia Mountaineers vs Utah Utes",
-    "poster": "https://static.ppvservices.st/assets/thumb/64cf8a138bda6758ba6a26f1ca39bb4d-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-27/wvu-utah",
-    "starts_at": 1795831200,
-    "ends_at": 1795845600,
-    "status": "live",
-    "page": "https://ppv.st/live/cfb/2026-11-27/wvu-utah"
-  },
-  {
     "name": "Notre Dame Fighting Irish vs Syracuse Orange",
     "poster": "https://static.ppvservices.st/assets/thumb/59aa176a85de8afa8596d8c5ddca89a6-thumbnail.jpg",
     "tag": "College Football",
@@ -570,17 +559,6 @@
     "ends_at": 1795993200,
     "status": "upcoming",
     "page": "https://ppv.st/live/players-championship-finals--day-3-session-2-33047"
-  },
-  {
-    "name": "Real Salt Lake vs Vancouver Whitecaps",
-    "poster": "https://static.ppvservices.st/assets/thumb/a69bd9c6b636e2e1ab1fde35c4a8c810-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-27/rsl-van",
-    "starts_at": 1795834800,
-    "ends_at": 1795845600,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-27/rsl-van"
   },
   {
     "name": "Real Betis vs Rayo Vallecano",
