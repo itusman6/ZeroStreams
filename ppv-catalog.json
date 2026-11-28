@@ -352,17 +352,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Atlanta Hawks vs Boston Celtics",
-    "poster": "https://static.ppvservices.st/assets/thumb/9e1d713d51433b3b4ae9828aea173f98-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/atl-bos",
-    "starts_at": 1795827600,
-    "ends_at": 1795838400,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/atl-bos"
-  },
-  {
     "name": "Memphis Grizzlies vs Minnesota Timberwolves",
     "poster": "https://static.ppvservices.st/assets/thumb/9b6af34e377a3bfbc75d08462e3ca1a7-thumbnail.jpg",
     "tag": "NBA",
@@ -548,17 +537,6 @@
     "ends_at": 1795993200,
     "status": "upcoming",
     "page": "https://ppv.st/live/players-championship-finals--day-3-session-2-33047"
-  },
-  {
-    "name": "Columbus Crew vs Inter Miami CF",
-    "poster": "https://static.ppvservices.st/assets/thumb/96dc5274feda674f51eacac2d955beac-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-27/clb-mia",
-    "starts_at": 1795827600,
-    "ends_at": 1795838400,
-    "status": "live",
-    "page": "https://ppv.st/live/mls/2026-11-27/clb-mia"
   },
   {
     "name": "Real Salt Lake vs Vancouver Whitecaps",
@@ -1221,28 +1199,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Pittsburgh Penguins vs Buffalo Sabres",
-    "poster": "https://static.ppvservices.st/assets/thumb/96d11bc805680a8ec53c8fb2c872cb99-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/pit-buf",
-    "starts_at": 1795827600,
-    "ends_at": 1795838400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/pit-buf"
-  },
-  {
-    "name": "Seattle Kraken vs Edmonton Oilers",
-    "poster": "https://static.ppvservices.st/assets/thumb/8ac945ebf90d7dfbb9efd9a666732f04-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/sea-edm",
-    "starts_at": 1795827600,
-    "ends_at": 1795838400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/sea-edm"
-  },
-  {
     "name": "Kill Tony LIVE New Year's Eve 2026",
     "poster": "https://static.ppvservices.st/assets/thumb/b34215465588fabefc5ed64051b4f8fc-thumbnail.jpg",
     "tag": "PPV",
@@ -1307,17 +1263,6 @@
     "ends_at": 10860,
     "status": "live",
     "page": "https://ppv.st/live/tennis-channel"
-  },
-  {
-    "name": "WWE Friday Night Smackdown",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-27",
-    "starts_at": 1795827600,
-    "ends_at": 1795838400,
-    "status": "live",
-    "page": "https://ppv.st/live/wwe/2026-11-27"
   },
   {
     "name": "AEW Saturday Night Collision",
