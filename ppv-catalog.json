@@ -447,7 +447,7 @@
     "uri": "nba/2026-11-27/mem-min",
     "starts_at": 1795829400,
     "ends_at": 1795840200,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/nba/2026-11-27/mem-min"
   },
   {
@@ -1296,17 +1296,6 @@
     "ends_at": 14400,
     "status": "live",
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "New York Rangers vs Chicago Blackhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/ca50bc836fcc90d324e79cf8d7e00543-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/nyr-chi",
-    "starts_at": 1795818600,
-    "ends_at": 1795829400,
-    "status": "live",
-    "page": "https://ppv.st/live/nhl/2026-11-27/nyr-chi"
   },
   {
     "name": "Winnipeg Jets vs New York Islanders",
