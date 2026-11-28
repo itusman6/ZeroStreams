@@ -352,17 +352,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Miami Heat vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/fd1cfc9d598b192261d9f565f491dcaf-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/mia-ny",
-    "starts_at": 1795824000,
-    "ends_at": 1795834800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/mia-ny"
-  },
-  {
     "name": "Milwaukee Bucks vs Detroit Pistons",
     "poster": "https://static.ppvservices.st/assets/thumb/8ca603d900763d4607c088ec81390f47-thumbnail.jpg",
     "tag": "NBA",
@@ -623,7 +612,7 @@
     "uri": "mls/2026-11-27/rsl-van",
     "starts_at": 1795834800,
     "ends_at": 1795845600,
-    "status": "upcoming",
+    "status": "live",
     "page": "https://ppv.st/live/mls/2026-11-27/rsl-van"
   },
   {
