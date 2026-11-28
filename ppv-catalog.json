@@ -671,17 +671,6 @@
     "page": "https://ppv.st/live/eredivisie/2026-11-28/exc-tel"
   },
   {
-    "name": "Angers vs Lens",
-    "poster": "https://static.ppvservices.st/assets/thumb/6ad401333800481fcdcf7645c388161d-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-28/ang-rcl",
-    "starts_at": 1795882500,
-    "ends_at": 1795891500,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/ligue1/2026-11-28/ang-rcl"
-  },
-  {
     "name": "Torino vs Lazio",
     "poster": "https://static.ppvservices.st/assets/thumb/914b6c2cd69cb1b4b6441717d7400099-thumbnail.jpg",
     "tag": "Serie A",
@@ -768,50 +757,6 @@
     "ends_at": 1795904100,
     "status": "upcoming",
     "page": "https://ppv.st/live/seriea/2026-11-28/int-gen"
-  },
-  {
-    "name": "Le Havre AC vs Strasbourg",
-    "poster": "https://static.ppvservices.st/assets/thumb/afe0b7178f36976ba07f8e10ff47d626-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-28/hac-str",
-    "starts_at": 1795895100,
-    "ends_at": 1795904100,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/ligue1/2026-11-28/hac-str"
-  },
-  {
-    "name": "Le Mans vs Lille",
-    "poster": "https://static.ppvservices.st/assets/thumb/c33b54b5ce4e65c8736865f68c9f7f87-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-28/mns-lill",
-    "starts_at": 1795895100,
-    "ends_at": 1795904100,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/ligue1/2026-11-28/mns-lill"
-  },
-  {
-    "name": "Nice vs Troyes",
-    "poster": "https://static.ppvservices.st/assets/thumb/bf104481f03bbe1ede8a077c5b5952b8-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-28/nice-try",
-    "starts_at": 1795895100,
-    "ends_at": 1795904100,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/ligue1/2026-11-28/nice-try"
-  },
-  {
-    "name": "Paris Saint-Germain vs Lorient",
-    "poster": "https://static.ppvservices.st/assets/thumb/49941b40df073e9269818e25b739cb42-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-28/psg-lor",
-    "starts_at": 1795895100,
-    "ends_at": 1795904100,
-    "status": "upcoming",
-    "page": "https://ppv.st/live/ligue1/2026-11-28/psg-lor"
   },
   {
     "name": "Real Madrid vs Alav\u00e9s",
