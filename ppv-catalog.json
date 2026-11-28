@@ -341,50 +341,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Los Angeles Lakers vs San Antonio Spurs",
-    "poster": "https://static.ppvservices.st/assets/thumb/d7e2c4dd185f7d9b795cca4f9e9a327e-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/lal-sa",
-    "starts_at": 1795833000,
-    "ends_at": 1795843800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/lal-sa"
-  },
-  {
-    "name": "Denver Nuggets vs Utah Jazz",
-    "poster": "https://static.ppvservices.st/assets/thumb/4e5dc37469424e4d422f7f5e7c6b41bf-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/den-utah",
-    "starts_at": 1795833000,
-    "ends_at": 1795843800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/den-utah"
-  },
-  {
-    "name": "New Orleans Pelicans vs Los Angeles Clippers",
-    "poster": "https://static.ppvservices.st/assets/thumb/f71ca46a948baed113f2f71f25ce62c3-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/no-lac",
-    "starts_at": 1795833000,
-    "ends_at": 1795843800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/no-lac"
-  },
-  {
-    "name": "Golden State Warriors vs Portland Trail Blazers",
-    "poster": "https://static.ppvservices.st/assets/thumb/e4b703576104c3f8fbb7e6e80e69df28-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/gs-por",
-    "starts_at": 1795833000,
-    "ends_at": 1795843800,
-    "status": "live",
-    "page": "https://ppv.st/live/nba/2026-11-27/gs-por"
-  },
-  {
     "name": "Orlando Magic vs Washington Wizards",
     "poster": "https://static.ppvservices.st/assets/thumb/5f2c06328219573a23651b2455d92a29-thumbnail.jpg",
     "tag": "NBA",
